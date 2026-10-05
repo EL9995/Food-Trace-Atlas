@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Food Trace Atlas</title>
+<meta name="description" content="Daily and weekly reports of FDA recall notices, with the product photos FDA publishes. Pick the categories you care about. Facts from FDA.gov, sourced and dated.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="All FDA recalls" href="feeds/all.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/site.css">
+<link rel="stylesheet" href="css/report.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="site-head">
+    <a class="brand" href="./">Food Trace <span>Atlas</span></a>
+    <nav class="site-nav" aria-label="Pages"><a href="./" aria-current="page">Recall report</a><a href="check.html">Barcode check</a></nav>
+  </header>
+
+  <p class="eyebrow" id="checked">FDA recall report</p>
+  <h1>What got recalled</h1>
+  <p class="lede">New FDA recall notices, collected from FDA.gov every few hours. Pick the categories you care about and read it as a list or flip through it as slides.</p>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Report length">
+      <button type="button" data-range="day">Daily</button>
+      <button type="button" data-range="week">Weekly</button>
+    </div>
+    <div class="period">
+      <button type="button" class="icon" id="prev" aria-label="Earlier">‹</button>
+      <span id="period-label"></span>
+      <button type="button" class="icon" id="next" aria-label="Later">›</button>
+    </div>
+  </div>
+
+  <details class="cats" id="cats">
+    <summary><span>My categories</span> <span class="cats-sum" id="cats-sum"></span></summary>
+    <p class="cats-help">FDA's own product types. A recall shows if it matches any category you pick. Saved in this browser only.</p>
+    <div class="cats-quick">
+      <button type="button" class="btn small" data-preset="all">All</button>
+      <button type="button" class="btn small" data-preset="food">Food only</button>
+      <button type="button" class="btn small" data-preset="none">None</button>
+    </div>
+    <div class="cats-list" id="cats-list"></div>
+  </details>
+
+  <div class="summary" id="summary"></div>
+  <div id="list"></div>
+
+  <section class="major">
+    <h2>Major recalls FDA is tracking</h2>
+    <p class="lede small">Large recalls that span many products and companies. FDA keeps adding products to these pages as the recall grows.</p>
+    <div id="major"></div>
+  </section>
+
+  <section class="follow card">
+    <h2>Get this report automatically</h2>
+    <p>Follow a feed in any feed reader app (for example Feedly, Inoreader or NetNewsWire). It updates when new FDA notices appear. Email reports are planned.</p>
+    <p class="feed-links" id="feeds"></p>
+  </section>
+
+  <p class="note">We check FDA's <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts" target="_blank" rel="noopener">Recalls, Market Withdrawals, &amp; Safety Alerts</a> and <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls" target="_blank" rel="noopener">Major Product Recalls</a> pages every few hours. Not every recall is posted there, and most meat, poultry and egg recalls come from USDA instead. Always confirm at <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts" target="_blank" rel="noopener">FDA.gov</a> and <a href="https://www.fsis.usda.gov/recalls" target="_blank" rel="noopener">FSIS.usda.gov</a>. Product photos are the label images FDA publishes with each notice.</p>
+</div>
+
+<div class="deck" id="deck" hidden role="dialog" aria-modal="true" aria-label="Recall slides">
+  <div class="deck-bar">
+    <span id="deck-count"></span>
+    <button type="button" class="icon" id="deck-close" aria-label="Close slides">✕</button>
+  </div>
+  <div class="deck-stage" id="deck-stage"></div>
+  <div class="deck-nav">
+    <button type="button" class="btn" id="deck-prev">‹ Back</button>
+    <button type="button" class="btn primary" id="deck-next">Next ›</button>
+  </div>
+</div>
+
+<script src="js/report.js"></script>
+</body>
+</html>

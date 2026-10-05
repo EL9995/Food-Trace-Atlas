@@ -3,15 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Food Recall Check (test)</title>
+<title>Barcode Check · Food Trace Atlas</title>
 <meta name="robots" content="noindex">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/site.css">
 <style>
-  /* Test page for the food recall check. Not linked from the live site. */
-  body { margin: 0; }
-  .wrap { max-width: 720px; }
+  /* Barcode check: product facts from USDA FoodData Central plus matching openFDA recalls. */
   .eyebrow { font: 500 12px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
   h1 { font-size: 28px; margin: 6px 0 8px; }
   .lede { color: var(--muted); margin-bottom: 20px; }
@@ -46,8 +45,12 @@
 </head>
 <body>
 <div class="wrap">
+  <header class="site-head">
+    <a class="brand" href="./">Food Trace <span>Atlas</span></a>
+    <nav class="site-nav" aria-label="Pages"><a href="./">Recall report</a><a href="check.html" aria-current="page">Barcode check</a></nav>
+  </header>
   <p class="eyebrow">Test page · early preview</p>
-  <h1>Food recall check</h1>
+  <h1>Barcode recall check</h1>
   <p class="lede">Type or scan a barcode (UPC) to see the product from USDA FoodData Central and any matching FDA recall from openFDA.</p>
 
   <form id="f">

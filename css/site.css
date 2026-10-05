@@ -1,0 +1,19 @@
+/* Shared page frame: header, navigation, buttons, cards, tags. Page-specific styles stay in each page. */
+body { margin: 0; }
+.wrap { max-width: 760px; }
+.site-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-bottom: 14px; margin-bottom: 22px; border-bottom: 1px solid var(--line); }
+.brand { font-weight: 700; text-decoration: none; letter-spacing: -.01em; }
+.brand span { color: var(--accent); }
+.site-nav { display: flex; gap: 4px; }
+.site-nav a { text-decoration: none; font-size: 14px; font-weight: 500; padding: 6px 10px; border-radius: 6px; color: var(--muted); }
+.site-nav a[aria-current="page"] { background: var(--soft); color: var(--ink); }
+.eyebrow { font: 500 12px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-size: 28px; margin: 6px 0 8px; }
+.lede { color: var(--muted); margin-bottom: 20px; }
+.btn { padding: 10px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 600; }
+.btn.primary { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+.btn:disabled { opacity: .5; cursor: default; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-top: 16px; }
+.tag { display: inline-block; font: 500 11px var(--f-mono); text-transform: uppercase; letter-spacing: .06em; padding: 2px 6px; border-radius: 4px; border: 1px solid currentColor; color: var(--muted); }
+.src { font-size: 13px; color: var(--muted); margin-top: 10px; }
+.note { font-size: 14px; color: var(--muted); margin-top: 24px; border-top: 1px solid var(--line); padding-top: 12px; }
