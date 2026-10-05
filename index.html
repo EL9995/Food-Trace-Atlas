@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Food Recall Check (test)</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/tokens.css">
+<style>
+  /* Test page for the food recall check. Not linked from the live site. */
+  body { margin: 0; }
+  .wrap { max-width: 720px; }
+  .eyebrow { font: 500 12px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  h1 { font-size: 28px; margin: 6px 0 8px; }
+  .lede { color: var(--muted); margin-bottom: 20px; }
+  form { display: flex; gap: 8px; flex-wrap: wrap; }
+  input[type=text] { flex: 1 1 220px; min-width: 0; font: 500 18px var(--f-mono); padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); }
+  .btn { padding: 10px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 600; }
+  .btn.primary { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+  .samples { margin: 10px 0 0; font-size: 14px; color: var(--muted); }
+  .samples button { background: none; border: 0; padding: 0; font: 14px var(--f-mono); color: var(--accent); cursor: pointer; text-decoration: underline; }
+  video { width: 100%; max-height: 260px; border-radius: 8px; margin-top: 12px; background: #000; object-fit: cover; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-top: 16px; }
+  .card h2 { font-size: 18px; margin-bottom: 8px; }
+  .kv { display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; font-size: 15px; }
+  .kv dt { color: var(--muted); }
+  .kv dd { margin: 0; overflow-wrap: anywhere; }
+  .ingredients { font-size: 14px; color: var(--muted); margin-top: 8px; }
+  .status { font-weight: 600; padding: 10px 12px; border-radius: 8px; border-left: 4px solid; background: var(--soft); }
+  .status.clear { border-color: var(--sev-good); }
+  .status.hit { border-color: var(--sev-major); }
+  .status.maybe { border-color: var(--sev-moderate); }
+  .recall { border-top: 1px solid var(--line); padding-top: 12px; margin-top: 12px; font-size: 15px; }
+  .recall .tag { display: inline-block; font: 500 11px var(--f-mono); text-transform: uppercase; letter-spacing: .06em; padding: 2px 6px; border-radius: 4px; margin-right: 6px; border: 1px solid currentColor; }
+  .tag.confirmed { color: var(--sev-major); }
+  .tag.inferred { color: var(--sev-moderate); }
+  .tag.cls { color: var(--muted); }
+  .codes { font: 13px var(--f-mono); background: var(--soft); padding: 8px; border-radius: 6px; white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 6px; }
+  .src { font-size: 13px; color: var(--muted); margin-top: 10px; }
+  .note { font-size: 14px; color: var(--muted); margin-top: 20px; border-top: 1px solid var(--line); padding-top: 12px; }
+  .err { color: var(--sev-major); }
+  details summary { cursor: pointer; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="eyebrow">Test page · early preview</p>
+  <h1>Food recall check</h1>
+  <p class="lede">Type or scan a barcode (UPC) to see the product from USDA FoodData Central and any matching FDA recall from openFDA.</p>
+
+  <form id="f">
+    <input id="code" type="text" inputmode="numeric" autocomplete="off" placeholder="e.g. 048737002276" aria-label="Barcode number">
+    <button class="btn primary" type="submit">Check</button>
+    <button class="btn" type="button" id="scan" hidden>Scan with camera</button>
+  </form>
+  <p class="samples">Try: <button data-code="048737002276">048737002276</button> (product, no recall) · <button data-code="812235023309">812235023309</button> (recalled in 2026)</p>
+  <video id="cam" playsinline muted hidden></video>
+
+  <div id="out"></div>
+
+  <p class="note">We check FDA recall data (openFDA, updated weekly). This test does not yet check USDA FSIS recalls for meat, poultry and eggs, or FDA's same-day announcements. Always confirm at <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts" target="_blank" rel="noopener">FDA.gov</a> and <a href="https://www.fsis.usda.gov/recalls" target="_blank" rel="noopener">FSIS.usda.gov</a>.</p>
+
+  <details class="note">
+    <summary>Settings</summary>
+    <p style="margin-top:8px">FoodData Central key (free from <a href="https://fdc.nal.usda.gov/api-key-signup" target="_blank" rel="noopener">api.data.gov</a>). Empty uses the shared DEMO_KEY, which allows about 30 lookups an hour.</p>
+    <input id="key" type="text" autocomplete="off" placeholder="DEMO_KEY" style="width:100%;margin-top:6px">
+  </details>
+</div>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const out = $('#out');
+  const FDC = 'https://api.nal.usda.gov/fdc/v1';
+  const OPENFDA = 'https://api.fda.gov/food/enforcement.json';
+
+  const store = {
+    get(k) { try { return localStorage.getItem(k) || ''; } catch { return ''; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+  };
+  $('#key').value = store.get('fdcKey');
+  $('#key').addEventListener('change', (e) => store.set('fdcKey', e.target.value.trim()));
+
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const today = () => new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD in the viewer's time zone
+  const fmtDate = (d) => (d && d.length === 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6)}` : d || '');
+  const digits = (s) => String(s || '').replace(/\D/g, '');
+
+  // Normalize any UPC-A / EAN-13 / GTIN-14 to a 12-digit UPC-A when possible, else keep the digits.
+  function canon(code) {
+    let d = digits(code).replace(/^0+(?=\d{12})/, '');
+    if (d.length === 11) d = '0' + d; // leading zero often dropped
+    return d;
+  }
+
+  // Recall notices write barcodes many ways ("812235023309", "8 12235 02330 9", "8-12235-02330",
+  // "12235 02330", leading zero dropped). Build openFDA queries for the common ones.
+  function recallQuery(upc) {
+    const v = new Set([upc, upc.replace(/^0+/, ''), '0' + upc, upc.slice(0, -1)]);
+    const phrases = [];
+    if (upc.length === 12) {
+      phrases.push(`${upc[0]} ${upc.slice(1, 6)} ${upc.slice(6, 11)} ${upc[11]}`);
+      phrases.push(`${upc.slice(1, 6)} ${upc.slice(6, 11)}`);
+    } else if (upc.length === 13) {
+      phrases.push(`${upc[0]} ${upc.slice(1, 7)} ${upc.slice(7)}`);
+    }
+    const terms = [...v, ...phrases].map((t) => `"${t}"`);
+    // openFDA drops matches from a bare OR list; it must be wrapped in parentheses.
+    return `(${terms.flatMap((t) => [`code_info:${t}`, `product_description:${t}`]).join(' OR ')})`;
+  }
+
+  // A notice is a confirmed barcode match only if the barcode digits (minus check digit) appear in its text.
+  function barcodeIn(r, upc) {
+    const text = digits(`${r.code_info} ${r.product_description}`);
+    const body = upc.slice(0, -1).replace(/^0+/, '');
+    return text.includes(body) || (upc.length === 12 && text.includes(upc.slice(1, 11)));
+  }
+
+  async function getJSON(url) {
+    const res = await fetch(url);
+    if (res.status === 404) return null; // openFDA uses 404 for "no matches"
+    if (!res.ok) throw new Error(`${new URL(url).host} answered ${res.status}`);
+    return res.json();
+  }
+
+  async function lookupProduct(upc) {
+    const key = store.get('fdcKey') || 'DEMO_KEY';
+    const url = `${FDC}/foods/search?api_key=${encodeURIComponent(key)}&dataType=Branded&pageSize=10&query=${upc}`;
+    const d = await getJSON(url);
+    const foods = (d?.foods || []).filter((f) => canon(f.gtinUpc) === upc);
+    foods.sort((a, b) => (b.publishedDate || '').localeCompare(a.publishedDate || ''));
+    return foods[0] || null;
+  }
+
+  async function lookupRecalls(upc) {
+    const url = `${OPENFDA}?search=${encodeURIComponent(recallQuery(upc))}&limit=50&sort=report_date:desc`;
+    const d = await getJSON(url);
+    // A "no matches" answer carries no metadata, so ask separately how fresh the data is.
+    const updated = d?.meta?.last_updated || (await getJSON(`${OPENFDA}?limit=1`))?.meta?.last_updated;
+    return { results: (d?.results || []).filter((r) => barcodeIn(r, upc)), updated };
+  }
+
+  // Firm-name fallback: recalls in the last 3 years from a company whose name matches the brand owner.
+  // Shown as "inferred": same company name, not this barcode.
+  async function lookupFirm(owner) {
+    const words = (owner || '').replace(/[^A-Za-z0-9 ]/g, ' ').split(/\s+/).filter((w) => w.length > 2 && !/^(inc|llc|co|corp|company|the|foods?)$/i.test(w));
+    if (!words.length) return [];
+    const from = new Date(Date.now() - 3 * 365 * 864e5).toISOString().slice(0, 10).replace(/-/g, '');
+    const q = `recalling_firm:"${words.slice(0, 2).join(' ')}" AND report_date:[${from} TO 29991231]`;
+    const d = await getJSON(`${OPENFDA}?search=${encodeURIComponent(q)}&limit=10&sort=report_date:desc`);
+    return d?.results || [];
+  }
+
+  function productCard(p, upc) {
+    if (!p) {
+      return `<div class="card"><h2>Product</h2><p>Not found in USDA FoodData Central for barcode <b>${esc(upc)}</b>. Not every product is listed.</p>
+        <p class="src">Source: <a href="https://fdc.nal.usda.gov/" target="_blank" rel="noopener">USDA FoodData Central</a> · retrieved ${today()}</p></div>`;
+    }
+    return `<div class="card"><h2>${esc(p.description)}</h2>
+      <dl class="kv">
+        <dt>Brand</dt><dd>${esc(p.brandName || p.brandOwner || 'Not listed')}</dd>
+        <dt>Brand owner</dt><dd>${esc(p.brandOwner || 'Not listed')}</dd>
+        ${p.subbrandName ? `<dt>Sub-brand</dt><dd>${esc(p.subbrandName)}</dd>` : ''}
+        <dt>Category</dt><dd>${esc(p.brandedFoodCategory || 'Not listed')}</dd>
+        <dt>Barcode</dt><dd>${esc(p.gtinUpc)}</dd>
+        <dt>Manufacturer / plant</dt><dd>Not disclosed in this source</dd>
+        <dt>Data published</dt><dd>${esc(p.publishedDate || '')}</dd>
+      </dl>
+      ${p.ingredients ? `<p class="ingredients"><b>Ingredients:</b> ${esc(p.ingredients)}</p>` : ''}
+      <p class="src">Source: <a href="https://fdc.nal.usda.gov/food-details/${p.fdcId}/nutrients" target="_blank" rel="noopener">USDA FoodData Central #${p.fdcId}</a> · retrieved ${today()}</p></div>`;
+  }
+
+  function recallItem(r, kind) {
+    const link = `https://www.accessdata.fda.gov/scripts/ires/index.cfm?Product=${encodeURIComponent(r.recall_number)}`;
+    return `<div class="recall">
+      <span class="tag ${kind}">${kind === 'confirmed' ? 'Barcode match' : 'Same company name, not this barcode'}</span>
+      <span class="tag cls">${esc(r.classification)}</span><span class="tag cls">${esc(r.status)}</span>
+      <p style="margin-top:6px"><b>${esc(r.recalling_firm)}</b> · reported ${esc(fmtDate(r.report_date))} · ${esc(r.recall_number)}</p>
+      <p>${esc(r.product_description)}</p>
+      <p><b>Reason:</b> ${esc(r.reason_for_recall)}</p>
+      <p><b>Distribution:</b> ${esc(r.distribution_pattern)}</p>
+      <div class="codes"><b>Lot, date and code info from the notice:</b>\n${esc(r.code_info || 'Not provided')}</div>
+      <p class="src">Source: <a href="${link}" target="_blank" rel="noopener">FDA Enforcement Report</a> via openFDA · retrieved ${today()}</p>
+    </div>`;
+  }
+
+  function recallCard(confirmed, firm, updated) {
+    let head;
+    if (confirmed.length) head = `<p class="status hit">${confirmed.length} FDA recall notice${confirmed.length > 1 ? 's' : ''} mention${confirmed.length > 1 ? '' : 's'} this barcode. Check the lot and date codes on your package against the notice.</p>`;
+    else if (firm.length) head = `<p class="status maybe">No FDA recall found for this barcode. The same company name appears in other recent FDA recalls, listed below for reference.</p>`;
+    else head = `<p class="status clear">No FDA recall found for this barcode. This is not a guarantee: recall notices don't always list barcodes.</p>`;
+    return `<div class="card"><h2>FDA recalls</h2>${head}
+      ${confirmed.map((r) => recallItem(r, 'confirmed')).join('')}
+      ${firm.map((r) => recallItem(r, 'inferred')).join('')}
+      <p class="src">openFDA food enforcement data, last updated ${esc(updated || 'unknown')}. openFDA lags FDA's same-day announcements by up to a week or more.</p></div>`;
+  }
+
+  async function check(raw) {
+    const upc = canon(raw);
+    if (upc.length < 12 || upc.length > 13) {
+      out.innerHTML = `<div class="card err">Enter the 12-digit number under the barcode (UPC) or a 13-digit EAN.</div>`;
+      return;
+    }
+    out.innerHTML = `<div class="card">Checking ${esc(upc)}…</div>`;
+    try {
+      const [product, recalls] = await Promise.all([lookupProduct(upc), lookupRecalls(upc)]);
+      let firm = [];
+      if (product?.brandOwner) {
+        const seen = new Set(recalls.results.map((r) => r.recall_number));
+        firm = (await lookupFirm(product.brandOwner)).filter((r) => !seen.has(r.recall_number));
+      }
+      out.innerHTML = productCard(product, upc) + recallCard(recalls.results, firm, recalls.updated);
+    } catch (e) {
+      out.innerHTML = `<div class="card err">Couldn't finish the check: ${esc(e.message)}. If this says 429, the shared DEMO_KEY is used up for the hour; add your own key under Settings.</div>`;
+    }
+  }
+
+  $('#f').addEventListener('submit', (e) => { e.preventDefault(); check($('#code').value); });
+  document.querySelectorAll('[data-code]').forEach((b) => b.addEventListener('click', () => { $('#code').value = b.dataset.code; check(b.dataset.code); }));
+
+  // Camera scanning where the browser has a built-in barcode reader (Chrome on Android, some desktops).
+  if ('BarcodeDetector' in window && navigator.mediaDevices?.getUserMedia) {
+    const btn = $('#scan'); const video = $('#cam');
+    btn.hidden = false;
+    btn.addEventListener('click', async () => {
+      const detector = new BarcodeDetector({ formats: ['upc_a', 'upc_e', 'ean_13', 'ean_8'] });
+      const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+      video.srcObject = stream; video.hidden = false; await video.play();
+      const stop = () => { stream.getTracks().forEach((t) => t.stop()); video.hidden = true; };
+      const tick = async () => {
+        if (video.hidden) return;
+        const [hit] = await detector.detect(video).catch(() => []);
+        if (hit) { stop(); $('#code').value = hit.rawValue; check(hit.rawValue); } else requestAnimationFrame(tick);
+      };
+      tick();
+    });
+  }
+})();
+</script>
+</body>
+</html>

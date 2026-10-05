@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Placeholder icon until a logo is chosen: the six neurotransmitter colors on a ring -->
+  <rect width="64" height="64" rx="14" fill="#0a1226"/>
+  <path d="M32 11 L50.2 21.5 L50.2 42.5 L32 53 L13.8 42.5 L13.8 21.5 Z" fill="none" stroke="#7fe6ff" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="32" cy="32" r="6" fill="#4f7dff"/>
+  <circle cx="32" cy="11" r="6" fill="#ffb340"/>
+  <circle cx="50.2" cy="21.5" r="6" fill="#ff6961"/>
+  <circle cx="50.2" cy="42.5" r="6" fill="#c77dff"/>
+  <circle cx="32" cy="53" r="6" fill="#40e0d0"/>
+  <circle cx="13.8" cy="42.5" r="6" fill="#ff6b8b"/>
+  <circle cx="13.8" cy="21.5" r="6" fill="#4da3ff"/>
+</svg>

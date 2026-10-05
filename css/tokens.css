@@ -1,0 +1,59 @@
+/* Theme tokens: colors, fonts, light and dark mode, base element styles. */
+
+/* Layout: single reading column; each neurotransmitter carries its own hue through every page it touches. */
+:root {
+  --bg: #f3f6fa;
+  --surface: #ffffff;
+  --ink: #0a1226;
+  --muted: #55627c;
+  --line: #d5dce8;
+  --soft: #e8edf5;
+  --accent: #2e55e6;
+  --signal: #0e8fb0;
+  --on-accent: #ffffff;
+
+  --c-dopamine: #b86200;
+  --c-norepinephrine: #c23b22;
+  --c-serotonin: #6548c2;
+  --c-gaba: #0b8475;
+  --c-glutamate: #b02d6a;
+  --c-acetylcholine: #2766b8;
+
+  --sev-major: #c0262d;
+  --sev-moderate: #b26a00;
+  --sev-minor: #66737d;
+  --sev-good: #1f8a4c;
+  --sev-info: var(--c-acetylcholine);
+
+  --f-display: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+
+  --nt: var(--ink);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #060a14; --surface: #0d1424; --ink: #e8edf7; --muted: #8794b0; --line: #1a2540; --soft: #121b30; --accent: #4f7dff; --signal: #7fe6ff; --on-accent: #060a14;
+    --c-dopamine: #f0a24a; --c-norepinephrine: #ff7d62; --c-serotonin: #ab97ff;
+    --c-gaba: #3fd0bb; --c-glutamate: #f27db3; --c-acetylcholine: #7fb0ff;
+    --sev-major: #ff6b6b; --sev-moderate: #f0a24a; --sev-minor: #98a8b3; --sev-good: #5fd38f;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #060a14; --surface: #0d1424; --ink: #e8edf7; --muted: #8794b0; --line: #1a2540; --soft: #121b30; --accent: #4f7dff; --signal: #7fe6ff; --on-accent: #060a14;
+  --c-dopamine: #f0a24a; --c-norepinephrine: #ff7d62; --c-serotonin: #ab97ff;
+  --c-gaba: #3fd0bb; --c-glutamate: #f27db3; --c-acetylcholine: #7fb0ff;
+  --sev-major: #ff6b6b; --sev-moderate: #f0a24a; --sev-minor: #98a8b3; --sev-good: #5fd38f;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 920px; margin: 0 auto; padding-inline: 20px; padding-block: 20px 56px; }
+h1, h2, h3 { font-family: var(--f-display); line-height: 1.1; text-wrap: balance; margin: 0; }
+p { margin: 0; }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--nt); outline-offset: 2px; border-radius: 4px; }
+
