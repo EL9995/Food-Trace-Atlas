@@ -1,13 +1,16 @@
-# Publishes the site to GitHub Pages on every push to main.
-name: Deploy site to GitHub Pages
+# Collects new FDA recall notices every 6 hours, saves them to data/ and feeds/, and publishes the site.
+# Also publishes on every push to main. Commits made by this job don't start it again.
+name: Collect recalls and deploy
 
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -23,10 +26,24 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Collect FDA recalls
+        run: python3 scripts/fetch_recalls.py
+      - name: Save new data
+        run: |
+          git add data feeds
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update FDA recall data"
+          git pull --rebase -X theirs origin main
+          git push
       - name: Collect the site files
         run: |
           mkdir _site
-          cp -r index.html favicon.svg .nojekyll css _site/
+          cp -r index.html check.html favicon.svg .nojekyll css js data feeds _site/
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:

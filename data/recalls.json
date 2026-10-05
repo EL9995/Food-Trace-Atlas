@@ -1,0 +1,3928 @@
+{
+ "generated": "2026-10-05T18:23:07Z",
+ "sources": [
+  {
+   "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts"
+  },
+  {
+   "name": "FDA Major Product Recalls",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls"
+  }
+ ],
+ "note": "Collected from FDA.gov every few hours. Not every recall is posted on FDA.gov (USDA FSIS handles most meat, poultry and egg recalls). Always confirm at FDA.gov.",
+ "recalls": [
+  {
+   "id": "flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
+   "fda_publish_date": "2026-10-05",
+   "brands": "Nature's Own",
+   "product": "Nature's Own Hawaiian Bread, 20oz single loaf and 40 oz 2-pack",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared milk allergen",
+   "company": "Flowers Foods, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:11Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_249.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_249.png?itok=Ao_7COqG",
+     "alt": "Image of Primary Label, Nature’s Own® Hawaiian Bread net weight of 20 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_194.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_194.png?itok=70pMSdlu",
+     "alt": "Image of Back Label, Nature’s Own® Hawaiian Bread net weight of 20 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_107.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_107.png?itok=fW-sfz6s",
+     "alt": "Image of Side Panel, Nature’s Own® Hawaiian Bread net weight of 20 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_88.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_88.png?itok=O_BIETPM",
+     "alt": "Image of Primary Label, Nature’s Own® 2-pack Hawaiian Bread net weight of 40 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_51.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_51.png?itok=fm8Mg_wK",
+     "alt": "Image of Back Label, Nature’s Own® 2-pack Hawaiian Bread net weight of 40 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_39.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_39.png?itok=bOhOIS7L",
+     "alt": "Image of Side Panel, Nature’s Own® 2-pack Hawaiian Bread net weight of 40 oz."
+    }
+   ],
+   "company_announcement_date": "2026-10-02"
+  },
+  {
+   "id": "saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy",
+   "fda_publish_date": "2026-10-03",
+   "brands": "Saint Francis",
+   "product": "Pepperoni, Plain Cheese, Supreme, and Mushroom and Onion frozen pizzas",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Undeclared soy allergen",
+   "company": "Saint Francis Apizza LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:13Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-10-01"
+  },
+  {
+   "id": "frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic",
+   "fda_publish_date": "2026-10-02",
+   "brands": "Great Value, Trader Joe’s",
+   "product": "Organic Blueberries, Triple Berry Blend and Mixed Berry Blend",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential E. Coli O145:H28 Contamination",
+   "company": "Frutas y Hortalizas del Sur S.A.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:15Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/2026.10.02_-_walmart_gvo_blueberries_10_oz.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2026.10.02_-_walmart_gvo_blueberries_10_oz.png?itok=IuMd0cJ8",
+     "alt": "Organic Great Value Blueberries, NET WT 10 OZ, UPC 7874211213"
+    },
+    {
+     "src": "https://www.fda.gov/files/2026.10.02_-_walmart_gvo_tripleberry_blend_10_oz.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2026.10.02_-_walmart_gvo_tripleberry_blend_10_oz.jpg?itok=dxht7edN",
+     "alt": "Organic Great Value Triple Berry Blend, Strawberries, blackberries & blueberries NET WT 10 OZ, UPC 7874211226"
+    },
+    {
+     "src": "https://www.fda.gov/files/2026.10.02_tj_organic_berry_blend.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2026.10.02_tj_organic_berry_blend.png?itok=biKESH-8",
+     "alt": "Trader Joe’s Oragnic Mixed Berry Blend, Strawberries, Blackberries, Blueberries & Raspberries, NET WT 12 OZ, UPC 00977654"
+    }
+   ],
+   "company_announcement_date": "2026-10-02"
+  },
+  {
+   "id": "eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom",
+   "fda_publish_date": "2026-10-02",
+   "brands": "Home Grown",
+   "product": "Green Sprouting Calabrese Broccoli Seeds",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "EAK Distribution LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:17Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_294.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_294.jpg?itok=pdqZiytN",
+     "alt": "Front package label, HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_229.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_229.jpg?itok=rJQc5g7d",
+     "alt": "Back package label, HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_120.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_120.jpg?itok=UNb4e6Nz",
+     "alt": "Embossed top seal, Lot Code of AUG172026, HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom"
+    }
+   ],
+   "company_announcement_date": "2026-10-02"
+  },
+  {
+   "id": "winco-foods-boise-id-recalling-following-salsa-bean-dip-trays-due-inclusion-recalled-peperoncini-gl",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/winco-foods-boise-id-recalling-following-salsa-bean-dip-trays-due-inclusion-recalled-peperoncini-gl",
+   "fda_publish_date": "2026-10-02",
+   "brands": "WinCo Foods",
+   "product": "Salsa Bean Dip",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Potential pest inclusion",
+   "company": "WinCo Foods LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:19Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_293.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_293.jpg?itok=5erLeAOS",
+     "alt": "Image of Product, WinCo Foods Salsa Bean Dip Tray Express net weight of 54oz UPC 2-67173-##### and WinCo Foods Salsa Bean Dip Tray, 16 Inch Catering Tray(by special order only) net weight of 104oz UPC 2-67240-#####"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_228.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_228.jpg?itok=uFcn-6Ec",
+     "alt": "Image of Labels, WinCo Foods Salsa Bean Dip Tray Express net weight of 54oz UPC 2-67173-##### and WinCo Foods Salsa Bean Dip Tray, 16 Inch Catering Tray(by special order only) net weight of 104oz UPC 2-67240-#####"
+    }
+   ],
+   "company_announcement_date": "2026-10-01"
+  },
+  {
+   "id": "stewarts-shop-corp-recalls-heavenly-medley-and-vanilla-chocolate-strawberry-due-possible-foreign",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/stewarts-shop-corp-recalls-heavenly-medley-and-vanilla-chocolate-strawberry-due-possible-foreign",
+   "fda_publish_date": "2026-10-02",
+   "brands": "Stewart’s Shops",
+   "product": "Ice cream",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Potential presence of metal",
+   "company": "Stewart’s Shop Corp",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:22Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_2_230.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_230.jpg?itok=4EpohNnd",
+     "alt": "Image of Labels, Stewarts Shops Heavenly Medley, One Half Gallon (1.89L)"
+    },
+    {
+     "src": "https://www.fda.gov/files/rev_image_1_11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_1_11.png?itok=s_5gJZ3v",
+     "alt": "Image of Labels, Stewarts Shops Vanilla chocolate Strawberry Ice Cream, One Half Gallon (1.89L)"
+    }
+   ],
+   "company_announcement_date": "2026-10-02"
+  },
+  {
+   "id": "gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0",
+   "fda_publish_date": "2026-10-01",
+   "brands": "Bettergoods",
+   "product": "Pasta",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Potential to be contaminated with Listeria monocytogenes",
+   "company": "Gias Foods, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:24Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/bg11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bg11.png?itok=gazIP8op",
+     "alt": "Bettergoods Lemon Alfredo Fettuccine 22 oz bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/bg22.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bg22.png?itok=EdyMSi7l",
+     "alt": "Bettergoods Lemon Alfredo Fettuccine UPC 194346442706"
+    }
+   ],
+   "company_announcement_date": "2026-10-01"
+  },
+  {
+   "id": "greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+   "fda_publish_date": "2026-10-01",
+   "brands": "Greewich",
+   "product": "Glutathione Injection",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential elevated endotoxin levels",
+   "company": "Greenwich Rx",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:26Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_2_193.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_193.png?itok=_DB1uBoD",
+     "alt": "Greenwich Glutathione Injection 200mg/mL"
+    }
+   ],
+   "company_announcement_date": "2026-10-01"
+  },
+  {
+   "id": "sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk",
+   "fda_publish_date": "2026-09-29",
+   "brands": "Sierra Nevada Graziers",
+   "product": "Monterey Jack, Jalapeno Jack, Medium Cheddar, and Sharp Cheddar raw milk cheeses",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness",
+    "Cheese/Cheese Product"
+   ],
+   "reason": "Potential to be contaminated with Shiga toxin-producing Escherichia coli (STEC)",
+   "company": "Sierra Nevada Cheese Company",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:28Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_246.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_246.png?itok=4Jbh4MNM",
+     "alt": "Image of Sierra Nevada Graziers Raw Monterey Jack Cheese, 8 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_192.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_192.png?itok=Yf3Q3mYn",
+     "alt": "Image of Sierra Nevada Graziers Raw Jalapeno Jack Cheese, 8 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_106.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_106.png?itok=CeN_ZUIK",
+     "alt": "Image of Sierra Nevada Graziers Raw Medium Cheddar Cheese, 8 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_87.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_87.png?itok=vqLSOeBj",
+     "alt": "Image of Sierra Nevada Graziers Raw Sharp Cheddar Cheese, 8 oz."
+    }
+   ],
+   "company_announcement_date": "2026-09-28"
+  },
+  {
+   "id": "g-l-mezzetta-inc-announces-recall-mezzetta-brand-golden-greek-peperoncini-medium-heat-due-presence",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/g-l-mezzetta-inc-announces-recall-mezzetta-brand-golden-greek-peperoncini-medium-heat-due-presence",
+   "fda_publish_date": "2026-09-26",
+   "brands": "Mezzetta",
+   "product": "Greek peppers/ Golden Greek Peperoncini, Medium Heat",
+   "types": [
+    "Food & Beverages",
+    "Ingredients"
+   ],
+   "reason": "Product may contain foreign objects such as Pest contaminant in jar",
+   "company": "G. L. Mezzetta Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:30Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-09-26"
+  },
+  {
+   "id": "galil-importing-corp-recalls-lior-cinnamon-ground-seasoning-due-elevated-lead-levels",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/galil-importing-corp-recalls-lior-cinnamon-ground-seasoning-due-elevated-lead-levels",
+   "fda_publish_date": "2026-09-24",
+   "brands": "Lior",
+   "product": "Ground cinnamon",
+   "types": [
+    "Food & Beverages",
+    "Contaminants"
+   ],
+   "reason": "Potential to be contaminated with elevated levels of lead",
+   "company": "Galil Importing Corp",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:32Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/115-608_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/115-608_1.png?itok=UDaf7Y91",
+     "alt": "Image of bottle, Lior Gourmet Spices Cinnamon Ground Net Wt. 3.2 oz (90g) UPC 794711005484"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_227.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_227.jpg?itok=lxkblzm2",
+     "alt": "Image of label, Lior Gourmet Spices Cinnamon Ground Net Wt. 3.2 oz (90g) UPC 794711005484"
+    }
+   ],
+   "company_announcement_date": "2026-09-24"
+  },
+  {
+   "id": "deanos-pasta-issue-allergy-alert-undeclared-lobster-pear-and-pecorino-triangoli-ravioli",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/deanos-pasta-issue-allergy-alert-undeclared-lobster-pear-and-pecorino-triangoli-ravioli",
+   "fda_publish_date": "2026-09-24",
+   "brands": "Deano’s Pasta",
+   "product": "Pasta",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared crustacean shellfish (lobster) allergen",
+   "company": "Deano’s Pasta",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:34Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_291.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_291.jpg?itok=H8PIS5b0",
+     "alt": "Deano’s Pasta Pear and Pecorino Triangoli Ravioli packed in 1 lb. bag, UPC 644216993994"
+    }
+   ],
+   "company_announcement_date": "2026-09-24"
+  },
+  {
+   "id": "berlin-seeds-recalls-alfalfa-sprouting-seed-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/berlin-seeds-recalls-alfalfa-sprouting-seed-because-possible-health-risk",
+   "fda_publish_date": "2026-09-23",
+   "brands": "Berlin Seeds",
+   "product": "Alfalfa sprouting seeds",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Shiga toxin-producing Escherichia coli (STEC) and/or Salmonella",
+   "company": "Berlin Seeds",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:36Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_243.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_243.png?itok=wsMhQH6G",
+     "alt": "ALFALFA SPROUTING SEEDS BERLIN SEEDS 80777, 1lb"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_190.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_190.png?itok=xVoykqUP",
+     "alt": "ALFALFA SPROUTING SEEDS BERLIN SEEDS 80775, ¼ lb"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_104.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_104.png?itok=xgWnbpE2",
+     "alt": "ALFALFA SPROUTING SEEDS BERLIN SEEDS 80776, ½ lb"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_85.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_85.png?itok=_uNSWkZ5",
+     "alt": "SPROUTING SEED BERLIN SEEDS"
+    }
+   ],
+   "company_announcement_date": "2026-09-23"
+  },
+  {
+   "id": "wakefern-food-corp-voluntarily-recalls-wholesome-pantry-organic-unsweetened-apple-sauce",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wakefern-food-corp-voluntarily-recalls-wholesome-pantry-organic-unsweetened-apple-sauce",
+   "fda_publish_date": "2026-09-22",
+   "brands": "Wholesome Pantry",
+   "product": "Organic Unsweetened Apple Sauce",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Elevated levels of patulin",
+   "company": "Wakefern Food Corp.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:39Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/app1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/app1.jpeg?itok=vWqtgvAS",
+     "alt": "Wholesome Pantry Organic Unsweetened Applesauce, Net Wt. 23 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/app2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/app2.jpeg?itok=t2Jh4JJ8",
+     "alt": "Best By 6/16/2027 printed on top of lid"
+    }
+   ],
+   "company_announcement_date": "2026-09-14"
+  },
+  {
+   "id": "otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+   "fda_publish_date": "2026-09-21",
+   "brands": "ICU Medical LLC",
+   "product": "0.9% Sodium Chloride Injection, USP, 100 mL",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Product mix-up where 0.9% Sodium Chloride Injection, USP overwrap may contain 10 mEq Potassium Chloride Injection",
+   "company": "Otsuka ICU Medical LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:41Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/inj11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/inj11.png?itok=gEHK_TUQ",
+     "alt": "Label Example, 0.9% Sodium Choloride Injection USP 100mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/inj2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/inj2.jpg?itok=I6rDxbpt",
+     "alt": "Correct Overwrap Packaging"
+    },
+    {
+     "src": "https://www.fda.gov/files/inj3.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/inj3.jpg?itok=lcWwBQQQ",
+     "alt": "Incorrect IV Bag in overwrap, Potassium Chloride Injection"
+    }
+   ],
+   "company_announcement_date": "2026-09-17"
+  },
+  {
+   "id": "global-mix-inc-recalls-niwali-tejocote-capsules-and-niwali-tejocote-pieces-because-possible-health",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/global-mix-inc-recalls-niwali-tejocote-capsules-and-niwali-tejocote-pieces-because-possible-health",
+   "fda_publish_date": "2026-09-21",
+   "brands": "Niwali",
+   "product": "Tejocote Capsules and Pieces",
+   "types": [
+    "Dietary Supplements"
+   ],
+   "reason": "Products contain yellow oleander (Thevetia peruviana).",
+   "company": "Global Mix Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:43Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_242.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_242.png?itok=-srQxtZh",
+     "alt": "Product image - Niwali Tejocote Pieces 90 Day Supply"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_189.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_189.png?itok=BTeFfEK5",
+     "alt": "Product image -  Niwali Tejocote Capsules 90 Capsules"
+    }
+   ],
+   "company_announcement_date": "2026-09-21"
+  },
+  {
+   "id": "par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+   "fda_publish_date": "2026-09-21",
+   "brands": "Par Pharmaceutical",
+   "product": "Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) for Intravenous Infusion",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Presence of particulate matter identified as cellulose or stopper material",
+   "company": "Par Health",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:45Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_240.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_240.png?itok=Xv8s6hVC",
+     "alt": "Label, Dexmedetomidine HCl in 0.9% Sodium Chloride Injection with Lot 88802"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_187.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_187.png?itok=AHj3FD0O",
+     "alt": "Label, Dexmedetomidine HCl in 0.9% Sodium Chloride Injection with Lot 87558"
+    }
+   ],
+   "company_announcement_date": "2026-09-18"
+  },
+  {
+   "id": "saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato",
+   "fda_publish_date": "2026-09-18",
+   "brands": "J. HIGGS",
+   "product": "Loaded Bacon & Cheddar Potato Chips",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared soy allergen",
+   "company": "Saratoga Potato Chips LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:47Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_239.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_239.png?itok=QUdKyKkB",
+     "alt": "Image of J. HIGGS Loaded Bacon & Cheddar Potato Chips bag"
+    }
+   ],
+   "company_announcement_date": "2026-09-16"
+  },
+  {
+   "id": "gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix",
+   "fda_publish_date": "2026-09-18",
+   "brands": "Truly AIP, EAT G.A.N.G.S.T.E.R",
+   "product": "All purpose flour, bread mix, flat bread pizza mix",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared wheat allergen",
+   "company": "GF Blends",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:49Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/eat_gangster_flatbread_mix_front_.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/eat_gangster_flatbread_mix_front_.png?itok=RjoCJIiP",
+     "alt": "EAT GANGSTER Flatbread Mix Front"
+    },
+    {
+     "src": "https://www.fda.gov/files/truly_aip_all_purpose_front.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/truly_aip_all_purpose_front.png?itok=thPXWbQu",
+     "alt": "Truly AIP All Purpose Front"
+    },
+    {
+     "src": "https://www.fda.gov/files/truly_aip_-_all_purpose_back.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/truly_aip_-_all_purpose_back.png?itok=q3tMgfYE",
+     "alt": "Truly AIP - All Purpose Back"
+    },
+    {
+     "src": "https://www.fda.gov/files/truly_aip_bread_mix_-_front_.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/truly_aip_bread_mix_-_front_.png?itok=LTZj2SID",
+     "alt": "Truly AIP Bread Mix - Front"
+    },
+    {
+     "src": "https://www.fda.gov/files/truly_aip_bread_mix_back_.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/truly_aip_bread_mix_back_.png?itok=SQwnT6Cn",
+     "alt": "Truly AIP Bread Mix Back"
+    }
+   ],
+   "company_announcement_date": "2026-09-18"
+  },
+  {
+   "id": "ap-creations-llc-issues-nationwide-recall-biq-fel-due-undeclared-sildenafil-and-tadalafil",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-biq-fel-due-undeclared-sildenafil-and-tadalafil",
+   "fda_publish_date": "2026-09-15",
+   "brands": "biQ-FEL",
+   "product": "biQ-FEL 500mL supplement bottle",
+   "types": [
+    "Dietary Supplements",
+    "Food & Beverages"
+   ],
+   "reason": "Product contains sildenafil and tadalafil",
+   "company": "A&P Creations LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:51Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_237.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_237.png?itok=-77FKfJv",
+     "alt": "Front of bottle, biQ-FEL 500mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_185.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_185.png?itok=StVjAsIY",
+     "alt": "Back of bottle, biQ-FEL 500mL"
+    }
+   ],
+   "company_announcement_date": "2026-09-14"
+  },
+  {
+   "id": "so-delicious-dairy-freer-issues-voluntary-recall-salted-caramel-cluster-non-dairy-frozen-dessert",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/so-delicious-dairy-freer-issues-voluntary-recall-salted-caramel-cluster-non-dairy-frozen-dessert",
+   "fda_publish_date": "2026-09-15",
+   "brands": "So Delicious Dairy Free",
+   "product": "Salted Caramel Cluster Non-Dairy Frozen Dessert pints",
+   "types": [
+    "Food & Beverages",
+    "Ingredients"
+   ],
+   "reason": "Product may contain foreign objects such as small stones and other hard objects",
+   "company": "Danone USA",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:54Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_238.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_238.png?itok=OP9egQMr",
+     "alt": "Front of container, So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert pint"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_186.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_186.png?itok=mn-LJLyk",
+     "alt": "Bottom of container, So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert pint"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_103.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_103.png?itok=_Wg0dmGe",
+     "alt": "Label, So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert pint"
+    }
+   ],
+   "company_announcement_date": "2026-09-15"
+  },
+  {
+   "id": "ap-creations-llc-issues-nationwide-recall-x10-natural-enhancement-supplement-due-undeclared",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-x10-natural-enhancement-supplement-due-undeclared",
+   "fda_publish_date": "2026-09-15",
+   "brands": "X10",
+   "product": "X10 Natural Enhancement Supplement",
+   "types": [
+    "Dietary Supplements"
+   ],
+   "reason": "Product contains sildenafil and tadalafil",
+   "company": "A&P Creations LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:56Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_236.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_236.png?itok=0rjnFDCO",
+     "alt": "Retail box labeling, X10 Natural Enhancement Supplement"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_184.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_184.png?itok=IJnKLIhN",
+     "alt": "Lightning bolt shaped packaging, X10 Natural Enhancement Supplement"
+    }
+   ],
+   "company_announcement_date": "2026-09-14"
+  },
+  {
+   "id": "gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible",
+   "fda_publish_date": "2026-09-15",
+   "brands": "Bettergoods",
+   "product": "Italian Lemon Alfredo Fettuccine",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Listeria monocytogenes",
+   "company": "Gias Foods, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:19:58Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_235.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_235.png?itok=5mBF3VON",
+     "alt": "bettergoods Lemon Alfredo Fettuccini front panel label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_183.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_183.png?itok=9y-c3hHw",
+     "alt": "bettergoods Lemon Alfredo Fettuccini back panel label"
+    }
+   ],
+   "company_announcement_date": "2026-09-15"
+  },
+  {
+   "id": "centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
+   "fda_publish_date": "2026-09-13",
+   "brands": "Centric Compounding",
+   "product": "Compounded Glutathione 200 mg/mL 30 mL multidose vial; Myer’s Cocktail 30 mL multidose vial; Tri-Immune Boost 30 mL multidose vial",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Elevated Endotoxin level",
+   "company": "Centric Compounding LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:00Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-09-11"
+  },
+  {
+   "id": "whole-foods-market-issues-allergy-alert-undeclared-egg-cabricharme-cheese",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whole-foods-market-issues-allergy-alert-undeclared-egg-cabricharme-cheese",
+   "fda_publish_date": "2026-09-11",
+   "brands": "Whole Foods Market",
+   "product": "Cheese",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared Egg",
+   "company": "Whole Foods Market",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:02Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_289.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_289.jpg?itok=fO_Ng8lM",
+     "alt": "Scale label for Formagerie Coop de Mean Cabricharme Raw Milk-Aged 60 days cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_225.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_225.jpg?itok=J5ZdYhSY",
+     "alt": "Scale label for Belgium Cabricharme"
+    }
+   ],
+   "company_announcement_date": "2026-09-11"
+  },
+  {
+   "id": "evergreen-fresh-sprouts-llc-recalls-broccoli-sprouts-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/evergreen-fresh-sprouts-llc-recalls-broccoli-sprouts-because-possible-health-risk",
+   "fda_publish_date": "2026-09-10",
+   "brands": "No Brand Name",
+   "product": "Broccoli Sprouts",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Evergreen Fresh Sprouts, LLC.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:04Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/photo_of_broccoli_sprouts2026_page_1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/photo_of_broccoli_sprouts2026_page_1.jpg?itok=8JDIMH5_",
+     "alt": "Photograph of zip lock bag containing broccoli sprouts with label for Evergreen Fresh Sprouts, LLC. Broccoli Sprouts, 4 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/photo_of_broccoli_sprouts2026_page_2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/photo_of_broccoli_sprouts2026_page_2.jpg?itok=0Mcp0dS8",
+     "alt": "Photograph of zip lock bag containing broccoli sprouts, 4 oz."
+    }
+   ],
+   "company_announcement_date": "2026-09-10"
+  },
+  {
+   "id": "freshpoint-issues-recall-due-improperly-declared-allergen-egg-chicken-salad-wedge-sandwiches",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/freshpoint-issues-recall-due-improperly-declared-allergen-egg-chicken-salad-wedge-sandwiches",
+   "fda_publish_date": "2026-09-08",
+   "brands": "Created Fresh!",
+   "product": "Cranberry Chicken Salad Wedge Sandwich",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Improperly declared egg allergen",
+   "company": "FreshPoint Central Florida, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:06Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_233.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_233.png?itok=LdAXVERm",
+     "alt": "Cranberry Chicken Salad Wedge Sandwich Label Panel"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_181.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_181.png?itok=CZrTzAxu",
+     "alt": "Cranberry Chicken Salad Wedge Sandwich Use by coding"
+    }
+   ],
+   "company_announcement_date": "2026-09-08"
+  },
+  {
+   "id": "fi-recalls-supplements-dogs-because-possible-salmonella-contamination",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fi-recalls-supplements-dogs-because-possible-salmonella-contamination",
+   "fda_publish_date": "2026-09-08",
+   "brands": "FI",
+   "product": "Supplements",
+   "types": [
+    "Animal & Veterinary"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Fi Barking Labs Corp",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:08Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_232.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_232.png?itok=wUcDfVQu",
+     "alt": "FI Calming Daily Supplement, 180 g"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_180.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_180.png?itok=dLli82vv",
+     "alt": "FI 8-in-1 Formula Daily Supplement, 180 g"
+    }
+   ],
+   "company_announcement_date": "2026-09-03"
+  },
+  {
+   "id": "bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-devices-firmware-g3-20076-configured-g3-a20",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-devices-firmware-g3-20076-configured-g3-a20",
+   "fda_publish_date": "2026-09-08",
+   "brands": "BMC",
+   "product": "Luna G3 APAP (Model LG3600)",
+   "types": [
+    "Medical Devices"
+   ],
+   "reason": "The firmware version, G3-2.00.76 installed on the Luna G3 APAP (Model LG3600) devices contained a firmware defect",
+   "company": "BMC Medical Co., Ltd.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:11Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_231.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_231.png?itok=Qi2WQhJq",
+     "alt": "Luna G3 APAP Nameplate Label"
+    },
+    {
+     "src": "https://www.fda.gov/files/rev_image_2_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_2_5.png?itok=JGhop3UU",
+     "alt": "Luna G3 APAP Package Label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_119.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_119.jpg?itok=Wve5LnyZ",
+     "alt": "SN Location - Rear of Device"
+    }
+   ],
+   "company_announcement_date": "2026-09-07"
+  },
+  {
+   "id": "made-fresh-salads-inc-recalls-ready-eat-deli-style-salads-and-cream-cheese-because-possible-health",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/made-fresh-salads-inc-recalls-ready-eat-deli-style-salads-and-cream-cheese-because-possible-health",
+   "fda_publish_date": "2026-09-06",
+   "brands": "Made Fresh Salads, Northside",
+   "product": "Ready to Eat Deli Style Salads and cream cheese",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Listeria monocytogenes",
+   "company": "Made Fresh Salads Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:13Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_30_lb.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_30_lb.png?itok=hfYrVgFT",
+     "alt": "Made Fresh Salads Homestyle Potato Salad with Sour Cream 30 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_26.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_26.png?itok=slt8AZs5",
+     "alt": "Made Fresh Macaroni Salad 30 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_20.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_20.png?itok=9It-kx6c",
+     "alt": "Made Fresh Cole Slaw 30 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_15.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_15.png?itok=EvyaHu2c",
+     "alt": "Made Fresh Country Potato Salad with Sour Cream 30 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/potato_salad.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/potato_salad.png?itok=_8imxhom",
+     "alt": "Made Fresh Potato Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/macoroni_salas.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/macoroni_salas.png?itok=X-M4MJ-h",
+     "alt": "Made Fresh Salads Macaroni Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/health_salad.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/health_salad.png?itok=hecAKb4c",
+     "alt": "Made Fresh Health Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/redbliss.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/redbliss.png?itok=kHp-IEQK",
+     "alt": "Made Fresh Red Bliss Potato Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/5_13.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/5_13.png?itok=BCsnyCfM",
+     "alt": "Made Fresh Salad Oil & Vinegar Cole Slaw 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/6_10.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_10.png?itok=HwP-21Rx",
+     "alt": "Made Fresh Salads Ultra 3 Potato Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/1111_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1111_5.png?itok=ao3-uV5C",
+     "alt": "Made Fresh Salads Potato & Egg Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/macoroni_salas_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/macoroni_salas_0.png?itok=G8iPpWyq",
+     "alt": "Made Fresh Salads Macaroni Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/bru.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bru.png?itok=FEYz_udV",
+     "alt": "Made Fresh Salads Brushetta 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/cucumber_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/cucumber_0.png?itok=mWvLJgTr",
+     "alt": "Made Fresh Salads Cucumber Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/blackbean.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/blackbean.png?itok=luh6RCMD",
+     "alt": "Made Fresh Salads Black Bean & Corn Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/8_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/8_6.png?itok=7eWJjr8c",
+     "alt": "Made Fresh Salads Beet Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/aricote.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/aricote.png?itok=8auPQNY-",
+     "alt": "Made Fresh Salads Artichoke Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_bean.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_bean.png?itok=O8okB3w-",
+     "alt": "Made Fresh Salads 4 Bean Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/lemon.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/lemon.png?itok=2gKAww1Y",
+     "alt": "Made Fresh Salads Lemon Seafood Deluxe 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/latin.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/latin.png?itok=x20BgTG2",
+     "alt": "Made Fresh Salads Latin Cole Slaw 5 BLS"
+    },
+    {
+     "src": "https://www.fda.gov/files/eggplant.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/eggplant.png?itok=suZL9qUF",
+     "alt": "Made Fresh Salads Eggplant Caponata 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/checkpea.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/checkpea.png?itok=Al7zyq1q",
+     "alt": "Made Fresh Salads Chick Pea Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/crab.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/crab.png?itok=gqV0j_FK",
+     "alt": "Made Fresh Salads Crab Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/carrot_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/carrot_0.png?itok=dwO2Q9sk",
+     "alt": "Made Fresh Salads Carrot & Raisin"
+    },
+    {
+     "src": "https://www.fda.gov/files/lemon_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/lemon_0.png?itok=7ZLbrSyJ",
+     "alt": "Made Fresh Salads Lemon Seafood Deluxe 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/tuna.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tuna.png?itok=hOjM1LsX",
+     "alt": "Made Fresh Salads Mediterrian Tuna 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/egg.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/egg.png?itok=guyn_Ktm",
+     "alt": "Made Fresh Salads Eggplant Caponata 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/tunasalad.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tunasalad.png?itok=V-loCZ1m",
+     "alt": "Made Fresh Salads Tuna Salad With Scallion 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/crab_salad.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/crab_salad.png?itok=offsJAZM",
+     "alt": "Made Fresh Salads Crab Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/roasted.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/roasted.png?itok=1yve1wyt",
+     "alt": "Made Fresh Salads Roasted Pepper Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/mushroom.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/mushroom.png?itok=dvf2RXKc",
+     "alt": "Made Fresh Salads Mushroom Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/pastasup.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/pastasup.png?itok=NlTAXQvF",
+     "alt": "Made Fresh Salads Pasta Supreme 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/eggsalad.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/eggsalad.png?itok=nylzDLRj",
+     "alt": "Made Fresh Salads Egg Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/pesto.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/pesto.png?itok=prjOGa0W",
+     "alt": "Made Fresh Salads Bowtie Pesto 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/penne.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/penne.png?itok=uFdMhEJU",
+     "alt": "Made Fresh Salads Pasta Penne"
+    },
+    {
+     "src": "https://www.fda.gov/files/spinach.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/spinach.png?itok=_rkrYsym",
+     "alt": "Made Fresh Salads Pasta with Spinach & Feta"
+    },
+    {
+     "src": "https://www.fda.gov/files/1_32.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_32.png?itok=QwKTEg0q",
+     "alt": "Made Fresh Salads Tortellini Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_27.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_27.png?itok=8XffH50I",
+     "alt": "Made Fresh Salads Sesame Noodle 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_21.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_21.png?itok=AQK8S_vP",
+     "alt": "Made Fresh Salads Feta & Cranberry Rigatoni Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/1_33.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_33.png?itok=Wl9b0gyo",
+     "alt": "Made Fresh Salads Rotini & Shrimp Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_28.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_28.png?itok=zga5N6FK",
+     "alt": "Made Fresh Salads Quinoa Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_22.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_22.png?itok=xyasAMm6",
+     "alt": "Made Fresh Salads Balsamic Tortellini Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_16.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_16.png?itok=E4wE7F1K",
+     "alt": "Made Fresh Salads Chick Pea Cucumber Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/5_14.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/5_14.png?itok=QkWNevjh",
+     "alt": "Made Fresh Salads Tortellini Pesto"
+    },
+    {
+     "src": "https://www.fda.gov/files/6_11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_11.png?itok=U8xtB5zS",
+     "alt": "Made Fresh Salads Mediteranian Cous Cous"
+    },
+    {
+     "src": "https://www.fda.gov/files/7_8.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/7_8.png?itok=h5lPyOEC",
+     "alt": "Made Fresh Salads Red Quinoa Hearts of Palm 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/8_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/8_7.png?itok=T4rRUns6",
+     "alt": "Made Fresh Salads Kale & Chicken Pea Quinoa Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/9_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/9_5.png?itok=fCiu1oDJ",
+     "alt": "Made Fresh Salads Mediteranian Orzo Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/10_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/10_5.png?itok=ciTgGle0",
+     "alt": "Made Fresh Salads Mexican Quinoa 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/11_8.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/11_8.png?itok=VX2_N4UC",
+     "alt": "Made Fresh Salads Kale Edamame Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/12_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/12_6.png?itok=GUC0Rt0w",
+     "alt": "Made Fresh Salads Spicy 3 Bean Salad"
+    },
+    {
+     "src": "https://www.fda.gov/files/13_3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/13_3.png?itok=X11fCz0V",
+     "alt": "Made Fresh Salads Vanilla Pudding 6 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/14_4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/14_4.png?itok=ifauObbC",
+     "alt": "Made Fresh Salads Crab Cakes 12 PC"
+    },
+    {
+     "src": "https://www.fda.gov/files/15_2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/15_2.png?itok=kmu_uPmZ",
+     "alt": "Made Fresh Salads Chocolate Pudding 7 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/16_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/16_0.png?itok=Et2TproP",
+     "alt": "Made Fresh Salads Farro Cranberry Feta Salad 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/17_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/17_0.png?itok=yhuA1OO8",
+     "alt": "Made Fresh Salads Potato Croquettes"
+    },
+    {
+     "src": "https://www.fda.gov/files/18_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/18_0.png?itok=VbJdMINo",
+     "alt": "Made Fresh Salads Jalapeno Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/19_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/19_0.png?itok=l4gbsM_K",
+     "alt": "Made Fresh Salads Bacon Scallion Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/20_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/20_0.png?itok=j7a5qDHd",
+     "alt": "Made Fresh Salads Garic & Herb Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/21.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/21.png?itok=sk2zShKN",
+     "alt": "Made Fresh Salads Blueberry Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/22_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/22_1.png?itok=U1Y1FHi3",
+     "alt": "Made Fresh Salads Chocolate Chip Cream Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/23.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/23.png?itok=M7tiR0N8",
+     "alt": "Made Fresh Salads Apple Cinnamon Cream Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/1_34.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_34.png?itok=Uecf6CIF",
+     "alt": "Made Fresh Salads Olive & Pimento Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_29.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_29.png?itok=QfkJf-EP",
+     "alt": "Made Fresh Salads Vegetable Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_23.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_23.png?itok=-6OErYgU",
+     "alt": "Made Fresh Salads Lox Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_17.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_17.png?itok=j3fXB_lZ",
+     "alt": "Made Fresh Salads Strawberry Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/5_15.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/5_15.png?itok=giopsPJ2",
+     "alt": "Made Fresh Salads Jalapeno Cheddar Cream Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/6_12.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_12.png?itok=XqAOYIJF",
+     "alt": "Made Fresh Salads Scallion Cream Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/7_9.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/7_9.png?itok=Ylhip1oG",
+     "alt": "Made Fresh Salads Tofu Vegetable Spread 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/8_8.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/8_8.png?itok=cBlTaNoj",
+     "alt": "Made Fresh Salads Walnut Raison Cream Cheese 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/9_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/9_6.png?itok=FfujcVt_",
+     "alt": "Made Fresh Salads Tofu Spread 5 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/10_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/10_6.png?itok=U-SQ0Qt5",
+     "alt": "Made Fresh Salads Whipped Cream Cheese 30 LBS"
+    },
+    {
+     "src": "https://www.fda.gov/files/11_9.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/11_9.png?itok=bBUp66K8",
+     "alt": "Made Fresh Salads Whipped Cream Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/12_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/12_7.png?itok=Tl9Lab0W",
+     "alt": "Made Fresh Salads Scallion Cream Cheese 30 LBS"
+    }
+   ],
+   "company_announcement_date": "2026-09-06"
+  },
+  {
+   "id": "supplxcom-issues-voluntary-nationwide-recall-business-pill-and-branch-manager-men-due-undeclared",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supplxcom-issues-voluntary-nationwide-recall-business-pill-and-branch-manager-men-due-undeclared",
+   "fda_publish_date": "2026-09-04",
+   "brands": "Business Pill, Branch Manager for Men",
+   "product": "dietary supplements marketed for male sexual enhancement",
+   "types": [
+    "Dietary Supplements",
+    "Food & Beverages"
+   ],
+   "reason": "Products contain undeclared yohimbine",
+   "company": "SUPPLX.com",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:15Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_287.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_287.jpg?itok=yHQHUQ6l",
+     "alt": "Business Pill Makes your business Harder, Larger & Longer also “Controls Your Inventory” A Dietary Supplement for Men 18+, packaged in single capsule blister card"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_224.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_224.jpg?itok=1LnvfEJu",
+     "alt": "Branch Manager for Men Performance Enhancer for Men 21+, packaged in single capsule blister card"
+    }
+   ],
+   "company_announcement_date": "2026-09-03"
+  },
+  {
+   "id": "foods-alive-recalls-organic-moringa-leaf-powder-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/foods-alive-recalls-organic-moringa-leaf-powder-because-possible-health-risk",
+   "fda_publish_date": "2026-09-04",
+   "brands": "Foods Alive",
+   "product": "Moringa Leaf Powder",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Foods Alive Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:17Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/891551000928-moringa-leaf-powder-front_2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/891551000928-moringa-leaf-powder-front_2.jpg?itok=KiFrp5rB",
+     "alt": "Foods Alive Moringa Leaf Powder, 8 ounce stand up pouch, freshest date 110127"
+    }
+   ],
+   "company_announcement_date": "2026-09-04"
+  },
+  {
+   "id": "b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+   "fda_publish_date": "2026-09-03",
+   "brands": "B. Braun",
+   "product": "0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Presence of particulate matter identified as iron oxide",
+   "company": "B. Braun Medical Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:19Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_285.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_285.jpg?itok=gyRK3hpA",
+     "alt": "Front panel of B. Braun 0.9% Sodium Chloride Injection USP, 100 mL, PAB® Container"
+    }
+   ],
+   "company_announcement_date": "2026-09-03"
+  },
+  {
+   "id": "american-regent-inc-issues-voluntary-nationwide-recall-three-lots-epinephrine-injection-usp-30-mg-30",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-issues-voluntary-nationwide-recall-three-lots-epinephrine-injection-usp-30-mg-30",
+   "fda_publish_date": "2026-09-03",
+   "brands": "American Regent, Inc.",
+   "product": "Epinephrine Injection, USP 30 mg/ 30 mL (1 mg/mL) multi dose vial",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Presence of particulate matter and lack of sterility assurance",
+   "company": "American Regent, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:21Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_230.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_230.png?itok=KOGcx4vR",
+     "alt": "Epinephrine Injection, USP 30 mg/ 30 mL (1 mg/mL) multi dose vial"
+    }
+   ],
+   "company_announcement_date": "2026-09-03"
+  },
+  {
+   "id": "frutas-y-hortalizas-del-sur-sa-expands-recall-include-one-lot-great-value-frozen-organic-triple",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recall-include-one-lot-great-value-frozen-organic-triple",
+   "fda_publish_date": "2026-09-03",
+   "brands": "Great Value",
+   "product": "Organic Triple Berry Blend",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible E. Coli Contamination",
+   "company": "Frutas y Hortalizas del Sur S.A.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:23Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_286.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_286.jpg?itok=gv1HZkp_",
+     "alt": "Organic Great Value Triple Berry Blend, Net Wt. 10 oz"
+    }
+   ],
+   "company_announcement_date": "2026-09-02"
+  },
+  {
+   "id": "lmsi-llckofinas-olive-oil-issues-voluntary-recall-its-garlic-mediterranean-infused-extra-virgin",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lmsi-llckofinas-olive-oil-issues-voluntary-recall-its-garlic-mediterranean-infused-extra-virgin",
+   "fda_publish_date": "2026-08-31",
+   "brands": "Kofinas",
+   "product": "Garlic Mediterranean Infused Extra Virgin Olive Oil 500 ml, 250 ml, and 100 ml",
+   "types": [
+    "Food & Beverages",
+    "Ingredients"
+   ],
+   "reason": "Contains garlic essential oil not approved for culinary use",
+   "company": "LMSI LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:26Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1recall.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1recall.jpg?itok=qES3COfB",
+     "alt": "Kofinas Garlic Mediterranean Infused Extra Virgin Olive Oil Front Label"
+    }
+   ],
+   "company_announcement_date": "2026-08-31"
+  },
+  {
+   "id": "crystal-temptations-issues-allergy-alert-undeclared-milk-chocolatey-eyeballs",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/crystal-temptations-issues-allergy-alert-undeclared-milk-chocolatey-eyeballs",
+   "fda_publish_date": "2026-08-31",
+   "brands": "Little Temptations",
+   "product": "Chocolatey Eyeballs, 7 oz., 10 oz., 10.5 oz., 11 oz., and 16 oz.",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared milk",
+   "company": "Crystal Temptations",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:28Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_229.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_229.png?itok=l-mbSwFP",
+     "alt": "Little Temptations Chocolatey Eyeballs Spooks & Spells, Front Label, 10 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_178.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_178.png?itok=VHsGl7S3",
+     "alt": "Little Temptations Chocolatey Eyeballs, Front Label, 7 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_102.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_102.png?itok=JCxv7YmL",
+     "alt": "Little Temptations Chocolatey Eyeballs Sweet Scary Treats, Label, 10.5 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_84.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_84.png?itok=26xPM7ZO",
+     "alt": "Little Temptations Chocolatey Eyeballs, Plastic Pouch Label, 16 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_50.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_50.png?itok=W9EmLWmJ",
+     "alt": "Little Temptations Chocolatey Eyeballs, Bag Label, 11 oz."
+    }
+   ],
+   "company_announcement_date": "2026-08-31"
+  },
+  {
+   "id": "ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+   "fda_publish_date": "2026-08-31",
+   "brands": "Lipofit",
+   "product": "Lipofit Extreme 2.0 Fat Burner Dietary Supplement",
+   "types": [
+    "Dietary Supplements",
+    "Drugs"
+   ],
+   "reason": "Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
+   "company": "Ana Salazar Modela Tu Cuerpo Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:30Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-08-27"
+  },
+  {
+   "id": "everything-sprouts-llc-expands-voluntarily-recall-include-robust-radish-mix-due-potential-e-coli-and",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/everything-sprouts-llc-expands-voluntarily-recall-include-robust-radish-mix-due-potential-e-coli-and",
+   "fda_publish_date": "2026-08-29",
+   "brands": "Everything Sprouts",
+   "product": "Robust Radish Mix, 5oz Cups",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Shiga toxin-producing Escherichia coli (STEC) or Salmonella.",
+   "company": "Everything Sprouts, LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:32Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_228.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_228.png?itok=qEDDRZ6d",
+     "alt": "Robust Radish Mix Labeling"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_177.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_177.png?itok=-PrrTFOx",
+     "alt": "UPC Robust Radish Mix"
+    }
+   ],
+   "company_announcement_date": "2026-08-28"
+  },
+  {
+   "id": "panorama-produce-recalls-mangoes-due-possible-salmonella-contamination",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/panorama-produce-recalls-mangoes-due-possible-salmonella-contamination",
+   "fda_publish_date": "2026-08-29",
+   "brands": "Martina",
+   "product": "Mangoes",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential contamination with Salmonella",
+   "company": "Panorama Produce",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:34Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_rev_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_rev_0.png?itok=uSk2-tNt",
+     "alt": "Light blue Agrofepac sticker"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_rev.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_rev.png?itok=GQ6lKEnp",
+     "alt": "Martina-branded case of mangoes"
+    }
+   ],
+   "company_announcement_date": "2026-08-28"
+  },
+  {
+   "id": "northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella",
+   "fda_publish_date": "2026-08-28",
+   "brands": "Northwest Naturals",
+   "product": "Chicken Recipe",
+   "types": [
+    "Animal & Veterinary",
+    "Foodborne Illness",
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential contamination with Salmonella and/or Listeria monocytogenes",
+   "company": "Northwest Naturals",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:37Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_227.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_227.png?itok=Wml0o5K-",
+     "alt": "Front packaging of Northwest Naturals Frozen Chicken Recipe, 2 lb. bag, showing product name and branding"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_176.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_176.png?itok=gIbHUpos",
+     "alt": "Back panel of Northwest Naturals Frozen Chicken Recipe, 2 lb. bag, showing product name and branding"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_101.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_101.png?itok=dYCEh3nv",
+     "alt": "Front packaging of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe, 6 lb. bag, showing product name and branding"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_83.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_83.png?itok=WIvFtarN",
+     "alt": "Back panel of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe, 6 lb. bag, showing product name and branding"
+    }
+   ],
+   "company_announcement_date": "2026-08-29"
+  },
+  {
+   "id": "revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
+   "fda_publish_date": "2026-08-26",
+   "brands": "Shelter’s Choice, Breeder’s Edge",
+   "product": "Feline Milk Replacers",
+   "types": [
+    "Animal & Veterinary",
+    "Food & Beverages"
+   ],
+   "reason": "Low levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6)",
+   "company": "Revival Animal Health",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:39Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_284.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_284.jpg?itok=5WJ5KNJU",
+     "alt": "Shelter’s Choice Feline Milk Replacer, Net Wt. UPC  817160011032, Net Wt. 1lb"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_223.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_223.jpg?itok=JlTN-YmJ",
+     "alt": "Shelter’s Choice Feline Milk Replacer, Net Wt. UPC 817160011049, Net Wt. 3.5 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_117.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_117.jpg?itok=i4PNxuM3",
+     "alt": "Shelter’s Choice Feline Milk Replacer, Net Wt. UPC 817160011063, 8 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_82.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_82.png?itok=PjXoLLpd",
+     "alt": "Ingredient Panel"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_51.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_51.jpg?itok=MY6KQ4dJ",
+     "alt": "Breeder’s Edge Foster Care Feline Milk Replacer, UPC 817160010196, Net Wt. 12 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_38.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_38.png?itok=QgvVA1j5",
+     "alt": "Breeder’s Edge Foster Care Feline Milk Replacer, UPC 817160010103, Net Wt. 4.5 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_7_32.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_7_32.jpg?itok=cy4MA3-i",
+     "alt": "Breeder’s Edge Foster Care Feline Milk Replacer, UPC 817160011278, Net Wt. 18 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_8_26.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_8_26.png?itok=FNPabF-Y",
+     "alt": "Ingredient Panel"
+    }
+   ],
+   "company_announcement_date": "2026-08-26"
+  },
+  {
+   "id": "baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
+   "fda_publish_date": "2026-08-26",
+   "brands": "Baxter",
+   "product": "0.9% Sodium Chloride Injection, USP, 500 mL VIAFLEX Plastic Container",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential presence of particulate matter identified as fiberglass in the solution.",
+   "company": "Baxter International Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:41Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_226.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_226.png?itok=6MjEDR6l",
+     "alt": "Container Label: 0.9% Sodium Chloride Injection VIAFLEX"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_175.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_175.png?itok=-YEJhbXl",
+     "alt": "Carton Label:  0.9% Sodium Chloride Injection"
+    }
+   ],
+   "company_announcement_date": "2026-08-25"
+  },
+  {
+   "id": "jaimes-foods-atx-issues-allergy-alert-undeclared-egg-allergen-jaimes-spanish-village-jalapeno-ranch",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jaimes-foods-atx-issues-allergy-alert-undeclared-egg-allergen-jaimes-spanish-village-jalapeno-ranch",
+   "fda_publish_date": "2026-08-26",
+   "brands": "Jaime’s Spanish Village",
+   "product": "Jalapeno Ranch Dressing",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "contains undeclared eggs",
+   "company": "Jaime’s Foods ATX",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:43Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/jamoe11_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/jamoe11_0.png?itok=LD6EOmbR",
+     "alt": "Jaimes Spanish Village Jalapeno Ranch Front Panel Label"
+    },
+    {
+     "src": "https://www.fda.gov/files/jamie2.jpeg.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/jamie2.jpeg.png?itok=PiUX4ZII",
+     "alt": "Jaimes Spanish Village Jalapeno Ranch Full Labeling"
+    }
+   ],
+   "company_announcement_date": "2026-08-25"
+  },
+  {
+   "id": "baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+   "fda_publish_date": "2026-08-25",
+   "brands": "Baxter",
+   "product": "Anticoagulant Sodium Citrate Solution USP, 250 mL VIAFLEX Plastic Container",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential presence of particulate matter identified as fiberglass in the solution",
+   "company": "Baxter International Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:45Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/revimage1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/revimage1.png?itok=Hs7GeCVS",
+     "alt": "Container Label: Baxter Anticoagulant Sodium Citrate Solution USP 250 mL VIAFLEX"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_174.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_174.png?itok=nf-_f13Y",
+     "alt": "Carton Label:  Baxter Anticoagulant Sodium Citrate Solution USP"
+    }
+   ],
+   "company_announcement_date": "2026-08-26"
+  },
+  {
+   "id": "baxter-issues-voluntary-nationwide-recall-one-lot-70-dextrose-injection-due-potential-presence",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-70-dextrose-injection-due-potential-presence",
+   "fda_publish_date": "2026-08-25",
+   "brands": "Baxter",
+   "product": "70% Dextrose Injection, USP in 2000 mL VIAFLEX Plastic Container",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential presence of particulate matter identified as stainless steel particles in the solution.",
+   "company": "Baxter International Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:47Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_224.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_224.png?itok=iZDpfP95",
+     "alt": "Container Label: Container label for 70% Dextrose Injection, USP, 2000 mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_172.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_172.png?itok=nIrgUN86",
+     "alt": "Carton Label: Shipping carton label for 70% Dextrose Injection, USP indicating lot number and expiration date for identification of recalled product"
+    }
+   ],
+   "company_announcement_date": "2026-08-25"
+  },
+  {
+   "id": "vitruvias-therapeutics-inc-issues-nationwide-recall-one-lot-thyroid-tablets-usp-30-mg-due-potential",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitruvias-therapeutics-inc-issues-nationwide-recall-one-lot-thyroid-tablets-usp-30-mg-due-potential",
+   "fda_publish_date": "2026-08-24",
+   "brands": "Vitruvias Therapeutics",
+   "product": "Thyroid Tablets, USP 30 mg",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential for the Product to be Superpotent",
+   "company": "Vitruvias Therapeutics, Inc",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:50Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_223.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_223.png?itok=dprXwI5N",
+     "alt": "Thyroid Tablets USP Label"
+    }
+   ],
+   "company_announcement_date": "2026-08-21"
+  },
+  {
+   "id": "exotique-foods-inc-recalls-momchipz-veggie-chips-broccoli-florets-cauliflower-due-undeclared-wheat",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/exotique-foods-inc-recalls-momchipz-veggie-chips-broccoli-florets-cauliflower-due-undeclared-wheat",
+   "fda_publish_date": "2026-08-24",
+   "brands": "Momchipz",
+   "product": "Veggie Chips Broccoli Florets & Cauliflower",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "undeclared wheat",
+   "company": "Exotique Foods Inc",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:52Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_218.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_218.png?itok=6SF0aj3t",
+     "alt": "Momchipz Veggie Chips Broccoli Florets & Cauliflower, Net Wt. 3 oz, Best Before: 2026 AUGUST 31, back of package"
+    }
+   ],
+   "company_announcement_date": "2026-08-14"
+  },
+  {
+   "id": "better-bakehouse-snack-company-recalling-certain-lots-donutful-chocolate-dipped-vanilla-cake-donuts",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/better-bakehouse-snack-company-recalling-certain-lots-donutful-chocolate-dipped-vanilla-cake-donuts",
+   "fda_publish_date": "2026-08-24",
+   "brands": "Donutful",
+   "product": "Chocolate Dipped Vanilla Cake Donuts",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared milk allergen",
+   "company": "The Better Bakehouse Snack Company",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:54Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-08-25"
+  },
+  {
+   "id": "everything-sprouts-llc-recalls-alfalfa-sprouts-due-potential-e-coli-and-salmonella-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/everything-sprouts-llc-recalls-alfalfa-sprouts-due-potential-e-coli-and-salmonella-risk",
+   "fda_publish_date": "2026-08-22",
+   "brands": "Everything Sprouts, Calco",
+   "product": "Alfalfa Sprouts",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Potential to be contaminated with Salmonella and Shiga toxin-producing Escherichia coli (STEC)",
+   "company": "Everything Sprouts, LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:56Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/alf1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf1.jpeg?itok=QF6wipKM",
+     "alt": "Image of label, Everything Sprouts Alfalfa Sprouts NET WT 5.0 OZ, UPC 768944000059"
+    },
+    {
+     "src": "https://www.fda.gov/files/alf2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf2.jpeg?itok=rXTEM3rX",
+     "alt": "Image of UPC label 860014523113, Alfalfa 12/5 oz Tray"
+    },
+    {
+     "src": "https://www.fda.gov/files/alf3.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf3.jpeg?itok=CJjn7ADL",
+     "alt": "Image of UPC label 860014523120, Alfalfa 6/5 oz Tray"
+    },
+    {
+     "src": "https://www.fda.gov/files/alf4.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf4.jpeg?itok=B4cyOmxl",
+     "alt": "Image of UPC label 850079470149, Alfalfa 4"
+    },
+    {
+     "src": "https://www.fda.gov/files/alf5.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf5.jpeg?itok=vWDsjor_",
+     "alt": "Image of label, Everything Sprouts Zesty Garlic Mix NET WT 5.0 OZ, UPC 087906000167"
+    },
+    {
+     "src": "https://www.fda.gov/files/alf6.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/alf6.jpeg?itok=u1mhs0Sy",
+     "alt": "Image of label, Everything Sprouts Crunchy Protein Sprout Mix NET WT 5.0 OZ, UPC 08706000181"
+    }
+   ],
+   "company_announcement_date": "2026-08-22"
+  },
+  {
+   "id": "fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+   "fda_publish_date": "2026-08-21",
+   "brands": "Fromm",
+   "product": "Fromm wet canned dog food",
+   "types": [
+    "Animal & Veterinary",
+    "Pet Food"
+   ],
+   "reason": "Potential metal contamination",
+   "company": "Fromm Family Foods LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:20:58Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_222.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_222.png?itok=lKNZVMbA",
+     "alt": "Fromm Turkey Pâté Wet Dog Food 12.2 oz, UPC 072705118700"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_171.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_171.png?itok=6rZcms8t",
+     "alt": "Fromm Diner Classics Milo's Meatloaf Pâté Wet Dog Food 12.5 oz, UPC 072705132324"
+    }
+   ],
+   "company_announcement_date": "2026-08-21"
+  },
+  {
+   "id": "optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
+   "fda_publish_date": "2026-08-20",
+   "brands": "Optimal Balance Pharmacy",
+   "product": "Glutathione Injection 200MG/ML (30ML), Multi-Dose Vial",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Elevated Endotoxin level",
+   "company": "Optimal Balance Pharmacy",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:00Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_221.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_221.png?itok=Zq4ytnmd",
+     "alt": "Optimal Balance Pharmacy Glutathione Injection 200MG/ML (30ML), Multi-Dose Vial, Lot LG342009076, Exp: October 4, 2026, label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_169.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_169.png?itok=Ahal0Bho",
+     "alt": "Optimal Balance Pharmacy Glutathione Injection 200MG/ML (30ML), Multi-Dose Vial, vial photo"
+    }
+   ],
+   "company_announcement_date": "2026-08-19"
+  },
+  {
+   "id": "prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
+   "fda_publish_date": "2026-08-19",
+   "brands": "Prince",
+   "product": "Variety of Breads",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared milk and sesame",
+   "company": "Prince Bakery Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:03Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_217.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_217.png?itok=67KrOikN",
+     "alt": "Prince Pan de Manjeca Spanish Style Bread, Net Wt. 8 oz (227g) label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_168.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_168.png?itok=8Ja9UCpM",
+     "alt": "Prince Sesame Italian Bread, Net Wt. 8 oz (227g) label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_100.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_100.png?itok=xVgBn9HZ",
+     "alt": "Prince Sesame Italian Bread Large, Net Wt. 12 oz (340g) label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_80.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_80.png?itok=ARacoBlh",
+     "alt": "Prince Sesame Long French Bread, Net Wt. 10 oz (284g) label"
+    }
+   ],
+   "company_announcement_date": "2026-08-19"
+  },
+  {
+   "id": "updated-grand-central-bakery-seattle-recalls-potato-sourdough-bread-due-possible-foreign-object",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-grand-central-bakery-seattle-recalls-potato-sourdough-bread-due-possible-foreign-object",
+   "fda_publish_date": "2026-08-19",
+   "brands": "Grand Central Bakery",
+   "product": "Potato Sourdough",
+   "types": [
+    "Food & Beverages",
+    "Contaminants"
+   ],
+   "reason": "may contain pieces of metal",
+   "company": "Grand Central Bakery",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:05Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_215.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_215.png?itok=BEw_lqjr",
+     "alt": "Grand Central Bakery Potato Sourdough Front Labeling"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_165.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_165.png?itok=1W2Wi-6q",
+     "alt": "Grand Central Bakery Potato Sourdough Back Labeling"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_97.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_97.png?itok=69MHemSo",
+     "alt": "Unpackaged bread with slices"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_77.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_77.png?itok=YBAIwNsc",
+     "alt": "Unpackaged bread unsliced"
+    }
+   ],
+   "company_announcement_date": "2026-08-13"
+  },
+  {
+   "id": "b-braun-medical-inc-issues-voluntary-north-american-recall-excelr-lactated-ringers-injection-1000ml",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-north-american-recall-excelr-lactated-ringers-injection-1000ml",
+   "fda_publish_date": "2026-08-19",
+   "brands": "B. Braun",
+   "product": "Excel® Lactated Ringers Injection, 1000mL",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Presence of particulate matter identified primarily as cellulose cotton fibers, with individual particles also identified as cellulose wood fiber and polystyrene",
+   "company": "(B. Braun)",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:07Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_220.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_220.png?itok=2TE-0mMq",
+     "alt": "B. Braun Excel® Lactated Ringers Injection, 1000mL, NDC J4H077"
+    }
+   ],
+   "company_announcement_date": "2026-08-19"
+  },
+  {
+   "id": "updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
+   "fda_publish_date": "2026-08-18",
+   "brands": "Outshine",
+   "product": "Outshine Fruit Bars",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Possible foreign material contamination with glass",
+   "company": "Dreyer’s Grand Ice Cream, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:09Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_216.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_216.png?itok=U1vBphMD",
+     "alt": "Outshine Fruit Bars Strawberry, 6 Bars, UPC 041548610047"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_1a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1a.png?itok=yEwd9U29",
+     "alt": "UPC Bottom of package: 041548610047"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_166.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_166.png?itok=W4DZgCaX",
+     "alt": "Outshine Fruit Bars Grape, 6 Bars, UPC 041548244044"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2a.png?itok=1uZ86j4E",
+     "alt": "UPC Bottom of package: 041548244044"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_98.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_98.png?itok=IrRhvk5T",
+     "alt": "Outshine Fruit Bars Watermelon, 6 Bars, UPC 041548413624"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3a.png?itok=fMhGN0Fp",
+     "alt": "UPC Bottom of package: 041548413624"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_78.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_78.png?itok=NazqSyps",
+     "alt": "Outshine Fruit Bars Black Cherry 6 Bars, UPC 041548000121"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4a.png?itok=fH_Bjk4z",
+     "alt": "UPC Bottom of Package: 041548000121"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_49.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_49.png?itok=FCq6wFyT",
+     "alt": "Outshine Fruit Bars Tangerine 6 Bars, UPC 041548612041"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5a.png?itok=7NOV3Crt",
+     "alt": "UPC Bottom of Package: 041548612041"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_37.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_37.png?itok=BITs1x-h",
+     "alt": "Outshine Fruit Bars Variety Pack 24 Bars, UPC  041548816678"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6a.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6a.png?itok=C5ZuWrkh",
+     "alt": "UPC Bottom of Package:2 041548816678"
+    }
+   ],
+   "company_announcement_date": "2026-08-18"
+  },
+  {
+   "id": "hardies-fresh-foods-recalls-jalapenos-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-jalapenos-because-possible-health-risk",
+   "fda_publish_date": "2026-08-17",
+   "brands": "Dairyland Produce LLC",
+   "product": "Pepper Jalapenos",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential Salmonella Contamination",
+   "company": "Dairyland Produce LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:11Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_283.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_283.jpg?itok=M6JW67nj",
+     "alt": "Dairyland Produce Pepper Jalapeno BX #5 label example"
+    }
+   ],
+   "company_announcement_date": "2026-08-12"
+  },
+  {
+   "id": "updated-omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because",
+   "fda_publish_date": "2026-08-17",
+   "brands": "Oma’s Pride",
+   "product": "Canine Food",
+   "types": [
+    "Animal & Veterinary",
+    "Foodborne Illness",
+    "Pet Food",
+    "Food & Beverages",
+    "Foodborne Illness",
+    "Pet Food"
+   ],
+   "reason": "Contaminated with Salmonella",
+   "company": "Miller Foods, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:13Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_212.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_212.png?itok=1CWe3P8Z",
+     "alt": "Front label panel for Oma’s Pride Pet Food Woof Complete Canine Chicken Recipe, 6 lb."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_162.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_162.png?itok=qOo6OivH",
+     "alt": "Front label panel for Oma’s Pride Pet Food Woof Complete Canine Chicken Recipe, 6 lb."
+    }
+   ],
+   "company_announcement_date": "2026-08-17"
+  },
+  {
+   "id": "l-nutra-issues-allergy-alert-undeclared-tree-nuts-prolon-brand-apulian-almond-cocoa-spread",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/l-nutra-issues-allergy-alert-undeclared-tree-nuts-prolon-brand-apulian-almond-cocoa-spread",
+   "fda_publish_date": "2026-08-17",
+   "brands": "Prolon",
+   "product": "Apulian Almond & Cocoa Spread",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared cashews, pistachios and/or hazelnut",
+   "company": "L-Nutra",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:16Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-08-18"
+  },
+  {
+   "id": "naturebest-precut-produce-llc-voluntarily-recalls-products-containing-jalapenos-due-potential",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturebest-precut-produce-llc-voluntarily-recalls-products-containing-jalapenos-due-potential",
+   "fda_publish_date": "2026-08-14",
+   "brands": "NatureBest, HEB",
+   "product": "Finished products such as Pico de Gallo, Stuffed Mushrooms, and Soup-mix Containing Jalapeno.",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential for contamination with Salmonella",
+   "company": "NatureBest Precut & Produce LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:18Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_214.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_214.png?itok=g8T_mq6y",
+     "alt": "NatureBest Soup Mix 58 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_164.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_164.png?itok=NwepWR75",
+     "alt": "HEB Pico de Gallo Mild 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_96.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_96.png?itok=WlLP32Sn",
+     "alt": "HEB Pico de Gallo Medium 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_76.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_76.png?itok=Egpd8Vps",
+     "alt": "HEB Pico de Gallo Hot 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_48.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_48.png?itok=4FMNvYDK",
+     "alt": "HEB Pico de Gallo Mango 14 oz Side Panel"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_36.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_36.png?itok=dH7D80MC",
+     "alt": "NatureBest Pico de Gallo Mango 14 oz Top Panel"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_7_27.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_7_27.png?itok=7JKHwvkW",
+     "alt": "NatureBest Medium Pico 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_8_25.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_8_25.png?itok=mS6EGhPD",
+     "alt": "NatureBest Mild Cheddar & Jalapeno Stuffed Mushrooms 8 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_9_20.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_9_20.png?itok=9ZXfVLOv",
+     "alt": "NatureBest Mild Pico 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_10_17.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_10_17.png?itok=_3NbJwzp",
+     "alt": "NatureBest Pico de Gallo Mild 4 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_11_17.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_11_17.png?itok=BF-jQhFY",
+     "alt": "NatureBest Pico de Gallo Medium 9 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_12_14.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_12_14.png?itok=Wjy7TpWN",
+     "alt": "NatureBest Pico de Gallo Hot 9 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_13_14.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_13_14.png?itok=ocmIZnrt",
+     "alt": "HEB Jalapeño popper stuffed mushrooms 8 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_14_12.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_14_12.png?itok=Ny6On-cy",
+     "alt": "NatureBest Mild Pico 14 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_15_11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_15_11.png?itok=fGSSaxTF",
+     "alt": "NatureBest Diced Jalapeno 3 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_16_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_16_7.png?itok=ujrAi0E_",
+     "alt": "HEB Diced Jalapeno 3 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_17_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_17_6.png?itok=b5U4UKhg",
+     "alt": "NatureBest Pico de Gallo Mild 4 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_18_3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_18_3.png?itok=hiY4UHg8",
+     "alt": "NatureBest Pico de Gallo Medium 4 oz"
+    }
+   ],
+   "company_announcement_date": "2026-08-08"
+  },
+  {
+   "id": "hampton-grocers-inc-recalls-its-8-ounce-packages-lacnola-lactation-granola-because-possible-health",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hampton-grocers-inc-recalls-its-8-ounce-packages-lacnola-lactation-granola-because-possible-health",
+   "fda_publish_date": "2026-08-14",
+   "brands": "The Hampton Grocer",
+   "product": "Granola",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be Contaminated with Salmonella",
+   "company": "The Hampton Grocer, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:20Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_282.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_282.jpg?itok=msjftyoX",
+     "alt": "The Hampton Grocer Lacnola Lactation Granola Front Panel"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_222.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_222.jpg?itok=vE2jk5lf",
+     "alt": "The Hampton Grocer Lacnola Lactation Granola Back Panel"
+    }
+   ],
+   "company_announcement_date": "2026-08-14"
+  },
+  {
+   "id": "recall-jalapeno-avocado-dressing-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jalapeno-avocado-dressing-because-possible-health-risk",
+   "fda_publish_date": "2026-08-14",
+   "brands": "Salata",
+   "product": "Salad dressing",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Salata Dressings, LLC.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:22Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-08-11"
+  },
+  {
+   "id": "kettle-cuisine-recalls-marketside-tomato-bisque-soup-kit-sold-exclusively-walmart-stores-because",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kettle-cuisine-recalls-marketside-tomato-bisque-soup-kit-sold-exclusively-walmart-stores-because",
+   "fda_publish_date": "2026-08-13",
+   "brands": "Marketside",
+   "product": "Tomato Bisque Soup Kit 14oz (397g)",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Listeria monocytogenes",
+   "company": "Kettle Cuisine LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:24Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_213.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_213.png?itok=k6te5Kw9",
+     "alt": "Marketside Tomato Bisque Soup Kit"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_163.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_163.png?itok=lagS4M_n",
+     "alt": "Marketside Tomato Bisque Soup Kit with use by date"
+    }
+   ],
+   "company_announcement_date": "2026-08-12"
+  },
+  {
+   "id": "whole-foods-market-announces-recall-select-salsas-guacamole-pico-de-gallo-and-prepared-foods",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whole-foods-market-announces-recall-select-salsas-guacamole-pico-de-gallo-and-prepared-foods",
+   "fda_publish_date": "2026-08-12",
+   "brands": "Whole Foods Market",
+   "product": "Finished products such as dips, salsa, guacamole, and more containing jalapeno.",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential Salmonella Contamination",
+   "company": "Whole Foods Market",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:26Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_210.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_210.png?itok=TDTVBi_0",
+     "alt": "Whole Foods Market Mild Guacamole with No Tomato"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_94.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_94.png?itok=NZ6WfO65",
+     "alt": "Whole Foods Market Spicy Guacamole with no Tomato"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_75.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_75.png?itok=kWDdeOW8",
+     "alt": "Whole Foods Market Extra Small Roasted Corn Guacamole"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_35.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_35.png?itok=1019uheX",
+     "alt": "Whole Foods Market Spicy Guacamole Dip Small"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_7_26.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_7_26.png?itok=citDhRrX",
+     "alt": "Whole Foods Market Guacamole & Pico de Gallo"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_9_19.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_9_19.png?itok=B6DmFvdV",
+     "alt": "Whole Foods Market Caribbean Mango Pineapple Turkey Burger"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_10_16.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_10_16.png?itok=kjaYpVwj",
+     "alt": "Whole Foods Market Heirloom Tomato Salsa"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_11_16.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_11_16.png?itok=67uIKAgu",
+     "alt": "Whole Foods Market Mild Pomegranate Guacamole"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_14_11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_14_11.png?itok=aNe5xCOu",
+     "alt": "Whole Foods Market Mild Guacamole Dip"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_16_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_16_6.png?itok=ah8GftxG",
+     "alt": "Whole Foods Market Dip Trio"
+    }
+   ],
+   "company_announcement_date": "2026-08-12"
+  },
+  {
+   "id": "lidl-us-recalls-vitasia-asian-style-wok-spice-mix-due-potential-salmonella-contamination",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-vitasia-asian-style-wok-spice-mix-due-potential-salmonella-contamination",
+   "fda_publish_date": "2026-08-12",
+   "brands": "Vitasia Chinese Style",
+   "product": "Spice Mix 1.58 oz",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Lidl US Trading",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:29Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_211.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_211.png?itok=lrwkKpn8",
+     "alt": "Photograph of front label panel of Vitasia Chinese Style Asian Style Wok Spice Mix,  1.58 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_161.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_161.png?itok=U4Q0U8KU",
+     "alt": "Photograph of side label panel UPC of Vitasia Chinese Style Asian Style Wok Spice Mix,  1.58 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_95.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_95.png?itok=8eISrh8r",
+     "alt": "Photograph of front label panel Best If Used By information of Vitasia Chinese Style Asian Style Wok Spice Mix,  1.58 oz."
+    }
+   ],
+   "company_announcement_date": "2026-08-11"
+  },
+  {
+   "id": "frankies-organic-issues-allergy-alert-undeclared-milk-frankies-organic-plant-based-vegan-cheddar",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frankies-organic-issues-allergy-alert-undeclared-milk-frankies-organic-plant-based-vegan-cheddar",
+   "fda_publish_date": "2026-08-12",
+   "brands": "Frankie’s Organic",
+   "product": "Plant Based Snack",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared milk",
+   "company": "Frankie’s Organic Foods Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:31Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/product_image.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/product_image.png?itok=eE6yQXJl",
+     "alt": "Frankie’s Organic Plant-Based Puffs Vegan Cheddar Net Wt. 4 oz. (113 g)"
+    }
+   ],
+   "company_announcement_date": "2026-08-11"
+  },
+  {
+   "id": "fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
+   "fda_publish_date": "2026-08-11",
+   "brands": "Fresenius Kabi",
+   "product": "Tyenne Injection 400 mg/20 mL vial",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Due to Presence of Glass Particles",
+   "company": "Fresenius Kabi",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:33Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1111_4.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1111_4.jpg?itok=8DdCwrGM",
+     "alt": "Tyenne Injection 400 mg/20 mL (20 mg/mL)"
+    }
+   ],
+   "company_announcement_date": "2026-08-10"
+  },
+  {
+   "id": "henkel-corp-announces-nationwide-recall-schwarzkopf-professional-osis-grip-676-fl-oz200-ml-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/henkel-corp-announces-nationwide-recall-schwarzkopf-professional-osis-grip-676-fl-oz200-ml-due",
+   "fda_publish_date": "2026-08-11",
+   "brands": "Schwarzkopf Professional",
+   "product": "Extra Strong Mousse",
+   "types": [
+    "Cosmetics"
+   ],
+   "reason": "Due to Packaging Defect",
+   "company": "Henkel Corp",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:35Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/osis_grip_200ml_highres.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/osis_grip_200ml_highres.jpeg?itok=QSrhl8AY",
+     "alt": "Schwarzkopf Professional Osis Grip 6.76 fl. Oz/200 ml"
+    }
+   ],
+   "company_announcement_date": "2026-08-11"
+  },
+  {
+   "id": "taylor-fresh-foods-recalls-products-made-jalapeno-peppers-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/taylor-fresh-foods-recalls-products-made-jalapeno-peppers-because-possible-health-risk",
+   "fda_publish_date": "2026-08-09",
+   "brands": "Trader Joe’s, Freshness Guaranteed and more",
+   "product": "Finished products (e.g. dips, salsa, guacamole and more) containing jalapeno",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible Salmonella Contamination",
+   "company": "Taylor Fresh Foods",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:37Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/hannaford_-_diced_jalapenos_3.75oz_upc_030223082712.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/hannaford_-_diced_jalapenos_3.75oz_upc_030223082712.png?itok=0SyHoviH",
+     "alt": "Hannaford — Diced Jalapenos 3.75oz (UPC 030223082712)"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_4.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_4.jpeg?itok=EljeFijv",
+     "alt": "Hannaford —Rice and Bean Burrito 12.5oz (UPC 030223082736)"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_14.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_14.png?itok=3qp8vxRq",
+     "alt": "Kroger —Spicy Jarlsberg Dip 10oz (UPC 030223114826)"
+    },
+    {
+     "src": "https://www.fda.gov/files/5_12.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/5_12.png?itok=caVr-dqX",
+     "alt": "Kroger — Spicy Pimento Cheese Dip 10oz (UPC 030223116448)"
+    },
+    {
+     "src": "https://www.fda.gov/files/6_9.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_9.png?itok=QYoJP1VJ",
+     "alt": "Stop & Shop / Hannaford — Pico de Gallo Salsa 7oz (UPC 688267575778)"
+    },
+    {
+     "src": "https://www.fda.gov/files/7_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/7_7.png?itok=37a6F25Q",
+     "alt": "Target (Taylor Farms/Unbranded) — Taco Dip 20oz (UPC 030223073581)"
+    },
+    {
+     "src": "https://www.fda.gov/files/8_4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/8_4.png?itok=UvebZIdB",
+     "alt": "Target (Taylor Farms/Unbranded) — Mango Pico De Gallo 11oz (UPC 030223073543)"
+    },
+    {
+     "src": "https://www.fda.gov/files/9_4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/9_4.png?itok=t862udsl",
+     "alt": "Target (Taylor Farms/Unbranded) — Spicy Guacamole 13oz (UPC 030223073574)"
+    },
+    {
+     "src": "https://www.fda.gov/files/10_4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/10_4.png?itok=QSYr9Emf",
+     "alt": "Target (Taylor Farms) — Pico de Gallo 16oz (UPC 030223073536)"
+    },
+    {
+     "src": "https://www.fda.gov/files/11_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/11_7.png?itok=zsMEXWkr",
+     "alt": "Target (Taylor Farms) — Authentic Guacamole 13oz (UPC 030223073567)"
+    },
+    {
+     "src": "https://www.fda.gov/files/12_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/12_5.png?itok=SDMMFamJ",
+     "alt": "Trader Joe's — Fiesta Salad with Shrimp 11.11oz (UPC 000000818377)"
+    },
+    {
+     "src": "https://www.fda.gov/files/13_2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/13_2.png?itok=ub4SkVXb",
+     "alt": "Walmart (Freshness Guaranteed) — Hot Pico De Gallo Spicy 10oz (UPC 681131276351)"
+    },
+    {
+     "src": "https://www.fda.gov/files/14_3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/14_3.png?itok=DpaMe95q",
+     "alt": "Walmart (Freshness Guaranteed) — Mild Pico De Gallo 10oz (UPC 681131276344)"
+    },
+    {
+     "src": "https://www.fda.gov/files/15_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/15_1.png?itok=pAZootIr",
+     "alt": "Whole Foods — Salsa Fresca Medium 12oz (UPC 030223075080)"
+    },
+    {
+     "src": "https://www.fda.gov/files/16.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/16.png?itok=c0CSaMe2",
+     "alt": "Whole Foods — Pico de Gallo Mild 10oz (UPC 030223075097)"
+    },
+    {
+     "src": "https://www.fda.gov/files/17.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/17.png?itok=KJxOGQ36",
+     "alt": "Whole Foods — Pico de Gallo Spicy 10oz (UPC 030223075608)"
+    },
+    {
+     "src": "https://www.fda.gov/files/18.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/18.png?itok=bHG8oOQ1",
+     "alt": "Whole Foods — Salsa Verde Mild 12oz (UPC 030223075639)"
+    },
+    {
+     "src": "https://www.fda.gov/files/19.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/19.png?itok=n974YktC",
+     "alt": "Whole Foods — Salsa Roja Medium 12oz (UPC 030223075646)"
+    },
+    {
+     "src": "https://www.fda.gov/files/20.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/20.png?itok=adbuiGt_",
+     "alt": "Whole Foods — Pineapple Mango Salsa Mild 10oz (UPC 030223075653)"
+    },
+    {
+     "src": "https://www.fda.gov/files/spicy_beef.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/spicy_beef.png?itok=haumEZ_c",
+     "alt": "Private Selection Spicy Roast Beef Sandwich, 8.53 oz."
+    }
+   ],
+   "company_announcement_date": "2026-08-09"
+  },
+  {
+   "id": "lexunder-inc-recalls-food-live-brand-green-powder-products-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lexunder-inc-recalls-food-live-brand-green-powder-products-because-possible-health-risk",
+   "fda_publish_date": "2026-08-07",
+   "brands": "Food To Live",
+   "product": "Green Powder Products",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible Salmonella Contamination",
+   "company": "Lexunder Inc. dba Food To Live",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:39Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/example_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/example_1.png?itok=H-2czsWy",
+     "alt": "Example of the back label. The lot code appears after \"LOT#\"."
+    }
+   ],
+   "company_announcement_date": "2026-08-07"
+  },
+  {
+   "id": "medline-industries-lp-issues-nationwide-recall-hudson-rci-neonatalinfant-heated-wire-breathing",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medline-industries-lp-issues-nationwide-recall-hudson-rci-neonatalinfant-heated-wire-breathing",
+   "fda_publish_date": "2026-08-06",
+   "brands": "Medline, Teleflex",
+   "product": "Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits",
+   "types": [
+    "Medical Devices"
+   ],
+   "reason": "Due to heated wire connector (pigtail) at the Neptune humidifier may exhibit discoloration, melting, smoke, burning odor, or other signs of localized thermal damage",
+   "company": "Medline Industries, LP",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:41Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_207.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_207.png?itok=6jehVk9r",
+     "alt": "Hudson RCI Neonatal/Infant Heated Wire Breathing Circuit Product photo"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_159.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_159.png?itok=Elufy1fo",
+     "alt": "Photo depicting defect showing signs of localized thermal damage"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_93.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_93.png?itok=D30vOSaC",
+     "alt": "Label example to identify the manufacturing date (red) and item number (blue) on the product label."
+    }
+   ],
+   "company_announcement_date": "2026-08-05"
+  },
+  {
+   "id": "sun-noodle-issues-voluntary-recall-sura-tanmen-hot-and-sour-flavor-premium-japanese-noodles-soup",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sun-noodle-issues-voluntary-recall-sura-tanmen-hot-and-sour-flavor-premium-japanese-noodles-soup",
+   "fda_publish_date": "2026-08-06",
+   "brands": "Sun Noodle",
+   "product": "Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Contain undeclared Fish",
+   "company": "Sun Noodle of Honolulu",
+   "terminated": true,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:44Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_206.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_206.png?itok=b6nx8drE",
+     "alt": "Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base, front of package, Net Wt. 15.4 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_158.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_158.png?itok=KgNMOpjx",
+     "alt": "Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base, Case UPC 085315054105"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_92.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_92.png?itok=lWSSBVk0",
+     "alt": "Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base, Front and Back label, UPC 085315054108"
+    }
+   ],
+   "company_announcement_date": "2026-08-05"
+  },
+  {
+   "id": "fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
+   "fda_publish_date": "2026-08-05",
+   "brands": "Fresenius Kabi",
+   "product": "Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Due to a label mix-up",
+   "company": "Fresenius Kabi",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:46Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_281.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_281.jpg?itok=C4ABj7fX",
+     "alt": "Correct Product Configuration: Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL lot 6402820"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_220.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_220.jpg?itok=eJ5w9hXQ",
+     "alt": "Incorrect Product Configuration: Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL seal with Dilaudid (HYDROmorphone HCl) Injection, USP Simplist® 0.5 mg/0.5 mL  syringes (lot 6402813)"
+    }
+   ],
+   "company_announcement_date": "2026-08-04"
+  },
+  {
+   "id": "victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
+   "fda_publish_date": "2026-08-05",
+   "brands": "VMC",
+   "product": "Compounded Glutathione 200 mg/mL Multi-Dose Vials",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Elevated Endotoxin level",
+   "company": "Victory Medical Center Pharmacy",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:48Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_204.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_204.png?itok=TjjceJOv",
+     "alt": "Compounded Glutathione 200 mg/mL in bottle"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_156.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_156.png?itok=8txcaOm5",
+     "alt": "Compounded Glutathione 200 mg/mL label, Exp August 27, 2026"
+    }
+   ],
+   "company_announcement_date": "2026-08-05"
+  },
+  {
+   "id": "liebel-flarsheim-company-llc-issues-recall-optiray-imaging-bulk-package-350-500ml-vial-nationwide",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liebel-flarsheim-company-llc-issues-recall-optiray-imaging-bulk-package-350-500ml-vial-nationwide",
+   "fda_publish_date": "2026-08-04",
+   "brands": "OPTIRAY",
+   "product": "OPTIRAY Imaging Bulk Package (IBP) 350, 500mL in vial (Ioversol Injection 74% 350 mg iodine/ml)",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Presence of particulate matter comprising polyethylene and other plastic materials, stainless steel and glass",
+   "company": "Liebel-Flarsheim Company, LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:50Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_203.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_203.png?itok=KFLxuBh4",
+     "alt": "OPTIRAY Imaging Bulk Package (IBP) 500mL in vial, (Ioversol Injection 74% 350 mg iodine/ml), label example"
+    }
+   ],
+   "company_announcement_date": "2026-07-31"
+  },
+  {
+   "id": "blank-slate-creamery-issues-allergy-alert-undeclared-egg-vegan-non-dairy-frozen-dessert-coconut",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blank-slate-creamery-issues-allergy-alert-undeclared-egg-vegan-non-dairy-frozen-dessert-coconut",
+   "fda_publish_date": "2026-08-04",
+   "brands": "Blank Slate Creamery",
+   "product": "Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared egg allergen",
+   "company": "Blank Slate Creamery",
+   "terminated": true,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:52Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_280.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_280.jpg?itok=IE81bQNS",
+     "alt": "Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches, Net Wt. 4.5 oz, Front label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_219.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_219.jpg?itok=_mBprTel",
+     "alt": "Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches, Best By Date 1/9/2027 , Back label example"
+    }
+   ],
+   "company_announcement_date": "2026-08-04"
+  },
+  {
+   "id": "american-regent-inc-animal-health-issues-nationwide-recall-two-lots-adequanr-canine-and-two-lots",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-animal-health-issues-nationwide-recall-two-lots-adequanr-canine-and-two-lots",
+   "fda_publish_date": "2026-08-03",
+   "brands": "American Regent, Inc. Animal Health",
+   "product": "Adequan Canine Injection and Adequan i.m Injection for horses",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Visible glass fiber material in the product",
+   "company": "American Regent, Inc. Animal Health",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:54Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_202.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_202.png?itok=DpsE0RdU",
+     "alt": "Adequan® i.m. Injection (for horses), 500mg/5 mL single-dose 5mL vials"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_155.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_155.png?itok=LWxaD6bJ",
+     "alt": "Adequan® Canine Injection (for dogs), 100 mg/mL 5mL multi-dose vials"
+    }
+   ],
+   "company_announcement_date": "2026-07-31"
+  },
+  {
+   "id": "boticelli-foods-recalls-bettergoods-pistachio-nut-butter-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/boticelli-foods-recalls-bettergoods-pistachio-nut-butter-because-possible-health-risk",
+   "fda_publish_date": "2026-08-03",
+   "brands": "Bettergoods",
+   "product": "Pistachio Nut Butter",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible Salmonella Contamination",
+   "company": "Boticelli Foods",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:57Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_201.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_201.png?itok=fD22yCre",
+     "alt": "Bettergoods Pistachio Nut Butter, NET WT 6.7oz"
+    }
+   ],
+   "company_announcement_date": "2026-08-03"
+  },
+  {
+   "id": "bd-issues-nationwide-recall-specific-lots-bdr-intraosseous-vascular-access-system-needle-sets-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-issues-nationwide-recall-specific-lots-bdr-intraosseous-vascular-access-system-needle-sets-due",
+   "fda_publish_date": "2026-08-03",
+   "brands": "BD",
+   "product": "Intraosseous Vascular Access System Needle Sets",
+   "types": [
+    "Medical Devices"
+   ],
+   "reason": "Due to Reports of Difficulty Removing the Obturator",
+   "company": "(Becton, Dickinson and Company)",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:21:59Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-07-30"
+  },
+  {
+   "id": "ukrops-homestyle-foods-announces-voluntary-recall-due-possible-foreign-object",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ukrops-homestyle-foods-announces-voluntary-recall-due-possible-foreign-object",
+   "fda_publish_date": "2026-08-01",
+   "brands": "Ukrops Homestyle Foods",
+   "product": "Baked Spaghetti and Bread Pudding products",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Baked products have potential for presence of aluminum slivers from the pans that were used",
+   "company": "Ukrops Homestyle Foods",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:01Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-07-30"
+  },
+  {
+   "id": "lidl-us-expands-recall-eridanous-shortbread-cookies-due-undeclared-wheat-soy-milk-egg-and-tree-nut",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-expands-recall-eridanous-shortbread-cookies-due-undeclared-wheat-soy-milk-egg-and-tree-nut",
+   "fda_publish_date": "2026-07-31",
+   "brands": "Eridanous",
+   "product": "Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling 11.6 oz (330 g) box",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Additional product with undeclared wheat, soy, milk, and egg allergens due to foreign language packaging that did not contain English ingredients, nutrition facts, or allergen declarations.",
+   "company": "Lidl US",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:03Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_200.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_200.png?itok=GFX-7Ipa",
+     "alt": "Front of package, Eridanous Shortbread Cookies with Apricot Filling and Cocoa Topping with Coconut Sprinkles"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_154.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_154.png?itok=y-nIcaY0",
+     "alt": "Back of package, Eridanous Shortbread Cookies with Apricot Filling and Cocoa Topping with Coconut Sprinkles"
+    }
+   ],
+   "company_announcement_date": "2026-07-31"
+  },
+  {
+   "id": "529-commerce-llc-recalls-rooted-rare-brand-aquafaba-powder-due-undeclared-eggs",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/529-commerce-llc-recalls-rooted-rare-brand-aquafaba-powder-due-undeclared-eggs",
+   "fda_publish_date": "2026-07-30",
+   "brands": "Rooted in RARE",
+   "product": "Aquafaba Powder 4oz (113g) and (12 oz (340g) flexible foil pouches",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared egg allergen",
+   "company": "529 Commerce, LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:05Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1_11.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1_11.jpg?itok=CWJyKiu3",
+     "alt": "Front of package, Rooted in RARE Aquafaba Powder package"
+    },
+    {
+     "src": "https://www.fda.gov/files/picture2_4.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture2_4.jpg?itok=9iKWCijl",
+     "alt": "Back of package, Rooted in RARE Aquafaba Powder package"
+    }
+   ],
+   "company_announcement_date": "2026-07-29"
+  },
+  {
+   "id": "publix-recalls-all-lots-greenwise-organic-frozen-blueberries-and-whole-mixed-berries-due-potential-e",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-recalls-all-lots-greenwise-organic-frozen-blueberries-and-whole-mixed-berries-due-potential-e",
+   "fda_publish_date": "2026-07-30",
+   "brands": "GreenWise",
+   "product": "Organic IQF Frozen Blueberries and Whole Mixed Berries, 10 oz and 48 oz",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible E. Coli Contamination",
+   "company": "Publix",
+   "terminated": true,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:07Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/11_5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/11_5.png?itok=ei-H5lB5",
+     "alt": "GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453"
+    },
+    {
+     "src": "https://www.fda.gov/files/12_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/12_1.png?itok=llzLmUMn",
+     "alt": "GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053"
+    },
+    {
+     "src": "https://www.fda.gov/files/13.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/13.png?itok=Mo8NJht4",
+     "alt": "GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753"
+    },
+    {
+     "src": "https://www.fda.gov/files/14.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/14.png?itok=L_phuXh_",
+     "alt": "GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153"
+    }
+   ],
+   "company_announcement_date": "2026-07-29"
+  },
+  {
+   "id": "lidl-us-recalls-eridanous-shortbread-cookies-chocolate-truffle-coating-apricot-filling-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-eridanous-shortbread-cookies-chocolate-truffle-coating-apricot-filling-due",
+   "fda_publish_date": "2026-07-28",
+   "brands": "Eridanous",
+   "product": "Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling, 11.6 oz (330 g), UPC 4056489125839",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Undeclared wheat, soy, milk, and egg allergens due to foreign language packaging that did not contain English ingredients, nutrition facts, or allergen declarations.",
+   "company": "Lidl US",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:09Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image1.jpeg?itok=NlNNkaWV",
+     "alt": "Box of Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling, 11.6 oz (330 g), UPC 4056489125839, subject to recall by Lidl US due to undeclared wheat, soy, milk, and egg allergens."
+    },
+    {
+     "src": "https://www.fda.gov/files/image2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image2.jpeg?itok=ZGsmnnxE",
+     "alt": "Back of box, BEST BEFORE 10/11/2026, LOT No 260315, Nutrition and Ingredients statement"
+    }
+   ],
+   "company_announcement_date": "2026-07-24"
+  },
+  {
+   "id": "american-regent-inc-issues-voluntary-nationwide-recall-one-lot-papaverine-hydrochloride-injection",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-issues-voluntary-nationwide-recall-one-lot-papaverine-hydrochloride-injection",
+   "fda_publish_date": "2026-07-27",
+   "brands": "American Regent, Inc.",
+   "product": "Papaverine Hydrochloride Injection, USP 60 mg/ 2 mL",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Products were found to contain particulate matter",
+   "company": "American Regent, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:12Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1_8.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1_8.png?itok=bWqafgF-",
+     "alt": "American Regent Inc. Papaverine Hydrochloride Injection 60mg/2mL"
+    }
+   ],
+   "company_announcement_date": "2026-07-24"
+  },
+  {
+   "id": "baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml20mg-ml-single",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml20mg-ml-single",
+   "fda_publish_date": "2026-07-24",
+   "brands": "Baxter",
+   "product": "Cefazolin in Dextrose Injection",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Particulate matter (cardboard) found in the solution.",
+   "company": "Baxter International Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:14Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/bax1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bax1.png?itok=1esQmKkG",
+     "alt": "Cefazolin in Dextrose Injection USP IV bag with a red circle highlighting the lot number and expiration date"
+    },
+    {
+     "src": "https://www.fda.gov/files/bax2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bax2.png?itok=W_aO6Caa",
+     "alt": "Close-up of the Cefazolin in Dextrose Injection USP IV bag showing the lot number and expiration date inside a red box."
+    },
+    {
+     "src": "https://www.fda.gov/files/bax3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bax3.png?itok=V2OWdXwY",
+     "alt": "Cefazolin in Dextrose Injection USP box with a red circle highlighting the lot number and expiration date on the side label."
+    }
+   ],
+   "company_announcement_date": "2026-07-24"
+  },
+  {
+   "id": "sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
+   "fda_publish_date": "2026-07-24",
+   "brands": "Long Grove Pharmaceuticals",
+   "product": "Cyclophosphamide for Injection",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Presence of particulate matter identified as steel",
+   "company": "Sunny Pharmtech, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:16Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/press_release1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/press_release1.jpeg?itok=0yAZAUQm",
+     "alt": "Label, Cyclophosphamide for Injection, USP 1 gram/vial"
+    },
+    {
+     "src": "https://www.fda.gov/files/press_release2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/press_release2.jpeg?itok=ObVQZZvw",
+     "alt": "Label, Cyclophosphamide for Injection, USP 2 gram/vial"
+    }
+   ],
+   "company_announcement_date": "2026-07-24"
+  },
+  {
+   "id": "fresh-ready-foods-llc-recalls-spicy-breakfast-burrito-due-undeclared-soy",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-ready-foods-llc-recalls-spicy-breakfast-burrito-due-undeclared-soy",
+   "fda_publish_date": "2026-07-22",
+   "brands": "Sprig & Sprout; Fresh and Ready",
+   "product": "Spicy Breakfast Burritos",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Undeclared soy allergen due to inadvertent inclusion of sausage in products labeled as vegetarian",
+   "company": "Fresh & Ready Foods LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:18Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/ready1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/ready1.png?itok=Ew73m7qc",
+     "alt": "Front of package label for Sprig & Sprout Spicy Breakfast Burrito, 8.3 oz (234g), UPC 1 00001 00029 7, with Fresh Thru date of 07/20/26."
+    },
+    {
+     "src": "https://www.fda.gov/files/ready2_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/ready2_0.jpg?itok=xATnTpfL",
+     "alt": "Back of package label for Sprig & Sprout Spicy Breakfast Burrito, 8.3 oz (234g), UPC 1 00001 00029 7"
+    },
+    {
+     "src": "https://www.fda.gov/files/ready3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/ready3.png?itok=0YduezOJ",
+     "alt": "Front of package label for Fresh and Ready Spicy Breakfast Burrito, 8.2 oz (232g), UPC 1 00001 00029 7, with Fresh Thru date of 07/20/26"
+    },
+    {
+     "src": "https://www.fda.gov/files/ready4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/ready4.png?itok=t-65aIvQ",
+     "alt": "Back of package label for Fresh and Ready Spicy Breakfast Burrito, 8.2 oz (232g), UPC 1 00001 00029 7"
+    }
+   ],
+   "company_announcement_date": "2026-07-21"
+  },
+  {
+   "id": "midwest-poultry-services-lp-recalls-shell-eggs-due-possible-salmonella-enteritidis-contamination",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/midwest-poultry-services-lp-recalls-shell-eggs-due-possible-salmonella-enteritidis-contamination",
+   "fda_publish_date": "2026-07-22",
+   "brands": "Multiple brand names",
+   "product": "White shell eggs and brown cage free shell eggs",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella Enteritidis.",
+   "company": "Midwest Poultry Services, L.P.",
+   "terminated": true,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:20Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_199.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_199.png?itok=pYPtqb1u",
+     "alt": "Picture of the plant number and code information on an egg carton"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_218.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_218.jpg?itok=Ai8cdpgd",
+     "alt": "Packaging, Country Morning Grade A Jumbo Eggs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_116.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_116.jpg?itok=J9uN6PU_",
+     "alt": "Packaging Cal-Maine Sunups"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_79.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_79.jpg?itok=kcRJOytm",
+     "alt": "Packaging, Brookshires Farm Fresh Jumbo Eggs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_50.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_50.jpg?itok=N_t0FqJl",
+     "alt": "Kroger Large Grade A Eggs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_42.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_42.jpg?itok=ZccIOZcl",
+     "alt": "Simple Truth Natural Cage Free Grain Fed"
+    }
+   ],
+   "company_announcement_date": "2026-07-23"
+  },
+  {
+   "id": "pt-organics-limited-recalls-select-pumpkin-tree-peter-rabbit-organics-banana-strawberry-fruit-puree",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pt-organics-limited-recalls-select-pumpkin-tree-peter-rabbit-organics-banana-strawberry-fruit-puree",
+   "fda_publish_date": "2026-07-21",
+   "brands": "Pumpkin Tree Peter Rabbit Organics",
+   "product": "Banana & Strawberry Fruit Puree Pouches, 4 oz. (113 g)",
+   "types": [
+    "Food & Beverages"
+   ],
+   "reason": "Potential presence of soft plastic in the finished product.",
+   "company": "PT Organics Limited",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:22Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-07-21"
+  },
+  {
+   "id": "unique-pharmaceutical-laboratories-div-j-b-chemicals-pharmaceuticals-ltd-issues-voluntary-nationwide",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/unique-pharmaceutical-laboratories-div-j-b-chemicals-pharmaceuticals-ltd-issues-voluntary-nationwide",
+   "fda_publish_date": "2026-07-20",
+   "brands": "Rising Pharma Holdings Inc.",
+   "product": "Cetirizine Hydrochloride Tablets USP 5 mg",
+   "types": [
+    "Drugs"
+   ],
+   "reason": "Potential cross contamination with Ranitidine",
+   "company": "Unique Pharmaceutical Laboratories",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:25Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_278.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_278.jpg?itok=RywlFxzt",
+     "alt": "Product Bottle: HDPE bottle of Cetirizine Hydrochloride Tablets USP 5 mg, 100 tablets."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_153.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_153.png?itok=fhwCguWz",
+     "alt": "Product Label: Label of Cetirizine Hydrochloride Tablets USP 5 mg, 100 tablets."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_115.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_115.jpg?itok=7iYqM-AM",
+     "alt": "Cetirizine Hydrochloride Tablets USP 5 mg (tablets): Cetirizine Hydrochloride Tablets USP 5 mg."
+    }
+   ],
+   "company_announcement_date": "2026-07-18"
+  },
+  {
+   "id": "relay-peak-research-llc-recalls-zen-principler-moringa-capsules-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/relay-peak-research-llc-recalls-zen-principler-moringa-capsules-because-possible-health-risk",
+   "fda_publish_date": "2026-07-19",
+   "brands": "Zen Principle",
+   "product": "Moringa Leaf Powder Capsules",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible Salmonella Contamination",
+   "company": "Relay Peak Research LLC dba Zen Principle Naturals",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:27Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_198.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_198.png?itok=ykO2ZTWa",
+     "alt": "Zen Principle Moringa Leaf Powder in bottle 180 capsules"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_152.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_152.png?itok=kJNsfK37",
+     "alt": "Zen Principle Moringa Leaf Powder in bottle with Amazon code X000ZJJ4FT"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_90.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_90.png?itok=wihTkCaV",
+     "alt": "Zen Principle Moringa Leaf Powder in bottle, back view"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_74.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_74.png?itok=PK7hZ1cr",
+     "alt": "Zen principle Moringa Leaf Powder in bottle, twin pack, Amazon code X00159YJXP"
+    }
+   ],
+   "company_announcement_date": "2026-07-19"
+  },
+  {
+   "id": "taylor-fresh-foods-recalls-iceberg-lettuce-central-mexico-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/taylor-fresh-foods-recalls-iceberg-lettuce-central-mexico-because-possible-health-risk",
+   "fda_publish_date": "2026-07-18",
+   "brands": "CV, JB, Mark and more",
+   "product": "Iceberg lettuce",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible Cyclospora Contamination",
+   "company": "Taylor Fresh Foods",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:29Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-07-17"
+  },
+  {
+   "id": "fayus-inc-dba-yusol-international-foods-expands-recall-ola-ola-pounded-yam-due-undeclared-milk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fayus-inc-dba-yusol-international-foods-expands-recall-ola-ola-pounded-yam-due-undeclared-milk",
+   "fda_publish_date": "2026-07-17",
+   "brands": "Ola-Ola",
+   "product": "Pounded Yam (2lb, 4lb, 5lb, 10 lb)",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "May contain undeclared milk in the form of sodium caseinate",
+   "company": "Fayus, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:31Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_197.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_197.png?itok=Zn7Bb_OS",
+     "alt": "4lb Pounded Yam package (front view) – Correct label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_151.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_151.png?itok=zbEuwmyV",
+     "alt": "4lb Pounded Yam package (back view) – Correct label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_89.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_89.png?itok=E6rE_wlO",
+     "alt": "4lb Pounded Yam package (front view) – Incorrect label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_73.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_73.png?itok=KJTykIpN",
+     "alt": "4lb Pounded Yam package (back view) – Incorrect label"
+    }
+   ],
+   "company_announcement_date": "2026-07-18"
+  },
+  {
+   "id": "khong-guan-corporation-issues-recall-glutinous-rice-balls-black-sesame-filling-due-undeclared",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/khong-guan-corporation-issues-recall-glutinous-rice-balls-black-sesame-filling-due-undeclared",
+   "fda_publish_date": "2026-07-16",
+   "brands": "Khong Guan Corporation",
+   "product": "Glutinous Rice Balls with Black Sesame Filling",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "May Contain Undeclared Peanuts",
+   "company": "Khong Guan Corporation",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:33Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_195.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_195.png?itok=tbjGZX42",
+     "alt": "Glutinous Rice Balls with Black Sesame Filling , Net Wt 14.1 oz bag, (front packaging)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_149.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_149.png?itok=v1AvFgrU",
+     "alt": "Glutinous Rice Balls with Black Sesame Filling, UPC: 6-908791-000053  ( back label)"
+    }
+   ],
+   "company_announcement_date": "2026-07-16"
+  },
+  {
+   "id": "khong-guan-corporation-issues-expanded-recall-glutinous-rice-balls-black-sesame-filling-include",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/khong-guan-corporation-issues-expanded-recall-glutinous-rice-balls-black-sesame-filling-include",
+   "fda_publish_date": "2026-07-15",
+   "brands": "Khong Guan Corporation",
+   "product": "Glutinous Rice Balls with Black Sesame Filling and Black & White Glutinous Rice Balls with Black Sesame Filling",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "May Contain Undeclared Peanuts",
+   "company": "Khong Guan Corporation",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:35Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_196.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_196.png?itok=5AfPeGLH",
+     "alt": "Glutinous Rice Balls with Black Sesame Filling , Net Wt 14.1 oz bag, (front packaging)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_150.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_150.png?itok=NGIJ7OXr",
+     "alt": "Glutinous Rice Balls with Black Sesame Filling, UPC: 6-908791-000053  ( back label)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_88.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_88.png?itok=r6KR-PIz",
+     "alt": "Black & White Glutinous Rice balls With Black Sesame Filling; Net Wt. 14.1 oz (front packaging)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_72.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_72.png?itok=qlDX6QTE",
+     "alt": "Black & White Glutinous Rice balls With Black Sesame Filling; UPC 6908791000084 (back label)"
+    }
+   ],
+   "company_announcement_date": "2026-07-15"
+  },
+  {
+   "id": "fayus-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fayus-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
+   "fda_publish_date": "2026-07-07",
+   "brands": "Ola-Ola",
+   "product": "Pounded Yam",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "May contain undeclared milk in the form of sodium caseinate",
+   "company": "Fayus, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "retrieved": "2026-10-05T18:22:37Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_25.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_25.jpg?itok=wQgif1pd",
+     "alt": "Ola-Ola Authentic Pounded Yam (Iyan), 64 oz."
+    }
+   ],
+   "company_announcement_date": "2026-07-06"
+  }
+ ],
+ "major": [
+  {
+   "id": "2026-recalls-food-products-associated-fresh-jalapenos-sinaloa-mexico-and-distributed-coast-citrus",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2026-recalls-food-products-associated-fresh-jalapenos-sinaloa-mexico-and-distributed-coast-citrus",
+   "title": "2026 Recalls of Food Products Associated with Fresh Jalapeños from Sinaloa, Mexico and distributed by Coast Citrus Distributors due to the Potential Risk of Salmonella",
+   "year": "2026",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2026-08-20",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:42Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2026-recalls-food-products-associated-powdered-milk-california-dairies-inc-due-potential-salmonella",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2026-recalls-food-products-associated-powdered-milk-california-dairies-inc-due-potential-salmonella",
+   "title": "2026 Recalls of Food Products Associated with Powdered Milk from California Dairies Inc. Due to a Potential Salmonella Risk",
+   "year": "2026",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2026-06-01",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:44Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2024-recalls-food-products-associated-americanslicer-whole-cucumbers-grown-agrotato-sa-de-cv-sonora",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2024-recalls-food-products-associated-americanslicer-whole-cucumbers-grown-agrotato-sa-de-cv-sonora",
+   "title": "2024 Recalls of Food Products Associated with American/Slicer Whole Cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico due to the Potential Risk of Salmonella",
+   "year": "2024",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2024-12-11",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:46Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2024-recalls-food-products-associated-dairy-products-rizo-lopez-foods-inc-due-potential-risk",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2024-recalls-food-products-associated-dairy-products-rizo-lopez-foods-inc-due-potential-risk",
+   "title": "2024 Recalls of Food Products Associated with Dairy Products from Rizo Lopez Foods, Inc. due to the Potential Risk of Listeria monocytogenes",
+   "year": "2024",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2024-02-12",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:48Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2025-recalls-cucumbers-associated-bedner-growers-inc-boynton-beach-florida-due-potential-risk",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2025-recalls-cucumbers-associated-bedner-growers-inc-boynton-beach-florida-due-potential-risk",
+   "title": "2025 Recalls of Cucumbers Associated with Bedner Growers Inc., Boynton Beach, Florida, Due to the Potential Risk of Salmonella Contamination",
+   "year": "2025",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2025-05-28",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:50Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2025-recalls-frozen-shrimp-products-associated-cesium-137-contamination-pt-bahari-makmur-sejati-due",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2025-recalls-frozen-shrimp-products-associated-cesium-137-contamination-pt-bahari-makmur-sejati-due",
+   "title": "2025 Recalls of Frozen Shrimp Products Associated with Cesium-137 Contamination from PT. Bahari Makmur Sejati Due to Potential Safety Concerns",
+   "year": "2025",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2025-09-25",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:52Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2023-recalls-food-products-associated-cantaloupes-due-potential-risk-salmonella",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2023-recalls-food-products-associated-cantaloupes-due-potential-risk-salmonella",
+   "title": "2023 Recalls of Food Products Associated with Cantaloupes due to the Potential Risk of Salmonella",
+   "year": "2023",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2023-12-13",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:55Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2022-recalls-food-products-associated-peanut-butter-jm-smucker-company-due-potential-risk-salmonella",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2022-recalls-food-products-associated-peanut-butter-jm-smucker-company-due-potential-risk-salmonella",
+   "title": "2022 Recalls of Food Products Associated with Peanut Butter from J.M. Smucker Company due to the Potential Risk of Salmonella",
+   "year": "2022",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2022-06-03",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:57Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2021-recalls-food-products-associated-onions-prosource-produce-llc-and-keeler-family-farms-due",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2021-recalls-food-products-associated-onions-prosource-produce-llc-and-keeler-family-farms-due",
+   "title": "2021 Recalls of Food Products Associated with Onions from ProSource Produce LLC and Keeler Family Farms due to the Potential Risk of Salmonella",
+   "year": "2021",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2021-10-27",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:22:59Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2025-recalls-prepared-pasta-meals-frozen-and-ready-eat-due-potential-listeria-monocytogenes",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2025-recalls-prepared-pasta-meals-frozen-and-ready-eat-due-potential-listeria-monocytogenes",
+   "title": "2025 Recalls of Prepared Pasta Meals (Frozen and Ready-To-Eat) Due to Potential Listeria monocytogenes Contamination",
+   "year": "2025",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2025-10-10",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:23:01Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2020-recalls-food-products-associated-onions-thomson-international-inc-due-potential-risk-salmonella",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2020-recalls-food-products-associated-onions-thomson-international-inc-due-potential-risk-salmonella",
+   "title": "2020 Recalls of Food Products Associated with Onions from Thomson International, Inc. due to the Potential Risk of Salmonella",
+   "year": "2020",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2020-09-16",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:23:03Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "recalls-associated-almarks-recall-hard-boiled-egg-products",
+   "url": "https://www.fda.gov/safety/major-product-recalls/recalls-associated-almarks-recall-hard-boiled-egg-products",
+   "title": "Recalls associated with Almark’s recall of hard-boiled egg products",
+   "year": null,
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2020-01-23",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:23:05Z",
+   "status": "confirmed"
+  },
+  {
+   "id": "2019-recalls-vegetable-products-associated-mann-packing-co-inc-due-potential-risk-listeria",
+   "url": "https://www.fda.gov/safety/major-product-recalls/2019-recalls-vegetable-products-associated-mann-packing-co-inc-due-potential-risk-listeria",
+   "title": "2019 Recalls of Vegetable Products Associated with Mann Packing Co., Inc. due to the Potential Risk of Listeria monocytogenes",
+   "year": "2019",
+   "first_seen": "2026-10-05T18:19:07Z",
+   "current_as_of": "2019-11-12",
+   "updated_seen": null,
+   "source": "FDA Major Product Recalls",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+   "retrieved": "2026-10-05T18:23:07Z",
+   "status": "confirmed"
+  }
+ ]
+}
