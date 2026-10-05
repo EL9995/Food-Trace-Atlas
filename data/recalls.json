@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T18:23:07Z",
+ "generated": "2026-10-05T18:41:11Z",
  "sources": [
   {
    "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
@@ -3752,6 +3752,94 @@
     }
    ],
    "company_announcement_date": "2026-07-06"
+  },
+  {
+   "id": "frutas-y-hortalizas-del-sur-sa-initiates-recall-frozen-greenwise-organic-iqf-blueberries-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-initiates-recall-frozen-greenwise-organic-iqf-blueberries-due",
+   "fda_publish_date": "2026-07-06",
+   "brands": "GreenWise",
+   "product": "Organic IQF Frozen Blueberries 10 oz",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Possible E. Coli Contamination",
+   "company": "Frutas y Hortalizas del Sur S.A.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:40:34Z",
+   "retrieved": "2026-10-05T18:40:37Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_194.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_194.png?itok=dVbuViWR",
+     "alt": "Package of GreenWise Whole Blueberries, frozen"
+    }
+   ],
+   "company_announcement_date": "2026-07-03"
+  },
+  {
+   "id": "gellert-global-group-issues-allergy-alert-undeclared-tuna-fish-aldi-brand-fusia-asian-inspirations",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gellert-global-group-issues-allergy-alert-undeclared-tuna-fish-aldi-brand-fusia-asian-inspirations",
+   "fda_publish_date": "2026-07-02",
+   "brands": "Fusia",
+   "product": "Kimchi & Tofu Kimbap",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Product contains undeclared fish (tuna)",
+   "company": "Gellert Global Group",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:40:34Z",
+   "retrieved": "2026-10-05T18:40:39Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/principal_display_panel-fusia_kimchi_and_tofu_kimbap.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/principal_display_panel-fusia_kimchi_and_tofu_kimbap.png?itok=Ponthfoe",
+     "alt": "Fusia Asian Inspirations Kimchi & Tofu Kimbap, Net Wt. 8.1 oz"
+    }
+   ],
+   "company_announcement_date": "2026-07-02"
+  },
+  {
+   "id": "voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
+   "fda_publish_date": "2026-07-02",
+   "brands": "Pedigree",
+   "product": "High Protein Chopped Chicken & Duck Flavor Wet Dog Food",
+   "types": [
+    "Animal & Veterinary",
+    "Pet Food",
+    "Food & Beverages",
+    "Pet Food"
+   ],
+   "reason": "Potential foreign plastic contamination",
+   "company": "Mars Petcare US, Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-05T18:40:34Z",
+   "retrieved": "2026-10-05T18:40:41Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_193.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_193.png?itok=Hx1E1agE",
+     "alt": "PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz Cans for dogs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_148.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_148.png?itok=Oi_cG4I5",
+     "alt": "Bottom of can example – location of lot codes Lot codes: 613C3KKCFC & 613C1KKCFC"
+    }
+   ],
+   "company_announcement_date": "2026-07-03"
   }
  ],
  "major": [
@@ -3765,7 +3853,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:42Z",
+   "retrieved": "2026-10-05T18:40:45Z",
    "status": "confirmed"
   },
   {
@@ -3778,7 +3866,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:44Z",
+   "retrieved": "2026-10-05T18:40:48Z",
    "status": "confirmed"
   },
   {
@@ -3791,7 +3879,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:46Z",
+   "retrieved": "2026-10-05T18:40:50Z",
    "status": "confirmed"
   },
   {
@@ -3804,7 +3892,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:48Z",
+   "retrieved": "2026-10-05T18:40:52Z",
    "status": "confirmed"
   },
   {
@@ -3817,7 +3905,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:50Z",
+   "retrieved": "2026-10-05T18:40:54Z",
    "status": "confirmed"
   },
   {
@@ -3830,7 +3918,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:52Z",
+   "retrieved": "2026-10-05T18:40:56Z",
    "status": "confirmed"
   },
   {
@@ -3843,7 +3931,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:55Z",
+   "retrieved": "2026-10-05T18:40:58Z",
    "status": "confirmed"
   },
   {
@@ -3856,7 +3944,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:57Z",
+   "retrieved": "2026-10-05T18:41:00Z",
    "status": "confirmed"
   },
   {
@@ -3869,7 +3957,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:22:59Z",
+   "retrieved": "2026-10-05T18:41:02Z",
    "status": "confirmed"
   },
   {
@@ -3882,7 +3970,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:23:01Z",
+   "retrieved": "2026-10-05T18:41:04Z",
    "status": "confirmed"
   },
   {
@@ -3895,7 +3983,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:23:03Z",
+   "retrieved": "2026-10-05T18:41:07Z",
    "status": "confirmed"
   },
   {
@@ -3908,7 +3996,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:23:05Z",
+   "retrieved": "2026-10-05T18:41:09Z",
    "status": "confirmed"
   },
   {
@@ -3921,7 +4009,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-05T18:23:07Z",
+   "retrieved": "2026-10-05T18:41:11Z",
    "status": "confirmed"
   }
  ]
