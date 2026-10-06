@@ -7,6 +7,7 @@ Live: https://el9995.github.io/Food-Trace-Atlas/
 ## Now
 
 - **Recall report (home page):** daily or weekly report of new FDA recall notices, with the product photos FDA publishes. Visitors pick the FDA product types they care about (saved in their browser) and read it as a list or as slides. One RSS feed per product type in `feeds/`.
+- **LINE bot (`bot/`):** friends and family add a LINE account, pick Daily or Weekly and which recalls, and get swipeable report cards with FDA's photos. Runs free on Cloudflare Workers. Try the simulator at `bot/sim.html`; setup steps in `bot/SETUP.md`.
 - **Barcode check (`check.html`, test):** type or scan a barcode to see the product from USDA FoodData Central and any matching FDA recall from openFDA.
 
 ## How the data updates

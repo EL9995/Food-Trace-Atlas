@@ -44,6 +44,7 @@ jobs:
         run: |
           mkdir _site
           cp -r index.html check.html favicon.svg .nojekyll css js data feeds _site/
+          mkdir _site/bot && cp bot/sim.html bot/core.js _site/bot/   # LINE bot simulator
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
