@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Barcode Check · Food Trace Atlas</title>
+<title>Product Check · Food Trace Atlas</title>
 <meta name="robots" content="noindex">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
@@ -15,6 +15,15 @@
   h1 { font-size: 28px; margin: 6px 0 8px; }
   .lede { color: var(--muted); margin-bottom: 20px; }
   form { display: flex; gap: 8px; flex-wrap: wrap; }
+  .field { flex: 1 1 220px; display: flex; flex-direction: column; gap: 4px; font-size: 13px; font-weight: 600; color: var(--muted); }
+  .field small { font-weight: 400; }
+  .field input[type=text] { flex: none; width: 100%; }
+  .actions { display: flex; gap: 8px; align-items: flex-end; }
+  .hitline { font: 13px var(--f-mono); background: var(--soft); padding: 6px 8px; border-radius: 6px; margin-top: 4px; overflow-wrap: anywhere; }
+  .hitline mark { background: color-mix(in srgb, var(--sev-major) 30%, transparent); color: inherit; border-radius: 2px; }
+  .codes-list { margin-top: 6px; }
+  .recall .verdict { font-weight: 600; margin: 6px 0; }
+  .verdict.hit { color: var(--sev-major); } .verdict.maybe { color: var(--sev-moderate); } .verdict.weak { color: var(--muted); }
   input[type=text] { flex: 1 1 220px; min-width: 0; font: 500 18px var(--f-mono); padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); }
   .btn { padding: 10px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 600; }
   .btn.primary { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
@@ -47,23 +56,28 @@
 <div class="wrap">
   <header class="site-head">
     <a class="brand" href="./">Food Trace <span>Atlas</span></a>
-    <nav class="site-nav" aria-label="Pages"><a href="./">Recall report</a><a href="check.html" aria-current="page">Barcode check</a></nav>
+    <nav class="site-nav" aria-label="Pages"><a href="./">Recall report</a><a href="check.html" aria-current="page">Check a product</a></nav>
   </header>
   <p class="eyebrow">Test page · early preview</p>
-  <h1>Barcode recall check</h1>
-  <p class="lede">Type or scan a barcode (UPC) to see the product from USDA FoodData Central and any matching FDA recall from openFDA.</p>
+  <h1>Check a product</h1>
+  <p class="lede">Enter the barcode number (UPC), the lot or product code, or both. We search the text of every FDA recall notice from the last year, including their code tables, plus FDA's enforcement records.</p>
 
   <form id="f">
-    <input id="code" type="text" inputmode="numeric" autocomplete="off" placeholder="e.g. 048737002276" aria-label="Barcode number">
-    <button class="btn primary" type="submit">Check</button>
-    <button class="btn" type="button" id="scan" hidden>Scan with camera</button>
+    <label class="field"><span>Barcode (UPC)</span>
+      <input id="code" type="text" inputmode="numeric" autocomplete="off" placeholder="e.g. 0 72250 91662 2"></label>
+    <label class="field"><span>Lot, product code or date <small>optional</small></span>
+      <input id="lot" type="text" autocomplete="off" placeholder="e.g. 0188 265 10:00"></label>
+    <div class="actions">
+      <button class="btn primary" type="submit">Check</button>
+      <button class="btn" type="button" id="scan" hidden>Scan barcode</button>
+    </div>
   </form>
-  <p class="samples">Try: <button data-code="048737002276">048737002276</button> (product, no recall) · <button data-code="812235023309">812235023309</button> (recalled in 2026)</p>
+  <p class="samples">Try: <button data-code="072250916622" data-lot="0188 265 10:00">Nature's Own bread + code</button> · <button data-code="812235023309">812235023309</button> (recalled) · <button data-code="048737002276">048737002276</button> (no recall)</p>
   <video id="cam" playsinline muted hidden></video>
 
   <div id="out"></div>
 
-  <p class="note">We check FDA recall data (openFDA, updated weekly). This test does not yet check USDA FSIS recalls for meat, poultry and eggs, or FDA's same-day announcements. Always confirm at <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts" target="_blank" rel="noopener">FDA.gov</a> and <a href="https://www.fsis.usda.gov/recalls" target="_blank" rel="noopener">FSIS.usda.gov</a>.</p>
+  <p class="note">We check the FDA recall notices on FDA.gov from the last 12 months (collected every few hours) and openFDA enforcement records (updated weekly). A code match is a strong sign, not proof; the FDA notice is the authority. This test does not yet check USDA FSIS recalls for meat, poultry and eggs, or FDA's same-day announcements. Always confirm at <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts" target="_blank" rel="noopener">FDA.gov</a> and <a href="https://www.fsis.usda.gov/recalls" target="_blank" rel="noopener">FSIS.usda.gov</a>.</p>
 
   <details class="note">
     <summary>Settings</summary>
@@ -72,6 +86,7 @@
   </details>
 </div>
 
+<script src="js/notice-check.js"></script>
 <script>
 (() => {
   const $ = (s) => document.querySelector(s);
@@ -194,34 +209,69 @@
     if (confirmed.length) head = `<p class="status hit">${confirmed.length} FDA recall notice${confirmed.length > 1 ? 's' : ''} mention${confirmed.length > 1 ? '' : 's'} this barcode. Check the lot and date codes on your package against the notice.</p>`;
     else if (firm.length) head = `<p class="status maybe">No FDA recall found for this barcode. The same company name appears in other recent FDA recalls, listed below for reference.</p>`;
     else head = `<p class="status clear">No FDA recall found for this barcode. This is not a guarantee: recall notices don't always list barcodes.</p>`;
-    return `<div class="card"><h2>FDA recalls</h2>${head}
+    return `<div class="card"><h2>FDA enforcement records (openFDA)</h2>${head}
       ${confirmed.map((r) => recallItem(r, 'confirmed')).join('')}
       ${firm.map((r) => recallItem(r, 'inferred')).join('')}
       <p class="src">openFDA food enforcement data, last updated ${esc(updated || 'unknown')}. openFDA lags FDA's same-day announcements by up to a week or more.</p></div>`;
   }
 
-  async function check(raw) {
-    const upc = canon(raw);
-    if (upc.length < 12 || upc.length > 13) {
-      out.innerHTML = `<div class="card err">Enter the 12-digit number under the barcode (UPC) or a 13-digit EAN.</div>`;
-      return;
-    }
-    out.innerHTML = `<div class="card">Checking ${esc(upc)}…</div>`;
+  // FDA.gov notices (their own text and code tables), from data/notices.json.
+  function noticeCard(res, upc, code) {
+    const lines = (list) => list.map((l) => `<div class="hitline">${esc(l)}</div>`).join('');
+    const items = res.results.map(({ recall: r, notice: n, match: m, verdict: v }) => {
+      const shown = [...new Set([...m.upcLines, ...m.codeLines])];
+      const ranges = m.rangeHits.filter(([l]) => !shown.includes(l));
+      const rest = m.codeTable.filter((l) => !shown.includes(l) && !ranges.some(([x]) => x === l));
+      return `<div class="recall">
+        <p><b>${esc(r.brands || r.company)}</b> · ${esc(r.product)}</p>
+        <p class="verdict ${v.kind}">${esc(v.text)}</p>
+        <p><b>Reason:</b> ${esc(r.reason)} · posted by FDA ${esc(r.fda_publish_date)}</p>
+        ${shown.length || ranges.length ? `<p class="src">Lines in the notice that match${m.rangeHits.length ? ' (the code range yours falls in is highlighted)' : ''}:</p>` : ''}
+        ${[...shown, ...ranges.map(([l]) => l)].map((l) => {
+          const part = (m.rangeHits.find(([x]) => x === l) || [])[1];
+          return `<div class="hitline">${part ? esc(l).replace(esc(part), `<mark>${esc(part)}</mark>`) : esc(l)}</div>`;
+        }).join('')}
+        ${rest.length ? `<details class="codes-list"><summary>Other code lines in this notice (${rest.length})</summary>${lines(rest)}</details>` : ''}
+        <p class="src">Source: <a href="${esc(r.url)}" target="_blank" rel="noopener">FDA recall notice</a> · read ${esc((n.retrieved || '').slice(0, 10))}</p>
+      </div>`;
+    }).join('');
+    const what = [upc && `barcode ${upc}`, code && `code “${code}”`].filter(Boolean).join(' and ');
+    const head = res.results.some((x) => x.verdict.kind === 'hit')
+      ? `<p class="status hit">Found in ${res.results.filter((x) => x.verdict.kind === 'hit').length} FDA recall notice${res.results.length > 1 ? 's' : ''}. Details below.</p>`
+      : res.results.length
+        ? `<p class="status maybe">Possible matches for ${esc(what)}. Read each one carefully.</p>`
+        : `<p class="status clear">No FDA recall notice posted ${esc(res.from)} to ${esc(res.to)} mentions ${esc(what)}. Not every notice lists every code.</p>`;
+    return `<div class="card"><h2>FDA recall notices (FDA.gov)</h2>${head}${items}
+      <p class="src">Searched ${res.count} notices from FDA.gov, last collected ${esc((res.generated || '').slice(0, 16).replace('T', ' '))} UTC.</p></div>`;
+  }
+
+  async function check(rawUpc, rawLot) {
+    const code = (rawLot || '').trim();
+    const upc = digits(rawUpc) ? canon(rawUpc) : '';
+    if (!upc && !code) { out.innerHTML = `<div class="card err">Enter a barcode number, a lot or product code, or both.</div>`; return; }
+    if (upc && (upc.length < 12 || upc.length > 13)) { out.innerHTML = `<div class="card err">The barcode number should be 12 digits (UPC) or 13 (EAN). Leave it empty to search by code only.</div>`; return; }
+    if (!upc && window.NoticeCheck.norm(code).length < 4) { out.innerHTML = `<div class="card err">Enter at least 4 letters or numbers of the code.</div>`; return; }
+    out.innerHTML = `<div class="card">Checking…</div>`;
     try {
-      const [product, recalls] = await Promise.all([lookupProduct(upc), lookupRecalls(upc)]);
+      const notices = window.NoticeCheck.run(upc, code);
+      if (!upc) { out.innerHTML = noticeCard(await notices, '', code); return; }
+      const [res, product, recalls] = await Promise.all([notices, lookupProduct(upc), lookupRecalls(upc)]);
       let firm = [];
       if (product?.brandOwner) {
         const seen = new Set(recalls.results.map((r) => r.recall_number));
         firm = (await lookupFirm(product.brandOwner)).filter((r) => !seen.has(r.recall_number));
       }
-      out.innerHTML = productCard(product, upc) + recallCard(recalls.results, firm, recalls.updated);
+      out.innerHTML = noticeCard(res, upc, code) + productCard(product, upc) + recallCard(recalls.results, firm, recalls.updated);
     } catch (e) {
       out.innerHTML = `<div class="card err">Couldn't finish the check: ${esc(e.message)}. If this says 429, the shared DEMO_KEY is used up for the hour; add your own key under Settings.</div>`;
     }
   }
 
-  $('#f').addEventListener('submit', (e) => { e.preventDefault(); check($('#code').value); });
-  document.querySelectorAll('[data-code]').forEach((b) => b.addEventListener('click', () => { $('#code').value = b.dataset.code; check(b.dataset.code); }));
+  $('#f').addEventListener('submit', (e) => { e.preventDefault(); check($('#code').value, $('#lot').value); });
+  document.querySelectorAll('[data-code]').forEach((b) => b.addEventListener('click', () => {
+    $('#code').value = b.dataset.code; $('#lot').value = b.dataset.lot || '';
+    check(b.dataset.code, b.dataset.lot || '');
+  }));
 
   // Camera scanning where the browser has a built-in barcode reader (Chrome on Android, some desktops).
   if ('BarcodeDetector' in window && navigator.mediaDevices?.getUserMedia) {
@@ -235,7 +285,7 @@
       const tick = async () => {
         if (video.hidden) return;
         const [hit] = await detector.detect(video).catch(() => []);
-        if (hit) { stop(); $('#code').value = hit.rawValue; check(hit.rawValue); } else requestAnimationFrame(tick);
+        if (hit) { stop(); $('#code').value = hit.rawValue; check(hit.rawValue, $('#lot').value); } else requestAnimationFrame(tick);
       };
       tick();
     });
