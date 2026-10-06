@@ -20,6 +20,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "recalls.json"
+NOTICES = ROOT / "data" / "notices.json"  # announcement text per notice, for the code check
 FEEDS = ROOT / "feeds"
 SITE = "https://el9995.github.io/Food-Trace-Atlas/"
 
@@ -31,6 +32,7 @@ MAJOR_PAGE = FDA + "/safety/recalls-market-withdrawals-safety-alerts/major-produ
 KEEP_DAYS = 365        # drop notices older than this
 BACKFILL_DAYS = 90     # on an empty file, start this far back
 MAX_DETAIL_FETCHES = 120  # notice pages per run (2 s each); the rest are filled on later runs
+REFRESH_DAYS = 30      # companies often expand recalls: re-read notices this new once a day
 UA = "FoodTraceAtlas/0.1 (+https://github.com/EL9995/Food-Trace-Atlas)"
 
 _last = 0.0
@@ -82,8 +84,34 @@ def parse_table(rows):
     return out
 
 
+def notice_text(page):
+    """The company announcement as plain lines; each table row becomes one 'cell | cell' line."""
+    i = page.find('id="recall-announcement"')
+    if i < 0:
+        return ""
+    seg = page[i:]
+    ends = [seg.find(k) for k in ("Company Contact Information", "recall-photos", "Product Photos", "</article>")]
+    seg = seg[:min([e for e in ends if e > 0] or [len(seg)])]
+    seg = re.sub(r"<(script|style)[\s\S]*?</\1>", "", seg)
+
+    def cell(c):
+        t = text(re.sub(r"<br\s*/?>|</p>|</li>", " ; ", c))
+        t = re.sub(r"\s*;\s*(;\s*)*", "; ", t)          # empty paragraphs between codes
+        t = re.sub(r"\s*([-–])\s*;\s*", r" \1 ", t)      # "A -; B" is one range "A - B"
+        return t.strip("; ")
+
+    def row(m):
+        cells = re.findall(r"<t[hd][^>]*>([\s\S]*?)</t[hd]>", m.group(0))
+        return "\n" + " | ".join(cell(c) for c in cells) + "\n"
+    seg = re.sub(r"<tr[\s\S]*?</tr>", row, seg)
+    seg = re.sub(r"<br\s*/?>|</(p|li|h\d|div|table)>", "\n", seg)
+    lines = [text(l) for l in seg.split("\n")]
+    lines = [l for l in lines if l and l not in ("Company Announcement", 'id="recall-announcement">Company Announcement')]
+    return "\n".join(l.strip(" >") for l in lines if l.strip(" >"))
+
+
 def parse_notice(page):
-    """Photos and the company's announcement date from a notice page."""
+    """Photos, the company's announcement date and the announcement text from a notice page."""
     photos = []
     for m in re.finditer(r'<img[^>]+src="(/files/styles/recall_image_[^"]+)"[^>]*>', page):
         tag = m.group(0)
@@ -92,7 +120,7 @@ def parse_notice(page):
         full = re.sub(r"/styles/[^/]+/public/", "/", small).split("?")[0]
         photos.append({"src": FDA + full, "thumb": FDA + small, "alt": html.unescape(alt.group(1)).strip() if alt else ""})
     ann = re.search(r"Company Announcement Date:.*?datetime=\"([^\"]+)\"", page, re.S)
-    return {"photos": photos, "company_announcement_date": ann.group(1)[:10] if ann else None}
+    return {"photos": photos, "company_announcement_date": ann.group(1)[:10] if ann else None, "text": notice_text(page)}
 
 
 def parse_major(page):
@@ -132,6 +160,7 @@ def rss(title, link, items, path):
 
 def main():
     old = json.loads(DATA.read_text()) if DATA.exists() else {"recalls": [], "major": []}
+    notices = json.loads(NOTICES.read_text()) if NOTICES.exists() else {}
     by_id = {r["id"]: r for r in old.get("recalls", [])}
     today = datetime.now(timezone.utc).date()
     stamp = now_iso()
@@ -152,14 +181,30 @@ def main():
         by_id[r["id"]] = r
         added += 1
 
-    # 2. Notice pages for photos, newest first, a limited number per run.
+    # 2. Notice pages for photos and text, newest first, a limited number per run.
+    #    Unread notices first; recent ones are re-read daily because recalls get expanded.
+    fresh_from = (today - timedelta(days=REFRESH_DAYS)).isoformat()
+    day_ago = (datetime.now(timezone.utc) - timedelta(hours=20)).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    def needs_read(r):
+        n = notices.get(r["id"])
+        if r.get("photos") is None or n is None:
+            return True
+        return r["fda_publish_date"] >= fresh_from and n["retrieved"] < day_ago
+
     fetched = 0
     for r in sorted(by_id.values(), key=lambda x: x["fda_publish_date"], reverse=True):
-        if r.get("photos") is not None or fetched >= MAX_DETAIL_FETCHES:
+        if fetched >= MAX_DETAIL_FETCHES or not needs_read(r):
             continue
         try:
-            r.update(parse_notice(get(r["url"])))
+            info = parse_notice(get(r["url"]))
+            body = info.pop("text")
+            r.update(info)
             r["retrieved"] = now_iso()
+            prev = notices.get(r["id"])
+            if prev and prev["text"] and prev["text"] != body:
+                r["notice_changed"] = r["retrieved"]
+            notices[r["id"]] = {"url": r["url"], "retrieved": r["retrieved"], "text": body}
         except Exception as e:  # keep going; it is retried next run
             print(f"notice failed {r['url']}: {e}", file=sys.stderr)
         fetched += 1
@@ -194,6 +239,9 @@ def main():
         "recalls": recalls,
         "major": major,
     }, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    ids = {r["id"] for r in recalls}
+    NOTICES.write_text(json.dumps({k: v for k, v in notices.items() if k in ids}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # 4. Feeds: one for everything, one per FDA product type.
     FEEDS.mkdir(exist_ok=True)
