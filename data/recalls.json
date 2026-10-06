@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T06:05:50Z",
+ "generated": "2026-10-06T06:37:51Z",
  "sources": [
   {
    "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
@@ -8133,9 +8133,41 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:43Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/front_label_fu_zhou_fish_ball_200g.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/front_label_fu_zhou_fish_ball_200g.jpg?itok=ZougfwZU",
+     "alt": "front_label_fu_zhou_fish_ball_200g.jpg"
+    },
+    {
+     "src": "https://www.fda.gov/files/back_label_fu_zhou_fish_ball_200g.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/back_label_fu_zhou_fish_ball_200g.jpg?itok=dOqq5TZ3",
+     "alt": "back_label_fu_zhou_fish_ball_200g.jpg"
+    },
+    {
+     "src": "https://www.fda.gov/files/front_label_fu_zhou_fish_bll_400g.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/front_label_fu_zhou_fish_bll_400g.jpg?itok=x6uVYJdN",
+     "alt": "front_label_fu_zhou_fish_bll_400g.jpg"
+    },
+    {
+     "src": "https://www.fda.gov/files/back_label_fu_zhou_fish_ball_400g_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/back_label_fu_zhou_fish_ball_400g_0.jpg?itok=jQfKDIvK",
+     "alt": "back_label_fu_zhou_fish_ball_400g.jpg"
+    },
+    {
+     "src": "https://www.fda.gov/files/front_label_fu_zhou_fish_ball_5lb.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/front_label_fu_zhou_fish_ball_5lb.jpeg?itok=QeF_KnPL",
+     "alt": "front_label_fu_zhou_fish_ball_5lb.jpeg"
+    },
+    {
+     "src": "https://www.fda.gov/files/back_label_fu_zhou_fish_ball_5lb.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/back_label_fu_zhou_fish_ball_5lb.jpg?itok=KcKSUOWm",
+     "alt": "back_label_fu_zhou_fish_ball_5lb.jpg"
+    }
+   ],
+   "company_announcement_date": "2026-01-27"
   },
   {
    "id": "ikm-recalls-product-because-possible-health-risk",
@@ -8154,9 +8186,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:45Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_148_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_148_0.png?itok=cxUPicH1",
+     "alt": "Brass standard stock pot"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_111.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_111.png?itok=cEd9Yw7V",
+     "alt": "4-quart Pital Brass Pot"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_71.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_71.png?itok=RjU-0YY5",
+     "alt": "A-cook Aluminum Kadai"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_57.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_57.png?itok=4tr18jbX",
+     "alt": "Aluminum Saucepan"
+    }
+   ],
+   "company_announcement_date": "2026-01-24"
   },
   {
    "id": "navitas-organics-voluntarily-recalls-select-lots-8oz-organic-chia-seeds-because-possible-health-risk",
@@ -8174,9 +8228,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:48Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_150.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_150.png?itok=txzQ_O3R",
+     "alt": "Navitas Organics, Organic Chia Seeds, 8 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_113.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_113.png?itok=PYa6wkas",
+     "alt": "Nutrition Facts, back label"
+    }
+   ],
+   "company_announcement_date": "2026-01-24"
   },
   {
    "id": "superfoods-inc-dba-live-it-recalls-live-it-super-greens-because-possible-health-risk",
@@ -8193,9 +8259,51 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:50Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_151.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_151.png?itok=LFnlxy3z",
+     "alt": "Front of package, Live it Up Super Greens 8.5oz pouch, NET WT 8.5oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_114.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_114.png?itok=y7V4fm8x",
+     "alt": "Back of package, Live it Up Super Greens 8.5oz pouch; Exp 05/2027"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_72.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_72.png?itok=EgWHobMR",
+     "alt": "Front of package, Live it Up Super Greens 9.49 oz pouch Wild Berry, NET WT 9.49oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_58.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_58.png?itok=KFr8FZ8D",
+     "alt": "Back of package, Live it Up Super Greens 9.49 oz pouch Wild Berry, Exp 05/2027"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_36.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_36.png?itok=5o7H4HF8",
+     "alt": "Front of package, Live it Up Super Greens 30-0.28oz sticks, NET WT. 8.47oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_27.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_27.png?itok=aFcTIihL",
+     "alt": "Back of package, Live it Up Super Greens 30-0.28oz sticks, Exp 10/2027"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_7_18.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_7_18.png?itok=C-w-gkLD",
+     "alt": "Front of package, Live it Up Super Greens 30-0.28oz sticks Wild Berry, NET WT. 9.52oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_8_16.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_8_16.png?itok=C58lndsH",
+     "alt": "Back of package, Live it Up Super Greens 30-0.28oz sticks Wild Berry, Exp 10/2027"
+    }
+   ],
+   "company_announcement_date": "2026-01-15"
   },
   {
    "id": "tri-union-seafoods-identifies-additional-quantities-recalled-genovar-tuna-limited-retailers-due",
@@ -8213,9 +8321,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:52Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_221.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_221.jpg?itok=DrEeVQvT",
+     "alt": "Image 1 – Front of can, Genova Yellowfin Tuna in olive oil"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_69.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_69.jpg?itok=koBz3s6O",
+     "alt": "Image 2 – Bottom of packaging, Genova Yellowfin Tuna"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_33.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_33.jpg?itok=VpuNKU5N",
+     "alt": "Image 3 – Genova Yellowfin Tuna in extra virgin olive oil"
+    }
+   ],
+   "company_announcement_date": "2026-01-16"
   },
   {
    "id": "olympus-expands-voluntary-recall-vizishot-2-flex-19g-ebus-tbna-needles",
@@ -8232,9 +8357,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:54Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2026-01-16"
   },
   {
    "id": "abbott-initiates-medical-device-correction-certain-freestyle-librer-3-and-freestyle-libre-3-plus",
@@ -8251,9 +8377,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:56Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-11-25"
   },
   {
    "id": "ambriola-company-issues-recall-cheese-products-because-listeria-health-risk",
@@ -8271,9 +8398,61 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:33:58Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_209.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_209.jpg?itok=JUDr8T2t",
+     "alt": "Locatelli Pecorino Romano Grated 4 oz. cup"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_164.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_164.jpg?itok=hHnKo_ad",
+     "alt": "Locatelli Grated Pecorino Romano 8 oz. cup"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_90.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_90.jpg?itok=ONSEuGxy",
+     "alt": "Boar’s Head Grated Pecorino Romano 6 oz. cup"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_65.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_65.jpg?itok=NPE0fU2U",
+     "alt": "Member’s Mark Pecorino Romano 1.5 lb. Bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_41.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_41.jpg?itok=R90tfKLx",
+     "alt": "Locatelli Grated Pecorino Romano 5 lb bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_6_32.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_6_32.jpg?itok=1nO7AE-s",
+     "alt": "Locatelli Grated Pecorino Romano 10 lb bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_7_25.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_7_25.jpg?itok=EmCfMCyG",
+     "alt": "Ambriola Grated Pecorino Romano 5 lb bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_8_21.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_8_21.jpg?itok=9hMiNIIA",
+     "alt": "Ambriola Grated Pecorino Romano 10 lb bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_9_16.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_9_16.jpg?itok=CGeCCm_B",
+     "alt": "Pinna Grated Pecorino Romano 10 lb bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_10_13.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_10_13.jpg?itok=Fx0vMD9q",
+     "alt": "Boar’s Head Pecorino Romano Grated bag 5 lb bag"
+    }
+   ],
+   "company_announcement_date": "2025-12-03"
   },
   {
    "id": "spring-mulberry-expands-voluntary-recall-select-chocolate-bars-due-possible-salmonella-contamination",
@@ -8291,9 +8470,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:00Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/imagesss.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/imagesss.png?itok=KA0oQjQ5",
+     "alt": "Example packaging for expanded recall flavors of chocolate bars"
+    }
+   ],
+   "company_announcement_date": "2026-01-14"
   },
   {
    "id": "food-business-karison-foods-snacks-inc-recalls-panjiri-alsi-pinni-punjabi-pinni-besan-laddoo-and-no",
@@ -8311,9 +8497,36 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:02Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_145.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_145.png?itok=o8bKY6zn",
+     "alt": "KARISON PANJIRI, NET WT. 12 oz., UPC 897307002437"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_108.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_108.png?itok=PBXRnkTC",
+     "alt": "KARISON ALSI PINNI, NET WT. 12 oz., UPC 897307002512"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_69.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_69.png?itok=vsTGAqoe",
+     "alt": "KARISON PUNJABI PINNI, NET WT. 12 oz., UPC 897307002154"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_55.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_55.png?itok=1zGOd0UG",
+     "alt": "KARISON BESAN LADDOO, NET WT. 12 oz., UPC 897307002406"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_34.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_34.png?itok=5Q6shNnA",
+     "alt": "KARISON NO SUGAR ADDED BESAN LADDOO, NET WT. 12 oz., UPC 897307002215"
+    }
+   ],
+   "company_announcement_date": "2026-01-12"
   },
   {
    "id": "vh-foods-inc-dba-outside-breadbox-issues-allergy-alert-undeclared-egg-and-milk-bread-crumbs",
@@ -8331,9 +8544,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:04Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/img_0771.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/img_0771.jpg?itok=q-IIxyvZ",
+     "alt": "“Outside the Breadbox Bread Crumbs, 8 0z.”"
+    },
+    {
+     "src": "https://www.fda.gov/files/img_0772.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/img_0772.jpg?itok=Ujcmr8fp",
+     "alt": "“Back label, Nutrition Facts”"
+    }
+   ],
+   "company_announcement_date": "2026-01-12"
   },
   {
    "id": "spring-mulberry-issues-voluntary-recall-mint-leaf-date-sweetened-chocolate-bar-due-possible",
@@ -8351,9 +8576,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:07Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_220.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_220.jpg?itok=905urwBU",
+     "alt": "“Spring & Mulberry Mint Leaf Date Sweetened Chocolate”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_172.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_172.jpg?itok=KYouM2Qs",
+     "alt": "“Back label, Nutrition Facts, Use by 03/31/2027, Batch 025255”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_93.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_93.jpg?itok=yMNHj2C8",
+     "alt": "“Chocolate bar, Use by 03/31/2027, Lot 025255”"
+    }
+   ],
+   "company_announcement_date": "2026-01-12"
   },
   {
    "id": "diva-fam-inc-announces-voluntary-recall-sea-moss-gel-superfood-products-due-possible-health-risk",
@@ -8371,9 +8613,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:09Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_146.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_146.png?itok=P-qCkd8S",
+     "alt": "“True Sea Moss, jar lid label”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_109.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_109.png?itok=iFlsw0qV",
+     "alt": "“True Sea Moss Sea Moss Gel Superfood, jar label (multiple flavors)”"
+    }
+   ],
+   "company_announcement_date": "2026-01-09"
   },
   {
    "id": "anthony-trinh-123herbals-llc-123herbalscom-issues-nationwide-recall-silintan-capsules-due-presence",
@@ -8391,9 +8645,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:11Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1111_4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1111_4.png?itok=uAY2soCz",
+     "alt": "Front of package, Silintan dietary supplement pills"
+    },
+    {
+     "src": "https://www.fda.gov/files/1112.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1112.png?itok=bkijn6sO",
+     "alt": "Back of package, Silintan dietary supplement pills"
+    }
+   ],
+   "company_announcement_date": "2026-01-07"
   },
   {
    "id": "modern-warrior-recalls-modern-warrior-ready-dietary-supplement-due-undeclared-14-dmaa-and-aniracetam",
@@ -8411,9 +8677,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:13Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/bb.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bb.png?itok=vogC16R5",
+     "alt": "Bottle of Modern Warrior Body Repair Plan, 60 capsules"
+    }
+   ],
+   "company_announcement_date": "2026-01-09"
   },
   {
    "id": "herbsforever-llc-issues-allergy-alert-undeclared-wheat-herbsforever-brand-dietary-supplements",
@@ -8430,9 +8703,36 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:15Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/gas1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/gas1.png?itok=qBhi-WGq",
+     "alt": "Front of bottle, HerbsForever Gastro Care"
+    },
+    {
+     "src": "https://www.fda.gov/files/gas2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/gas2.png?itok=XSSWIHXc",
+     "alt": "Ingredient Label on bottle, HerbsForever Gastro Care"
+    },
+    {
+     "src": "https://www.fda.gov/files/gas3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/gas3.png?itok=eNrb2NOQ",
+     "alt": "Caution Label on bottle, HerbsForever Gastro Care"
+    },
+    {
+     "src": "https://www.fda.gov/files/gas4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/gas4.png?itok=VQ46Jdwr",
+     "alt": "Entire label, HerbsForever Gastro Care"
+    },
+    {
+     "src": "https://www.fda.gov/files/gas5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/gas5.png?itok=n0mw9YY6",
+     "alt": "Entire label, HerbsForever Hingwastika Churna"
+    }
+   ],
+   "company_announcement_date": "2026-01-09"
   },
   {
    "id": "gusto-group-inc-recalls-shrimp-paste-klong-kone-454-g-1-lbs-and-910-g-2-lbs-because-possible-health",
@@ -8449,9 +8749,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:17Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/shrimp_paste_1lb.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/shrimp_paste_1lb.png?itok=DKeyh7ix",
+     "alt": "Images of 1 lb Klong Kone Shrimp Paste"
+    },
+    {
+     "src": "https://www.fda.gov/files/shrimp_paste_2lb.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/shrimp_paste_2lb.png?itok=HHGdcQkl",
+     "alt": "Images of 2 lb klong Kone Shrimp Paste"
+    }
+   ],
+   "company_announcement_date": "2026-01-08"
   },
   {
    "id": "carrot-top-kitchens-bridgeport-formerly-redding-issues-class-ii-recall-hummus-containing-undeclared",
@@ -8468,9 +8780,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:19Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/carrot.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/carrot.png?itok=hqqquAns",
+     "alt": "Carrot Top Kitchens Lemon and Garlic Hummus"
+    }
+   ],
+   "company_announcement_date": "2026-01-06"
   },
   {
    "id": "primavera-nueva-inc-issues-voluntary-recall-select-4-count-tamales-because-possible-health-risk-0",
@@ -8488,9 +8807,61 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:21Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/111_10.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/111_10.png?itok=LDKCQnZE",
+     "alt": "Primavera Butternut Squash Tamales"
+    },
+    {
+     "src": "https://www.fda.gov/files/112.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/112.png?itok=BGHE_YeL",
+     "alt": "Primavera Mushroom, Spinach, and Salsa Tamales with 2 Cheeses"
+    },
+    {
+     "src": "https://www.fda.gov/files/113.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/113.png?itok=6EWIGXHS",
+     "alt": "Primavera Roasted Pumpkin and White Cheddar Tamales"
+    },
+    {
+     "src": "https://www.fda.gov/files/114.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/114.png?itok=pXXp4GNg",
+     "alt": "Primavera Mushroom, Spinach, and Salsa Tamales No Dairy"
+    },
+    {
+     "src": "https://www.fda.gov/files/115.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/115.png?itok=zGsf-P8Z",
+     "alt": "Primavera BBQ Chipotle Bean and White Cheddar Tamales"
+    },
+    {
+     "src": "https://www.fda.gov/files/116.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/116.png?itok=QkdMkUAH",
+     "alt": "Primavera Black Bean Bonanza Tamales No Dairy"
+    },
+    {
+     "src": "https://www.fda.gov/files/117.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/117.png?itok=Pk8ilc4Y",
+     "alt": "Primavera Roasted Green Chile Tamales No Dairy"
+    },
+    {
+     "src": "https://www.fda.gov/files/118.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/118.png?itok=foD7gXH4",
+     "alt": "Primavera Butternut Squash Tamales With Roasted Green Chiles No Dairy"
+    },
+    {
+     "src": "https://www.fda.gov/files/119.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/119.png?itok=xd-iRPrD",
+     "alt": "Primavera Black Bean Bonanza Tamales with Black Beans and Jack Cheese"
+    },
+    {
+     "src": "https://www.fda.gov/files/120.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/120.png?itok=xNmVC1t0",
+     "alt": "Primavera Roasted Green Chile and Jack Cheese Tamales"
+    }
+   ],
+   "company_announcement_date": "2026-01-05"
   },
   {
    "id": "newway-import-inc-issues-allergy-alert-undeclared-wheat-preserved-mustard-soybean-oil-la-puente",
@@ -8508,9 +8879,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:23Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_219.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_219.jpg?itok=bftPyuNj",
+     "alt": "Ingredient label, Preserved Mustard in Soybean Oil"
+    }
+   ],
+   "company_announcement_date": "2025-12-23"
   },
   {
    "id": "gold-star-distribution-inc-issues-recall-certain-fda-regulated-products-three-states-including-drugs",
@@ -8538,9 +8916,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:26Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-12-27"
   },
   {
    "id": "consumers-supply-distributing-llc-recalls-country-vet-biscuits-dogs-due-possible-salmonella-health",
@@ -8562,9 +8941,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:28Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_144.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_144.png?itok=if61Xd3T",
+     "alt": "Country Vet Biscuits Original Meaty Flavor, front of package"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_107.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_107.png?itok=ETn-OlXQ",
+     "alt": "Country Vet Biscuits Original Meaty Flavor, back of package"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_68.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_68.png?itok=Blq_ovW3",
+     "alt": "Heartland Harvest Dog Biscuits Meaty Flavor with Chicken, front of package"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_54.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_54.png?itok=azwMacIl",
+     "alt": "Heartland Harvest Dog Biscuits Meaty Flavor with Chicken, back of package"
+    }
+   ],
+   "company_announcement_date": "2025-12-24"
   },
   {
    "id": "recall-notice-willy-petes-chocolate-company-llc-harwinton-issues-recall-chocolate-bars-due-almonds",
@@ -8582,9 +8983,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:30Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_217.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_217.jpg?itok=mU2x03Nt",
+     "alt": "“Almond Despair, Not so Joyous”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_170.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_170.jpg?itok=6_bq7AWt",
+     "alt": "“Back label, Ingredients”"
+    }
+   ],
+   "company_announcement_date": "2025-12-22"
   },
   {
    "id": "atwaters-issues-allergy-alert-undeclared-tree-nut-allergen-cookie-tin-labels",
@@ -8602,9 +9015,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:32Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/processed-7807d1a2-0c7d-4e5d-85c6-84ff35edd04f.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/processed-7807d1a2-0c7d-4e5d-85c6-84ff35edd04f.jpeg?itok=1u_bXfbe",
+     "alt": "Atwater’s Cookie Tin, top of package"
+    },
+    {
+     "src": "https://www.fda.gov/files/processed-6af3be1b-a5ad-45e6-b7e8-a9873f8b87c4.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/processed-6af3be1b-a5ad-45e6-b7e8-a9873f8b87c4.jpeg?itok=9oNsO2Qy",
+     "alt": "Atwater’s Cookie Tin, bottom of package"
+    }
+   ],
+   "company_announcement_date": "2025-12-22"
   },
   {
    "id": "gregorys-foods-issues-allergy-alert-undeclared-peanuts-bag-full-cookies-white-chocolate-macadamia",
@@ -8622,9 +9047,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:34Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1_9_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1_9_0.jpg?itok=o3dO0DK9",
+     "alt": "Product packaging showing the \"Bag Full of Cookies\" White Chocolate Macadamia Nut label"
+    }
+   ],
+   "company_announcement_date": "2025-12-23"
   },
   {
    "id": "silvestri-sweets-expands-voluntary-allergy-alert-undeclared-pecan-and-wheat-cookie-butter-holiday",
@@ -8642,9 +9074,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:36Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_218.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_218.jpg?itok=_M4KI4Nk",
+     "alt": "Front label panel of Choceur Cookie Butter Holiday Bark in 5 oz. bags."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_171.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_171.jpg?itok=1KLNqCcX",
+     "alt": "Back label panel of Choceur Cookie Butter Holiday Bark in 5 oz. bags."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_92.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_92.jpg?itok=FZoXpeEl",
+     "alt": "Front label panel of Choceur Pecan Cranberry & Cinnamon Holiday Bark in 5 oz. bags"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_68.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_68.jpg?itok=DL7Lf8Jd",
+     "alt": "Back label panel of Choceur Pecan Cranberry & Cinnamon Holiday bark in 5 oz. bags"
+    }
+   ],
+   "company_announcement_date": "2025-12-22"
   },
   {
    "id": "handelnine-global-limited-dba-navafresh-issues-nationwide-recall-rheumacare-capsules-virgo-uap",
@@ -8661,9 +9115,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:38Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_215.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_215.jpg?itok=kKenPG35",
+     "alt": "Virgo brand Rheumacare Capsule, 20 capsules"
+    }
+   ],
+   "company_announcement_date": "2025-12-22"
   },
   {
    "id": "troemner-roemner-farm-issues-allergy-alert-undeclared-milk-wheat-and-soy-pfeffernusse-cookies",
@@ -8681,9 +9142,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:41Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_216.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_216.jpg?itok=swKn_DnH",
+     "alt": "Product label for Troemner Family Farm Pfeffernusse Cookies 12 oz packages"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_169.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_169.jpg?itok=sYUF9CIP",
+     "alt": "Product label for Troemner Family Farm Pfeffernusse Cookies 6 oz packages"
+    }
+   ],
+   "company_announcement_date": "2025-12-22"
   },
   {
    "id": "frans-chocolates-ltd-issues-allergy-alert-undeclared-hazelnuts-frans-pure-bar-almondmilk-chocolate",
@@ -8701,9 +9174,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:43Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_143.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_143.png?itok=NzvFTVwP",
+     "alt": "“Fran’s Pure Bar Almondmilk Chocolate 46% Madagascar Plant-Based, net wt. 1.1oz, UPC code of 7 49668 24280 2”"
+    }
+   ],
+   "company_announcement_date": "2025-12-20"
   },
   {
    "id": "direct-source-seafood-llc-recalling-frozen-raw-shrimp-because-product-may-have-become-contaminated",
@@ -8722,9 +9202,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:45Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_214.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_214.jpg?itok=r09ww0h_",
+     "alt": "Market 32 Raw Shrimp Easy Peel Shell On, NET WT 16 Oz,, UPC 0 41735 01358 3"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_168.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_168.jpg?itok=VHo1mDja",
+     "alt": "Waterfront Bistro Raw Shrimp EZ Peel Shell & Tail On, NET WT 32 Oz, UPC 021130 13224 9"
+    }
+   ],
+   "company_announcement_date": "2025-12-19"
   },
   {
    "id": "plantbased-innovations-issues-allergy-alert-undeclared-almond-h-e-b-dairy-free-coconut-yogurt",
@@ -8742,9 +9234,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:47Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-12-19"
   },
   {
    "id": "ask-foods-llc-issues-allergy-alert-undeclared-soy-publix-rice-pigeon-peas",
@@ -8762,9 +9255,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:49Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_213.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_213.jpg?itok=I8ad0j6z",
+     "alt": "Top Label: Publix Rice & Pigeon Peas Net Wt 32 oz (2 lb)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_167.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_167.jpg?itok=n6UnMimd",
+     "alt": "Incorrect Bottom Label: Three Cheese Mac & Cheese"
+    }
+   ],
+   "company_announcement_date": "2025-12-18"
   },
   {
    "id": "boss-dairy-farms-voluntarily-recalls-retail-mild-cheddar-cheese-because-possible-health-risk",
@@ -8783,9 +9288,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:51Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/2025.mild_cheddar_label.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2025.mild_cheddar_label.jpg?itok=kL4PVo1R",
+     "alt": "“Charlevoix Cheese Company Milk Cheddar Cheese NET WT 8 oz UPC 850056642057”"
+    }
+   ],
+   "company_announcement_date": "2025-12-17"
   },
   {
    "id": "olympus-announces-voluntary-corrective-action-single-use-ligating-device",
@@ -8802,9 +9314,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:53Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-12-05"
   },
   {
    "id": "primavera-nueva-inc-issues-voluntary-recall-select-4-count-tamales-because-possible-health-risk",
@@ -8822,9 +9335,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:56Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-12-17"
   },
   {
    "id": "stuffbynainax-llc-issues-voluntary-nationwide-recall-mr7-super-700000-dietary-supplement-due",
@@ -8842,9 +9356,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:34:58Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/mr_7_picture.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/mr_7_picture.png?itok=2Y5JD_j8",
+     "alt": "Image of front label MR7 Super 700000 Dietary Supplement"
+    }
+   ],
+   "company_announcement_date": "2025-12-15"
   },
   {
    "id": "medinatura-new-mexico-inc-expands-voluntary-nationwide-recall-reboost-nasal-spray-and-include",
@@ -8861,9 +9382,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:00Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/re1_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/re1_0.png?itok=DFYNfFEz",
+     "alt": "Bottle Label, ReBoost Nasal Spray, 20 mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/re2_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/re2_0.png?itok=QnriKD2g",
+     "alt": "Bottle Label, ClearLife Allergy Nasal Spray, 20 mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/re3_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/re3_0.png?itok=oY8MnJGu",
+     "alt": "Carton Label, ReBoost Nasal Spray, 20 mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/re4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/re4.png?itok=Ln8KaDfQ",
+     "alt": "Carton Label, ClearLife Allergy Nasal Spray, 20 mL"
+    }
+   ],
+   "company_announcement_date": "2025-12-16"
   },
   {
    "id": "james-skinner-llc-issues-voluntary-recall-publix-maple-walnut-coffee-cake-due-incorrect-labeling",
@@ -8881,9 +9424,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:02Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1_8.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1_8.jpg?itok=nmqquKQw",
+     "alt": "“Image of Raspberry Coffee Cake Net Wt 15 oz”"
+    },
+    {
+     "src": "https://www.fda.gov/files/raspberry_coffe_cake_label_on_product_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/raspberry_coffe_cake_label_on_product_0.jpg?itok=k3uuo-2f",
+     "alt": "“Image of label and ingredients statement for Raspberry Coffee Cake Net Wt 15 oz”"
+    }
+   ],
+   "company_announcement_date": "2025-12-10"
   },
   {
    "id": "ukrops-homestyle-foods-announces-recall-due-undeclared-allergen",
@@ -8900,9 +9455,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:04Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/pinkroses.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/pinkroses.png?itok=kdDVcJ2L",
+     "alt": "8” Pound Cake with Buttercream Icing/Pink Roses UPC 72251591452"
+    },
+    {
+     "src": "https://www.fda.gov/files/red_roses.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/red_roses.png?itok=fz4NswYw",
+     "alt": "8” Pound Cake with Buttercream Icing/Red Roses UPC 72251591456"
+    },
+    {
+     "src": "https://www.fda.gov/files/6inch.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6inch.png?itok=JxVKsvVD",
+     "alt": "6” Pound Cake with Buttercream Icing/Red Roses UPC 72251591820"
+    },
+    {
+     "src": "https://www.fda.gov/files/6inch4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6inch4.png?itok=AGLcheZt",
+     "alt": "6” Pound Cake with Buttercream Icing/Confetti UPC 72251591829"
+    }
+   ],
+   "company_announcement_date": "2025-12-11"
   },
   {
    "id": "so-delicious-dairy-freer-salted-caramel-cluster-frozen-dessert-pints-voluntarily-recalled-danone-us",
@@ -8919,9 +9496,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:06Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/so1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/so1.png?itok=GHCAXYaM",
+     "alt": "Image of former package So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert Pint"
+    },
+    {
+     "src": "https://www.fda.gov/files/so2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/so2.png?itok=bNQU-HxY",
+     "alt": "Image of current package So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert Pint"
+    },
+    {
+     "src": "https://www.fda.gov/files/so3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/so3.png?itok=ktDf17mz",
+     "alt": "Image of bottom of pint with lot BB 06AUG 2027 So Delicious Dairy Free Salted Caramel Cluster Non-Dairy Frozen Dessert Pint"
+    }
+   ],
+   "company_announcement_date": "2025-12-15"
   },
   {
    "id": "south-asian-food-inc-issues-allergy-alert-undeclared-peanuts-bengal-king-jhal-chanachur",
@@ -8938,9 +9532,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:08Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/jhal111.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/jhal111.png?itok=fMPpVVow",
+     "alt": "Front of container, Bengal King Jhal Chanachur"
+    },
+    {
+     "src": "https://www.fda.gov/files/jhal222.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/jhal222.png?itok=wujXQd_t",
+     "alt": "Back of container, Bengal King Jhal Chanachur"
+    }
+   ],
+   "company_announcement_date": "2025-12-12"
   },
   {
    "id": "town-food-service-equipment-co-inc-recalls-aluminum-saucepans-because-possible-health-risk",
@@ -8957,9 +9563,41 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:10Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/tw1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw1.jpeg?itok=8F5O57B7",
+     "alt": "Front Box Label, Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    },
+    {
+     "src": "https://www.fda.gov/files/tw2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw2.jpeg?itok=J0E8TzN4",
+     "alt": "Side Box Label, Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    },
+    {
+     "src": "https://www.fda.gov/files/tw3.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw3.jpeg?itok=oqyDvodw",
+     "alt": "Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    },
+    {
+     "src": "https://www.fda.gov/files/tw4.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw4.jpeg?itok=HYEX3a_V",
+     "alt": "Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    },
+    {
+     "src": "https://www.fda.gov/files/tw5.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw5.jpeg?itok=JkyqzAgL",
+     "alt": "Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    },
+    {
+     "src": "https://www.fda.gov/files/tw6.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tw6.jpeg?itok=Z42Lft5K",
+     "alt": "Town Food Service Equipment Co. 1.5qt alloy metal alumnium sauce pan"
+    }
+   ],
+   "company_announcement_date": "2025-12-12"
   },
   {
    "id": "white-castle-frozen-food-division-recalls-frozen-4-count-cartons-original-sliders-due-undeclared",
@@ -8976,9 +9614,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:12Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_2.jpeg?itok=dTcGaOtt",
+     "alt": "Front of Box, White Castle frozen original sliders"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_3.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_3.jpeg?itok=c5Z6QHbF",
+     "alt": "Back of Box with UPC, White Castle frozen original sliders"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_1.jpeg?itok=QJnp6t3v",
+     "alt": "Lot code location, White Castle frozen original sliders"
+    }
+   ],
+   "company_announcement_date": "2025-12-12"
   },
   {
    "id": "medinatura-new-mexico-inc-issues-voluntary-nationwide-recall-reboost-nasal-spray-due-microbial",
@@ -8995,9 +9650,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:14Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/bottol.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bottol.jpg?itok=I2nqnTYb",
+     "alt": "Bottle Label, ReBoost Nasal Spray, 20mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/cartoon.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/cartoon.jpg?itok=T0hI7SPH",
+     "alt": "Carton Label, ReBoost Nasal Spray, 20mL"
+    }
+   ],
+   "company_announcement_date": "2025-12-10"
   },
   {
    "id": "bakkavor-usa-issues-allergy-alert-16-ounce-meal-simple-red-lentil-dal-soup-due-undeclared-milk",
@@ -9014,9 +9681,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:17Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/bakkavor_final_press_release_meal_simple_red_lentil_dal_120920215.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bakkavor_final_press_release_meal_simple_red_lentil_dal_120920215.jpeg?itok=1WRCX1LH",
+     "alt": "Front of container, Meal Simple Red Lentil Dal Soup"
+    },
+    {
+     "src": "https://www.fda.gov/files/bakkavor_final_press_release_meal_simple_red_lentil_dal_12092025.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/bakkavor_final_press_release_meal_simple_red_lentil_dal_12092025.jpeg?itok=sU9iS9e0",
+     "alt": "Bottom of container with coding, Meal Simple Red Lentil Dal Soup"
+    }
+   ],
+   "company_announcement_date": "2025-12-09"
   },
   {
    "id": "lunds-byerlys-voluntary-recalls-lb-monster-cookies-due-incorrect-labeling",
@@ -9033,9 +9712,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:19Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/lungs_0.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/lungs_0.jpeg?itok=AmPNyztK",
+     "alt": "Image of Lunds & Byerlys Monster Cookie, 10 oz package"
+    }
+   ],
+   "company_announcement_date": "2025-12-09"
   },
   {
    "id": "cargill-conducts-voluntary-recall-single-lot-nutrenar-country-feedsr-cracked-corn-livestock-due",
@@ -9053,9 +9739,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:21Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1car.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1car.jpeg?itok=DaMaBDZk",
+     "alt": "Front of bag, Nutrena Country Feeds Cracked Corn for Livestock"
+    },
+    {
+     "src": "https://www.fda.gov/files/2car.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2car.jpeg?itok=Cq-Quhl-",
+     "alt": "Back of bag, Nutrena Country Feeds Cracked Corn for Livestock"
+    }
+   ],
+   "company_announcement_date": "2025-12-09"
   },
   {
    "id": "tbc-distribution-corporate-recalls-lucky-foods-brand-cinnamon-powder-because-possible-health-risk",
@@ -9072,9 +9770,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:23Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture1_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture1_7.png?itok=S0aKLSeX",
+     "alt": "Front of package, Lucky Foods Cinnamon Powder"
+    }
+   ],
+   "company_announcement_date": "2025-12-09"
   },
   {
    "id": "lil-turtles-issues-voluntary-recall-due-undeclared-milk-allergen",
@@ -9091,9 +9796,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:25Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/tomato_soup_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/tomato_soup_0.jpg?itok=I87inKhH",
+     "alt": "Grandma Belle’s Tomato Basil Soup"
+    }
+   ],
+   "company_announcement_date": "2025-12-05"
   },
   {
    "id": "mellace-family-brands-california-inc-recalls-wegmans-deluxe-mixed-nuts-unsalted-34-oz-and-115-oz",
@@ -9110,9 +9822,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:27Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_1.jpeg?itok=bBoPFZvs",
+     "alt": "Wegmans Deluxe Mixed Nuts Unsalted 34 oz (964 grams)"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_2.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_2.jpeg?itok=p7TOFm-l",
+     "alt": "Back Label, Nutrition Facts, Lot code: 58041 BEST BY: JUL 28, 2026"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_0.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_0.jpeg?itok=Q0xg6SKy",
+     "alt": "Wegmans Deluxe Mixed Nuts Unsalted 11.5 oz (326 grams) bag"
+    },
+    {
+     "src": "https://www.fda.gov/files/4.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4.jpeg?itok=S-uGegtQ",
+     "alt": "Back label, Nutrition Facts, Lot code: 58171 BEST BY: AUG 10, 2026"
+    }
+   ],
+   "company_announcement_date": "2025-12-05"
   },
   {
    "id": "fromm-family-foods-voluntarily-recalls-bonnihill-beefibowls-food-dogs-due-potential-foreign-material",
@@ -9134,9 +9868,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:29Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_212.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_212.jpg?itok=eDheZwUm",
+     "alt": "“Bonnihill Farms, BEEFiBOWLS, Beef Recipe For Dogs chub”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_166.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_166.jpg?itok=1a-l8BUw",
+     "alt": "“Best By 12/25/2026, Back Label, Ingredients list”"
+    }
+   ],
+   "company_announcement_date": "2025-12-03"
   },
   {
    "id": "vetoquinol-usa-inc-recalls-six-lots-folltropin-injectable-kits-cattle-due-presence-particulate",
@@ -9153,9 +9899,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:31Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/foll.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/foll.jpg?itok=milsINKf",
+     "alt": "FOLLTROPIN, Porcine Pituitary-Derived Follicle Stimulating Hormone for Injection for cattle, kit"
+    }
+   ],
+   "company_announcement_date": "2025-11-26"
   },
   {
    "id": "mondelez-global-llc-conducts-limited-voluntary-recall-1-sku-ritz-peanut-butter-cracker-sandwiches",
@@ -9173,9 +9926,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:33Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_142.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_142.png?itok=sEb2AWOU",
+     "alt": "Ritz peanut butter cracker sandwiches, 20 packs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_106.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_106.png?itok=iSfih2rZ",
+     "alt": "Ritz peanut butter cracker sandwiches, 20 packs, product image"
+    }
+   ],
+   "company_announcement_date": "2025-11-29"
   },
   {
    "id": "prairie-farms-announces-recall-prairie-farms-gallon-fat-free-milk",
@@ -9193,9 +9958,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:36Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_140.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_140.png?itok=a27Oo4-V",
+     "alt": "Image of code and time stamp"
+    },
+    {
+     "src": "https://www.fda.gov/files/pf_fat_free_milk_gallon_code_date_and_dubuque_plant_code_photo.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/pf_fat_free_milk_gallon_code_date_and_dubuque_plant_code_photo.jpg?itok=OIxxzXS1",
+     "alt": "Photograph of printed date code and time stamp on gallon milk container"
+    },
+    {
+     "src": "https://www.fda.gov/files/pf_fat_free_milk_gallon_label_photo.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/pf_fat_free_milk_gallon_label_photo.jpg?itok=Kl6Nq9D6",
+     "alt": "Photograph of front label of gallon milk container"
+    },
+    {
+     "src": "https://www.fda.gov/files/picture2_1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture2_1.png?itok=ydyXDq1s",
+     "alt": "Image of gallon milk container"
+    }
+   ],
+   "company_announcement_date": "2025-11-25"
   },
   {
    "id": "wegmans-recalls-locatelli-grated-pecorino-romano-cheese-due-possible-health-risk",
@@ -9213,9 +10000,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:38Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_210.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_210.jpg?itok=s17UqFJz",
+     "alt": "Loctelli Grated Pecorino Romano"
+    }
+   ],
+   "company_announcement_date": "2025-11-26"
   },
   {
    "id": "silvestri-sweets-issues-voluntary-allergy-alert-undeclared-pecan-and-wheat-cookie-butter-holiday",
@@ -9233,9 +10027,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:40Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_211.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_211.jpg?itok=MtyPQXK6",
+     "alt": "Front label panel of Choceur Cookie Butter Holiday Bark in 5 oz. bags"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_165.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_165.jpg?itok=0Oivc1yM",
+     "alt": "Back label panel of Choceur Cookie Butter Holiday Bark in 5 oz. bags"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_91.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_91.jpg?itok=qV1JjZXG",
+     "alt": "Front label panel of Choceur Pecan Cranberry & Cinnamon Holiday Bark in 5 oz. bags"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_66.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_66.jpg?itok=wOsbBNPb",
+     "alt": "Back label panel of Choceur Pecan Cranberry & Cinnamon Holiday bark in 5 oz. bags"
+    }
+   ],
+   "company_announcement_date": "2025-11-26"
   },
   {
    "id": "anthonys-bbq-issues-allergy-alert-undeclared-fish-anchovy-anthonys-barbecue-dip-it-sauce",
@@ -9250,9 +10066,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:42Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_141.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_141.png?itok=3BEoar59",
+     "alt": "Anthony’s Barbecue & Dip-It Sauce in 15 oz. glass bottles"
+    }
+   ],
+   "company_announcement_date": "2025-11-23"
   },
   {
    "id": "mamtakim-inc-recalls-dried-whole-smelts-salted-korushka-because-possible-health-risk",
@@ -9270,9 +10093,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:44Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_208.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_208.jpg?itok=VfFEWD69",
+     "alt": "Dried Salted Whole Smelts, 5.29 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_163.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_163.jpg?itok=WlZfe9Rv",
+     "alt": "Dried Salted Not-Gutted Mullet, 5.29 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_89.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_89.jpg?itok=9pTMpMcL",
+     "alt": "Dried Salted Gutted Goby, 5.29 oz."
+    }
+   ],
+   "company_announcement_date": "2025-11-25"
   },
   {
    "id": "supreme-deli-llc-voluntarily-recalls-boars-head-pecorino-romano-cheese-because-possible-health-risk",
@@ -9289,9 +10129,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:46Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/labels_11.22.2025_1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/labels_11.22.2025_1.jpg?itok=sbQgGEKY",
+     "alt": "Image 1: Boar’s Head EverRoast Chicken Caesar Salad, 8.5 oz.   Image 2: Boar’s Head EverRoast Chicken Caesar Wrap, 11.25 oz."
+    }
+   ],
+   "company_announcement_date": "2025-11-24"
   },
   {
    "id": "prime-food-processing-llc-issues-allergy-alert-undeclared-milk-lava-bun-w-salted-egg-yolk-and-lava",
@@ -9309,9 +10156,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:48Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/allergen_press_template_-_prime_food_processing_llc_press_release_fda_final_rev1_11.20_-_1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/allergen_press_template_-_prime_food_processing_llc_press_release_fda_final_rev1_11.20_-_1.jpeg?itok=0E-fONiC",
+     "alt": "Product packaging, Prime Food brand Lava Bun with Salted Egg Yolk"
+    },
+    {
+     "src": "https://www.fda.gov/files/product_packaging_prime_food_brand_lava_bun_with_green_tea_flavor3.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/product_packaging_prime_food_brand_lava_bun_with_green_tea_flavor3.jpeg?itok=MA4Rf-vl",
+     "alt": "Product packaging, Prime Food brand Lava Bun with Green Tea Flavor"
+    }
+   ],
+   "company_announcement_date": "2025-11-20"
   },
   {
    "id": "shata-traders-inc-recalls-chef-brand-milk-pan-24cm-because-possible-health-risk",
@@ -9328,9 +10187,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:50Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-11-19"
   },
   {
    "id": "jenis-splendid-ice-cream-voluntarily-recalls-passion-fruit-dreamsicle-ice-cream-bars-due-undeclared",
@@ -9348,9 +10208,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:52Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_139.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_139.png?itok=rPDY3miH",
+     "alt": "Jeni’s Splendid Ice cream bars, front label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_162.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_162.jpg?itok=U8b_paM_",
+     "alt": "Jeni’s Splendid Ice cream bars, back label"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_88.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_88.jpg?itok=4QvUTZ_K",
+     "alt": "Jeni’s Splendid Ice cream bars,  BEST BY OCT 2026"
+    }
+   ],
+   "company_announcement_date": "2025-11-17"
   },
   {
    "id": "mangalm-llc-recalls-tops-mixed-fruit-jam-and-tops-strawberry-jam-product-because-possible-health",
@@ -9368,9 +10245,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:54Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-11-07"
   },
   {
    "id": "face-rock-creamery-llc-recalls-6oz-vampire-slayer-garlic-cheddar-because-possible-health-risk",
@@ -9388,9 +10266,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:56Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_207.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_207.jpg?itok=vyBfe01E",
+     "alt": "Front of package, Face Rock Creamery Vampire Slayer Garlic Cheddar"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_161.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_161.jpg?itok=NETXgMIE",
+     "alt": "Back of package, Face Rock Creamery Vampire Slayer Garlic Cheddar"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_87.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_87.jpg?itok=0kU1XkJl",
+     "alt": "Use by date sticker, Face Rock Creamery Vampire Slayer Garlic Cheddar"
+    }
+   ],
+   "company_announcement_date": "2025-11-14"
   },
   {
    "id": "food-live-voluntarily-recalls-organic-moringa-products-because-possible-health-risk",
@@ -9408,9 +10303,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:35:59Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_138.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_138.png?itok=24MyfQhv",
+     "alt": "Food to Live Organic Supergreens Powder Mix in package (Front view)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_104.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_104.png?itok=CXXS9w3m",
+     "alt": "Food to Live Organic Supergreens Powder Mix in package (back label)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_66.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_66.png?itok=E0Bh_EjJ",
+     "alt": "Food to Live Organic Moringa Leaf Powder in package (front view)"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_52.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_52.png?itok=V5Hb9NYS",
+     "alt": "Food to Live Organic Moringa Leaf Powder in package (back label)"
+    }
+   ],
+   "company_announcement_date": "2025-11-12"
   },
   {
    "id": "africa-imports-issues-voluntary-recall-organic-moringa-leaf-powder-due-potential-salmonella",
@@ -9427,9 +10344,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:01Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/M-P697KG.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/M-P697KG.jpg?itok=uc645RIm",
+     "alt": "Organic Moringa Powder in package, Net Wt. 1 kg"
+    },
+    {
+     "src": "https://www.fda.gov/files/m-p695_label_photo.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/m-p695_label_photo.jpg?itok=DoSaLwz1",
+     "alt": "Organic Moringa Powder label, Net Wt. 1 kg"
+    }
+   ],
+   "company_announcement_date": "2025-11-12"
   },
   {
    "id": "byheart-updates-information-regarding-voluntary-recall-all-batches-byheart-whole-nutrition-infant",
@@ -9447,9 +10376,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:03Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_206.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_206.jpg?itok=L9oinUyn",
+     "alt": "ByHeart Whole Nutrition Infant Formula, 24 oz tub"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_160.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_160.jpg?itok=6Ur6iVAI",
+     "alt": "UPC Code Location, ByHeart Whole Nutrition Infant Formula, 24 oz tub"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_86.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_86.jpg?itok=NmGKsRP1",
+     "alt": "ByHeart Whole Nutrition Infant Formula package with 14/0.6 oz packets"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_64.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_64.jpg?itok=aSIChL7u",
+     "alt": "Code information, ByHeart Whole Nutrition Infant Formula package with 14/0.6 oz packets"
+    }
+   ],
+   "company_announcement_date": "2025-11-11"
   },
   {
    "id": "moonlight-companies-voluntarily-recalls-california-grown-conventional-yellow-and-white-peaches",
@@ -9466,9 +10417,71 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:05Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_8.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_8.jpg?itok=N5h4A1rJ",
+     "alt": "Carton for Moonlight Yellow Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_11.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_11.jpg?itok=jOKee15v",
+     "alt": "Carton for Moonlight WhitePeaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/3_7.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3_7.jpg?itok=Fwpf2M2k",
+     "alt": "Carton for Moonlight White Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_2.jpg?itok=91nd1c1P",
+     "alt": "Carton for Moonlight Peppermint Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/5.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/5.jpg?itok=4WsjQCy1",
+     "alt": "Bag for Peppermint Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/6.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6.jpg?itok=Ucyfwo27",
+     "alt": "Clamshell for Peppermint Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/7.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/7.jpg?itok=yO30RmFw",
+     "alt": "Carton for Moonlight Peppermint White Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/8.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/8.jpg?itok=R6gwqedE",
+     "alt": "Bag for Moonlight White Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/9.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/9.jpg?itok=KXhYy0ns",
+     "alt": "Bag for Kroger Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/10.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/10.jpg?itok=f6FqdWIT",
+     "alt": "Bag for Moonlight Peaches"
+    },
+    {
+     "src": "https://www.fda.gov/files/11.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/11.jpg?itok=c58hW2v-",
+     "alt": "Image of Moonlight Peaches PLU Stickers"
+    },
+    {
+     "src": "https://www.fda.gov/files/12.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/12.jpg?itok=unn1zmR9",
+     "alt": "Image of Case label for Lot and Facility Code Identification"
+    }
+   ],
+   "company_announcement_date": "2025-11-08"
   },
   {
    "id": "response-broader-fda-investigation-byheart-initiates-voluntary-recall-two-batches-infant-formula",
@@ -9485,9 +10498,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:07Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_0.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_0.jpeg?itok=SWgTSdIQ",
+     "alt": "ByHeart infant formula, Net Wt. 24 oz product image"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_1.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_1.jpeg?itok=G8ZvfMzo",
+     "alt": "Batch Code: 251261P2, Use by: 01 Dec 2026; Batch Code: 251131P2, Use by: 01 Dec 2026 at bottom of can"
+    },
+    {
+     "src": "https://www.fda.gov/files/3.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/3.jpeg?itok=nYZw8Jn6",
+     "alt": "ByHeart Infant formula Back label UPC: 5004496800"
+    }
+   ],
+   "company_announcement_date": "2025-11-08"
   },
   {
    "id": "fresenius-kabi-issues-voluntary-nationwide-recall-three-lots-famotidine-injection-usp-20-mg-2-ml-10",
@@ -9504,9 +10534,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:09Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/vial-label-lot-6133194.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/vial-label-lot-6133194.jpg?itok=ZEnON9xv",
+     "alt": "Vial label for Famotidine Injection, USP 20 mg per 2 mL Lot: 6133194, 2 mL"
+    },
+    {
+     "src": "https://www.fda.gov/files/vial-label-lot-6133388.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/vial-label-lot-6133388.jpg?itok=xI1bYkif",
+     "alt": "Vial label for Famotidine Injection, USP 20 mg per 2 mL Lot: 6133388, 2 mL"
+    }
+   ],
+   "company_announcement_date": "2025-11-06"
   },
   {
    "id": "african-food-wheels-inc-recalls-oven-dried-fish-scomberomorus-cavalla-because-possible-health-risk",
@@ -9523,9 +10565,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:11Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-11-05"
   },
   {
    "id": "blue-oven-bakery-inc-issues-voluntary-recall-due-undeclared-milk-allergens-their-english-muffin",
@@ -9542,9 +10585,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:13Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-10-31"
   },
   {
    "id": "dreyers-grand-ice-cream-inc-issues-allergy-alert-undeclared-wheat-haagen-dazs-chocolate-dark",
@@ -9561,9 +10605,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:16Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/picture11.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture11.png?itok=KySPViAm",
+     "alt": "Product front panel for Haagen-Dazs mini chocolate dark chocolate ice cream bars, 6 bars"
+    },
+    {
+     "src": "https://www.fda.gov/files/picture12.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture12.png?itok=rQ0hHu9f",
+     "alt": "Batch Code for Haagen-Dazs mini chocolate dark chocolate ice cream bars, 6 bars"
+    },
+    {
+     "src": "https://www.fda.gov/files/picture13.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture13.png?itok=CsuGpBye",
+     "alt": "UPC for Haagen-Dazs mini chocolate dark chocolate ice cream bars, 6 bars"
+    }
+   ],
+   "company_announcement_date": "2025-11-03"
   },
   {
    "id": "siluetaya-recalls-tejocote-product-because-possible-health-risk",
@@ -9580,9 +10641,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:18Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_204.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_204.jpg?itok=2X6osp7u",
+     "alt": "Bottle of SiluetaYa Tejocote Root supplement pieces, 0.25 oz."
+    }
+   ],
+   "company_announcement_date": "2025-11-04"
   },
   {
    "id": "jfe-franchising-inc-issues-voluntary-recall-associated-nationwide-peach-recall-because-possible",
@@ -9600,9 +10668,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:20Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_205.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_205.jpg?itok=moxLP8nI",
+     "alt": "“Label, Snow Fruit Peach Salsa, 16 oz”"
+    }
+   ],
+   "company_announcement_date": "2025-11-04"
   },
   {
    "id": "first-and-last-bakery-llc-recalls-first-and-last-brand-tomato-sauce-products-because-possible-health",
@@ -9619,9 +10694,41 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:22Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/fl1.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl1.png?itok=zUxbd1Ao",
+     "alt": "Front label, First & Last Original Traditional Pasta Sauce Meat Flavored"
+    },
+    {
+     "src": "https://www.fda.gov/files/fl2.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl2.png?itok=Ok4hBslA",
+     "alt": "Back label, First & Last Original Traditional Pasta Sauce Meat Flavored"
+    },
+    {
+     "src": "https://www.fda.gov/files/fl3.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl3.png?itok=vJYe95Uv",
+     "alt": "Front label, First & Last Original Puttanesca Sauce"
+    },
+    {
+     "src": "https://www.fda.gov/files/fl4.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl4.png?itok=liMjuGxG",
+     "alt": "Back label, First & Last Original Puttanesca Sauce"
+    },
+    {
+     "src": "https://www.fda.gov/files/fl5.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl5.png?itok=y6HboKxo",
+     "alt": "Front Label, First & Last Original Marinara Sauce, Tomato and Basil"
+    },
+    {
+     "src": "https://www.fda.gov/files/fl6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/fl6.png?itok=s9O1LUwi",
+     "alt": "Back Label, First & Last Original Marinara Sauce, Tomato and Basil"
+    }
+   ],
+   "company_announcement_date": "2025-10-31"
   },
   {
    "id": "otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-20-meq-potassium-chloride-injection-due",
@@ -9638,9 +10745,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:24Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/incorrect_1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/incorrect_1.jpg?itok=K-SeyrKg",
+     "alt": "Incorrect Overwrap label showing 10 mEq Potassium chloride injection"
+    },
+    {
+     "src": "https://www.fda.gov/files/correct.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/correct.jpg?itok=h43_NZsN",
+     "alt": "Correct Overwrap label showing 20 mEq Potassium chloride injection"
+    },
+    {
+     "src": "https://www.fda.gov/files/mislabelled.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/mislabelled.jpg?itok=KnK5a_VY",
+     "alt": "Overwrap and Product Image Mislabeled Example"
+    }
+   ],
+   "company_announcement_date": "2025-10-31"
   },
   {
    "id": "olympus-issues-voluntary-labeling-update-bronchoscopes-used-laser-therapy-equipment",
@@ -9657,9 +10781,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:26Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-10-31"
   },
   {
    "id": "supreme-produce-llc-voluntarily-recalls-moonlight-peaches-because-possible-health-risk",
@@ -9676,9 +10801,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:28Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/Supremeproduce.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/Supremeproduce.jpg?itok=oAoaReQ_",
+     "alt": "Supreme Produce Peach Salsa, 14 oz."
+    }
+   ],
+   "company_announcement_date": "2025-10-30"
   },
   {
    "id": "vanguard-enterprises-llc-dba-bedrock-mfg-recalls-monarch-premium-kratom-powder-because-possible",
@@ -9696,9 +10828,36 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:30Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_137.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_137.png?itok=KuTs4SM0",
+     "alt": "Image of Monarch Premium Bali Gold Kratom Powder Container"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_103.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_103.png?itok=36COvZTz",
+     "alt": "Image of Monarch Premium Red Bali Kratom Powder Container"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_65.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_65.png?itok=0uyqNGEk",
+     "alt": "Image of Monarch Premium Green Maeng Da Kratom Powder Container"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_51.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_51.png?itok=7BMYf3G6",
+     "alt": "Image of Monarch Premium White Elephant Kratom Powder Container"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_40.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_40.jpg?itok=CPZc_WYv",
+     "alt": "Image of back of packet, Green Maeng Da Kratom Powder"
+    }
+   ],
+   "company_announcement_date": "2025-10-30"
   },
   {
    "id": "new-hoque-sons-inc-issues-alert-uneviscerated-dry-ghoinnya-fish",
@@ -9715,9 +10874,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:32Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/Picture5_7.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/Picture5_7.jpg?itok=KG029Dsk",
+     "alt": "Labeling, New Hoque & Sons, Dry Ghoinnya Fish"
+    }
+   ],
+   "company_announcement_date": "2025-10-29"
   },
   {
    "id": "hampton-farms-recalls-mixed-nuts-roasted-unsalted-8-oz-and-mixed-nuts-roasted-and-salted-8-oz",
@@ -9734,9 +10900,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:34Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/mixed_nuts_roasted_no_salt_press.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/mixed_nuts_roasted_no_salt_press.jpeg?itok=jYjJ3i6g",
+     "alt": "Mixed Nuts Roasted No Salt"
+    },
+    {
+     "src": "https://www.fda.gov/files/mixed_nuts_roasted_salted_press.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/mixed_nuts_roasted_salted_press.jpeg?itok=KjzISshp",
+     "alt": "Mixed Nuts Roasted Salted"
+    }
+   ],
+   "company_announcement_date": "2025-09-26"
   },
   {
    "id": "pacific-international-marketing-recalls-fresh-italian-parsley-because-possible-health-risk",
@@ -9754,9 +10932,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:38Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/revised_image_1_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/revised_image_1_0.jpg?itok=NThSCO5r",
+     "alt": "Image 1 - “Case side label, Italian Parsley, 4/24 CT, Distributed by Dynasty Farms”  Image 2 - “Case side label, Italian Parsley, 30 CT, Distributed by Dynasty Farms” Image 3 -“Case side label, Italian Parsley, 60 CT, Distributed by Dynasty Farms”  Image 4 -“Case side label, Italian Parsley, 60 CT, Distributed by Dynasty Farms”"
+    },
+    {
+     "src": "https://www.fda.gov/files/revised_image_2_2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/revised_image_2_2.jpg?itok=-z5bZzMO",
+     "alt": "Image 1 -“Case Label, PACIFIC fresh vegetables”  Image 2 - “Case Label, PACIFIC fresh herbs”"
+    },
+    {
+     "src": "https://www.fda.gov/files/revised_image_3.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/revised_image_3.jpg?itok=9NJdUP1k",
+     "alt": "Image 1 -\t“Front bag label, Pacific Italian Parsley”  Image 2 - “Back label, Nutrition Facts”"
+    },
+    {
+     "src": "https://www.fda.gov/files/revised_image_4.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/revised_image_4.jpg?itok=lGtgZgpd",
+     "alt": "“Bunch twist tie, PACIFIC FLAT PARSLEY, PLU #4901”"
+    }
+   ],
+   "company_announcement_date": "2025-10-28"
   },
   {
    "id": "homeneeds-inc-recalls-devi-brand-ground-cinnamon-dalchini-powder-because-possible-health-risk",
@@ -9774,9 +10974,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:40Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_136.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_136.png?itok=Gi07ToRw",
+     "alt": "“Front label, DEVI Cinnamon Powder, 3.5 oz.”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_102.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_102.png?itok=33ov2Qai",
+     "alt": "“Back label, Nutrition Facts”"
+    }
+   ],
+   "company_announcement_date": "2025-10-27"
   },
   {
    "id": "purity-products-announces-recall-dietary-supplement-my-bladder-because-possible-health-risk",
@@ -9793,9 +11005,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:42Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/purity_products_bottle_photo.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/purity_products_bottle_photo.jpg?itok=vh1aD5P7",
+     "alt": "My Bladder, 60 capsules."
+    }
+   ],
+   "company_announcement_date": "2025-10-28"
   },
   {
    "id": "teasdale-latin-foods-issues-allergy-alert-potential-undeclared-milk-certain-taco-dinner-kits",
@@ -9812,9 +11031,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:44Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/teaphotoshop1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/teaphotoshop1.jpg?itok=aZckNaRQ",
+     "alt": "Martin’s and Giant Crunchy Taco Dinner Kit"
+    },
+    {
+     "src": "https://www.fda.gov/files/teaphotoshop2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/teaphotoshop2.jpg?itok=DWbOfqef",
+     "alt": "Casa Mamita Soft Taco Dinner Kit"
+    },
+    {
+     "src": "https://www.fda.gov/files/a91ib50ts_ippo7_u5w.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/a91ib50ts_ippo7_u5w.png?itok=DMw-qfva",
+     "alt": "Photograph of examples of cocoa mix packet and taco seasoning packet"
+    }
+   ],
+   "company_announcement_date": "2025-10-25"
   },
   {
    "id": "peterson-company-recalls-twin-sisters-creamery-brand-whatcom-blue-and-farmhouse-cheese-products",
@@ -9831,9 +11067,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:46Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/whatcom_blue.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/whatcom_blue.jpeg?itok=SAlGusXZ",
+     "alt": "Twin Sisters Creamery, Whatcome Blue"
+    },
+    {
+     "src": "https://www.fda.gov/files/whatcom_blue_back_0.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/whatcom_blue_back_0.jpeg?itok=VGtfb9hF",
+     "alt": "Twin Sisters Creamery, Farmhouse Cheese"
+    }
+   ],
+   "company_announcement_date": "2025-10-26"
   },
   {
    "id": "ea-sween-company-announces-product-recall-due-choking-hazard",
@@ -9850,9 +11098,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:48Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/1_7.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/1_7.jpg?itok=x3VUK_RM",
+     "alt": "Front label of Deli Express BBQ Pulled Pork on a sesame bun, 5.5 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/picture2_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/picture2_0.png?itok=InxNfJoZ",
+     "alt": "Back label of Deli Express BBQ Pulled Pork on a sesame bun, 5.5 oz."
+    }
+   ],
+   "company_announcement_date": "2025-10-25"
   },
   {
    "id": "zingermans-candy-manufactory-issues-allergy-alert-undeclared-peanut-cashew-candy-bars",
@@ -9869,9 +11129,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:50Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/peanut_butter_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/peanut_butter_0.jpg?itok=h2WYs7La",
+     "alt": "Zingerman’s Candy, Peanut Butter Crush Candy Bar"
+    },
+    {
+     "src": "https://www.fda.gov/files/cashew_coe_0.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/cashew_coe_0.jpg?itok=e-T3GD9B",
+     "alt": "Zingerman’s Candy, Cas$hew Cow Candy Bar"
+    }
+   ],
+   "company_announcement_date": "2025-10-24"
   },
   {
    "id": "twin-sisters-creamery-recalls-whatcom-blue-farmhouse-peppercorn-and-mustard-seed-cheese-products",
@@ -9888,9 +11160,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:52Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/twinsisters1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/twinsisters1.jpg?itok=dFPTHI2P",
+     "alt": "Twin Sisters Whatcome Blue, Aged ≥ 60 days"
+    },
+    {
+     "src": "https://www.fda.gov/files/twinsisters2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/twinsisters2.jpg?itok=1YQB3mK3",
+     "alt": "Twin Sisters Farmhouse Cheese, Aged ≥ 60 days"
+    },
+    {
+     "src": "https://www.fda.gov/files/twinsisters3.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/twinsisters3.jpg?itok=8SAUrdRy",
+     "alt": "Twin Sisters Mustard Seed, Aged ≥ 60 days"
+    },
+    {
+     "src": "https://www.fda.gov/files/twinsisters4.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/twinsisters4.jpg?itok=-zvs4TC3",
+     "alt": "Twin Sisters Peppercorn, Aged ≥ 60 days"
+    }
+   ],
+   "company_announcement_date": "2025-10-25"
   },
   {
    "id": "haitai-inc-recalls-haetae-ht-brand-cinnamon-powder-8-oz-possible-risk",
@@ -9907,9 +11201,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:55Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/cinnamon_powder.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/cinnamon_powder.jpg?itok=a-s0yVcr",
+     "alt": "Cinnamon powder"
+    }
+   ],
+   "company_announcement_date": "2025-10-17"
   },
   {
    "id": "nats-nuts-issues-allergy-alert-potential-undeclared-cashews-nats-nuts-brand-cinnamon-whiskey-pecans",
@@ -9926,9 +11227,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:57Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/cinnamon_whiskey_nuts.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/cinnamon_whiskey_nuts.jpg?itok=GvVDsmyf",
+     "alt": "Cinnamon Whiskey Pecans"
+    }
+   ],
+   "company_announcement_date": "2025-10-17"
   },
   {
    "id": "publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
@@ -9946,9 +11254,21 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:36:59Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_203.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_203.jpg?itok=M_0Rp0_5",
+     "alt": "Labeling, Publix Rich & Creamy French Vanilla"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_159.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_159.jpg?itok=MvkVibX9",
+     "alt": "Labeling, Publix Rich & Creamy Vanilla"
+    }
+   ],
+   "company_announcement_date": "2025-10-14"
   },
   {
    "id": "kenz-henz-recalls-pastured-raised-eggs-because-possible-health-risk",
@@ -9965,9 +11285,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:01Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-10-16"
   },
   {
    "id": "jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
@@ -9985,9 +11306,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:03Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_135.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_135.png?itok=6HO-C8jV",
+     "alt": "Labeling, Front of package, Cabot Creamery, Sea Salt Caramel Cheddar"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_101.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_101.png?itok=8WB8JWT1",
+     "alt": "Labeling, Back of package, Cabot Creamery Sea Salt Caramel Cheddar"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_64.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_64.png?itok=3Uc78VJr",
+     "alt": "Labeling, lot code placement, Cabot Creamery Sea Salt Caramel Cheddar"
+    }
+   ],
+   "company_announcement_date": "2025-10-17"
   },
   {
    "id": "aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
@@ -10006,9 +11344,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:05Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/aquastar_table.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/aquastar_table.jpg?itok=ARYgNYWu",
+     "alt": "AquaStar Recalled Shrimp Containers"
+    }
+   ],
+   "company_announcement_date": "2025-10-18"
   },
   {
    "id": "bens-originaltm-issues-voluntary-recall-select-bens-original-long-grain-white-whole-grain-brown-and",
@@ -10026,9 +11371,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:07Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-10-10"
   },
   {
    "id": "raw-bistro-pet-fare-voluntarily-recalls-frozen-beef-entree-because-possible-salmonella-health-risk",
@@ -10050,9 +11396,31 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:09Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_134.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_134.png?itok=-9FBNo4v",
+     "alt": "“Raw bistro Dog Fare, Grass-fed beet entrée”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_100.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_100.png?itok=qVcVeCS6",
+     "alt": "“Back label, feeding guidelines, Best by: 08/27/2026, Lot 239”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_63.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_63.png?itok=xZJD4RNW",
+     "alt": "“Raw bistro Dog Fare, Grass-fed beet entrée, bulk box”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_50.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_50.png?itok=TFAMFRz9",
+     "alt": "“Back label, feeding guidelines, Best by: 08/27/2026, Lot 239”"
+    }
+   ],
+   "company_announcement_date": "2025-10-10"
   },
   {
    "id": "correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
@@ -10072,9 +11440,61 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:11Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_001.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_001.jpeg?itok=Li_T9V9C",
+     "alt": "Raw Dog Barkery, Treats for cats and dogs, Freeze-Dried Whole Chicken Hearts, 16 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/2_22.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_22.png?itok=DwjYa5Au",
+     "alt": "Freeze-Dried Whole Chicken Hearts, 16 oz, back label, Use by/Lot 030527"
+    },
+    {
+     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_003.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_003.jpeg?itok=UyBqBQDc",
+     "alt": "What’s In the Bowl Whole Chicken Hearts, 3 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/4_1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_1.jpg?itok=9C7FNhGt",
+     "alt": "What’s In the Bowl Whole Chicken Hearts, 3 oz, back label, Use by/Lot 030527"
+    },
+    {
+     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_5.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_5.jpeg?itok=ljyfOMQd",
+     "alt": "What’s In the Bowl Whole Chicken Hearts, 16 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/6_7.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_7.png?itok=X9PY3qQj",
+     "alt": "What’s In the Bowl Whole Chicken Hearts, 16 oz, back label, Use by/Lot 030527"
+    },
+    {
+     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_007.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_007.jpeg?itok=uEt6olA2",
+     "alt": "Kanu Freeze Dried Chicken Heart Raw Treats, 3 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/red%20Chicken10.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/red%20Chicken10.jpg?itok=HJwU0L5t",
+     "alt": "Kanu Freeze Dried Chicken Heart Raw Treats, back label, Use by/Lot 031627"
+    },
+    {
+     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_009.jpeg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_009.jpeg?itok=Ze-eQQXq",
+     "alt": "BellePepper Cats, Freeze Dried Chicken Heart Raw Treats, 3 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/green_chicken_2_0.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/green_chicken_2_0.png?itok=P34njEI1",
+     "alt": "BellePepper Cats, Freeze Dried Chicken Heart Raw Treats, back label, Use by/Lot 031627"
+    }
+   ],
+   "company_announcement_date": "2025-10-09"
   },
   {
    "id": "sprouts-farmers-market-recalling-smoked-mozzarella-pasta-salad-because-possible-health-risk",
@@ -10092,9 +11512,36 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:13Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_133.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_133.png?itok=87WmuuJa",
+     "alt": "“Product from service case”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_99.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_99.png?itok=edzJyXU6",
+     "alt": "“Sprouts Smoked Mozzarella Pasta Salad”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_62.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_62.png?itok=xmw0LBH4",
+     "alt": "“Nutrition Facts”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_49.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_49.png?itok=lCrycgIO",
+     "alt": "“Sprouts Smoked Mozzarella Pasta Salad”"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_33.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_33.png?itok=H1413KiI",
+     "alt": "“Nutrition Facts”"
+    }
+   ],
+   "company_announcement_date": "2025-10-08"
   },
   {
    "id": "tai-foong-usa-issues-allergy-alert-undeclared-shrimp-fusia-asian-inspirations-veggie-spring-rolls",
@@ -10112,9 +11559,26 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:16Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image1.jpg?itok=3U_s93dj",
+     "alt": "Fusia Asian Inspirations Veggie Spring Rolls NET WT 10 OZ. 283g, UPC 4099100222258"
+    },
+    {
+     "src": "https://www.fda.gov/files/image2.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image2.jpg?itok=vy0o6PDK",
+     "alt": "Fusia Asian Inspirations Veggie Spring Rolls NET WT 10 OZ. 283g, UPC 4099100222258"
+    },
+    {
+     "src": "https://www.fda.gov/files/image3_1.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image3_1.jpg?itok=AhpiZGJS",
+     "alt": "Fusia Asian Inspirations Veggie Spring Rolls NET WT 10 OZ. 283g, UPC 4099100222258"
+    }
+   ],
+   "company_announcement_date": "2025-10-08"
   },
   {
    "id": "trividia-health-inc-initiates-voluntary-recall-limited-number-true-metrixr-blood-glucose-meters",
@@ -10131,9 +11595,10 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:18Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [],
+   "company_announcement_date": "2025-10-07"
   },
   {
    "id": "durra-ground-cinnamon-100-g-because-possible-health-risk",
@@ -10153,9 +11618,16 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:20Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_132.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_132.png?itok=pwD31MLD",
+     "alt": "“Durra Ground Cinnamon 100 gram)"
+    }
+   ],
+   "company_announcement_date": "2025-10-07"
   },
   {
    "id": "sno-pac-foods-recalls-del-mar-35-lb-bulk-frozen-spinach-and-10-oz-organic-frozen-cut-spinach",
@@ -10173,9 +11645,36 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:01:01Z",
+   "retrieved": "2026-10-06T06:37:22Z",
    "status": "confirmed",
-   "photos": null
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_201.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_201.jpg?itok=IDP5vJmW",
+     "alt": "Case labeling code information location for Del Mar Food Products Organic IQF Chopped Spinach, 35 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_158.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_158.jpg?itok=73-QwCpe",
+     "alt": "Case labeling for Del Mar Food Products Organic IQF Chopped Spinach, 35 lbs"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_85.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_85.jpg?itok=k2w4GoPI",
+     "alt": "Back panel of Sno Pac Organic Cut Spinach, 10 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/image_4_63.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_63.jpg?itok=b6F3xZTp",
+     "alt": "Front panel of Sno Pac Organic Cut Spinach, 10 oz"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_5_39.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_39.jpg?itok=ysFUEMpi",
+     "alt": "Case labeling and code information location for Sno Pac Organic Cut Spanish, 10 oz"
+    }
+   ],
+   "company_announcement_date": "2025-10-06"
   }
  ],
  "major": [
@@ -10189,7 +11688,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:25Z",
+   "retrieved": "2026-10-06T06:37:26Z",
    "status": "confirmed"
   },
   {
@@ -10202,7 +11701,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:27Z",
+   "retrieved": "2026-10-06T06:37:28Z",
    "status": "confirmed"
   },
   {
@@ -10215,7 +11714,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:29Z",
+   "retrieved": "2026-10-06T06:37:30Z",
    "status": "confirmed"
   },
   {
@@ -10228,7 +11727,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:31Z",
+   "retrieved": "2026-10-06T06:37:32Z",
    "status": "confirmed"
   },
   {
@@ -10241,7 +11740,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:33Z",
+   "retrieved": "2026-10-06T06:37:34Z",
    "status": "confirmed"
   },
   {
@@ -10254,7 +11753,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:35Z",
+   "retrieved": "2026-10-06T06:37:37Z",
    "status": "confirmed"
   },
   {
@@ -10267,7 +11766,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:37Z",
+   "retrieved": "2026-10-06T06:37:39Z",
    "status": "confirmed"
   },
   {
@@ -10280,7 +11779,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:40Z",
+   "retrieved": "2026-10-06T06:37:41Z",
    "status": "confirmed"
   },
   {
@@ -10293,7 +11792,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:42Z",
+   "retrieved": "2026-10-06T06:37:43Z",
    "status": "confirmed"
   },
   {
@@ -10306,7 +11805,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:44Z",
+   "retrieved": "2026-10-06T06:37:45Z",
    "status": "confirmed"
   },
   {
@@ -10319,7 +11818,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:46Z",
+   "retrieved": "2026-10-06T06:37:47Z",
    "status": "confirmed"
   },
   {
@@ -10332,7 +11831,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:48Z",
+   "retrieved": "2026-10-06T06:37:49Z",
    "status": "confirmed"
   },
   {
@@ -10345,7 +11844,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-06T06:05:50Z",
+   "retrieved": "2026-10-06T06:37:51Z",
    "status": "confirmed"
   }
  ]
