@@ -22,7 +22,8 @@
   const state = {
     range: params.get('range') === 'day' ? 'day' : params.get('range') === 'week' ? 'week' : store.get('range', 'week'),
     end: /^\d{4}-\d{2}-\d{2}$/.test(params.get('end') || '') ? params.get('end') : today,
-    cats: store.get('cats', null), // null means every category
+    // null means every category. A link's ?cats= (e.g. from the LINE bot) wins over the saved picks.
+    cats: params.has('cats') ? params.get('cats').split(',').filter(Boolean) : store.get('cats', null),
   };
   const lastVisit = store.get('lastVisit', null);
   store.set('lastVisit', new Date().toISOString());
@@ -39,6 +40,7 @@
   function syncUrl() {
     const p = new URLSearchParams({ range: state.range });
     if (state.end !== today) p.set('end', state.end);
+    if (state.cats !== null) p.set('cats', state.cats.join(','));
     history.replaceState(null, '', `?${p}`);
   }
 
@@ -214,6 +216,7 @@
       const when = new Date(d.generated);
       $('#checked').textContent = `FDA recall report · last checked ${when.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
       renderCats(); render(); renderMajor();
+      if (params.get('slides') === '1' && shown.length) openDeck(0);
     })
     .catch(() => { $('#list').innerHTML = '<div class="card">Couldn\'t load the recall data. Try again shortly, or see <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts">FDA.gov</a>.</div>'; });
 })();
