@@ -29,8 +29,7 @@ TABLE = FDA + "/datatables/views/ajax?view_name=recall_solr_index&view_display_i
 RECALLS_PAGE = FDA + "/safety/recalls-market-withdrawals-safety-alerts"
 MAJOR_PAGE = FDA + "/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls"
 
-KEEP_DAYS = 365        # drop notices older than this
-BACKFILL_DAYS = 90     # on an empty file, start this far back
+KEEP_DAYS = 365        # keep (and backfill) notices this far back
 MAX_DETAIL_FETCHES = 120  # notice pages per run (2 s each); the rest are filled on later runs
 REFRESH_DAYS = 30      # companies often expand recalls: re-read notices this new once a day
 UA = "FoodTraceAtlas/0.1 (+https://github.com/EL9995/Food-Trace-Atlas)"
@@ -165,9 +164,9 @@ def main():
     today = datetime.now(timezone.utc).date()
     stamp = now_iso()
 
-    # 1. The recall table. A short pull normally; a deeper one when starting empty.
-    rows = json.loads(get(TABLE.format(n=400 if not by_id else 100)))["data"]
-    cutoff = (today - timedelta(days=BACKFILL_DAYS if not by_id else KEEP_DAYS)).isoformat()
+    # 1. The recall table: the newest 400 rows reach back more than a year in one request.
+    rows = json.loads(get(TABLE.format(n=400)))["data"]
+    cutoff = (today - timedelta(days=KEEP_DAYS)).isoformat()
     added = 0
     for r in parse_table(rows):
         if r["fda_publish_date"] < cutoff:
