@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T12:39:11Z",
+ "generated": "2026-10-07T18:35:58Z",
  "sources": [
   {
    "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
@@ -12,6 +12,62 @@
  ],
  "note": "Collected from FDA.gov every few hours. Not every recall is posted on FDA.gov (USDA FSIS handles most meat, poultry and egg recalls). Always confirm at FDA.gov.",
  "recalls": [
+  {
+   "id": "leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
+   "fda_publish_date": "2026-10-07",
+   "brands": "RAPTURE",
+   "product": "Preworkout Dietary Supplement Powder",
+   "types": [
+    "Dietary Supplements"
+   ],
+   "reason": "Product contains 1,3-Dimethylamylamine (DMAA)",
+   "company": "Leader Formulas, LLC.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-07T18:35:20Z",
+   "retrieved": "2026-10-07T18:35:25Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_250.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_250.png?itok=VRdJvaYK",
+     "alt": "Front panel of RAPTURE Preworkout Berry Mojito packaging"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_195.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_195.png?itok=8pdotajO",
+     "alt": "Front panel of RAPTURE Preworkout Rainbow Twist packaging"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_108.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_108.png?itok=1kSGwM_8",
+     "alt": "Front panel of RAPTURE Preworkout Electric Lemonade packaging"
+    }
+   ],
+   "company_announcement_date": "2026-10-06"
+  },
+  {
+   "id": "pacific-health-sciences-voluntarily-recalls-one-lot-babies-magic-tea-brand-baby-sleep-gripe-water",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pacific-health-sciences-voluntarily-recalls-one-lot-babies-magic-tea-brand-baby-sleep-gripe-water",
+   "fda_publish_date": "2026-10-07",
+   "brands": "Babies' Magic Tea",
+   "product": "Babies' Magic Tea brand Baby Sleep Gripe Water 4 oz bottle",
+   "types": [
+    "Dietary Supplements"
+   ],
+   "reason": "Product contains undeclared ethanol, methanol, and isopropanol",
+   "company": "Pacific Health Sciences",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-07T18:35:20Z",
+   "retrieved": "2026-10-07T18:35:27Z",
+   "status": "confirmed",
+   "photos": [],
+   "company_announcement_date": "2026-10-06"
+  },
   {
    "id": "nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
@@ -11713,7 +11769,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:45Z",
+   "retrieved": "2026-10-07T18:35:31Z",
    "status": "confirmed"
   },
   {
@@ -11726,7 +11782,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:47Z",
+   "retrieved": "2026-10-07T18:35:33Z",
    "status": "confirmed"
   },
   {
@@ -11739,7 +11795,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:49Z",
+   "retrieved": "2026-10-07T18:35:35Z",
    "status": "confirmed"
   },
   {
@@ -11752,7 +11808,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:51Z",
+   "retrieved": "2026-10-07T18:35:38Z",
    "status": "confirmed"
   },
   {
@@ -11765,7 +11821,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:53Z",
+   "retrieved": "2026-10-07T18:35:40Z",
    "status": "confirmed"
   },
   {
@@ -11778,7 +11834,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:55Z",
+   "retrieved": "2026-10-07T18:35:43Z",
    "status": "confirmed"
   },
   {
@@ -11791,7 +11847,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:38:58Z",
+   "retrieved": "2026-10-07T18:35:45Z",
    "status": "confirmed"
   },
   {
@@ -11804,7 +11860,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:00Z",
+   "retrieved": "2026-10-07T18:35:47Z",
    "status": "confirmed"
   },
   {
@@ -11817,7 +11873,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:02Z",
+   "retrieved": "2026-10-07T18:35:49Z",
    "status": "confirmed"
   },
   {
@@ -11830,7 +11886,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:04Z",
+   "retrieved": "2026-10-07T18:35:51Z",
    "status": "confirmed"
   },
   {
@@ -11843,7 +11899,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:06Z",
+   "retrieved": "2026-10-07T18:35:54Z",
    "status": "confirmed"
   },
   {
@@ -11856,7 +11912,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:09Z",
+   "retrieved": "2026-10-07T18:35:56Z",
    "status": "confirmed"
   },
   {
@@ -11869,7 +11925,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T12:39:11Z",
+   "retrieved": "2026-10-07T18:35:58Z",
    "status": "confirmed"
   }
  ]
