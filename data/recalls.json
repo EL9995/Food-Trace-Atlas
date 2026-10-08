@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T18:35:58Z",
+ "generated": "2026-10-08T00:41:18Z",
  "sources": [
   {
    "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
@@ -12,6 +12,43 @@
  ],
  "note": "Collected from FDA.gov every few hours. Not every recall is posted on FDA.gov (USDA FSIS handles most meat, poultry and egg recalls). Always confirm at FDA.gov.",
  "recalls": [
+  {
+   "id": "eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination",
+   "fda_publish_date": "2026-10-07",
+   "brands": "EDEN BROTHERS",
+   "product": "Broccoli Seeds - Calabrese",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Salmonella",
+   "company": "Eden Brothers LLC",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-08T00:40:39Z",
+   "retrieved": "2026-10-08T00:40:43Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_251.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_251.png?itok=Pa29vAvG",
+     "alt": "Image of Back Label: Broccoli Seeds – Calabrese - Packet and Net Wt. of 1 Ounce"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_2_196.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_196.png?itok=8G-Z4vKE",
+     "alt": "Image of Primary Label:  Broccoli Seeds – Calabrese - Packet and Net Wt. of 1 Ounce"
+    },
+    {
+     "src": "https://www.fda.gov/files/image_3_109.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_109.png?itok=hmOTJ817",
+     "alt": "Image of Primary Label: Broccoli Seeds – Calabrese - Net Wt.  of 1 Pound"
+    }
+   ],
+   "company_announcement_date": "2026-10-07"
+  },
   {
    "id": "leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
@@ -83,7 +120,7 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-07T00:41:23Z",
-   "retrieved": "2026-10-07T00:41:27Z",
+   "retrieved": "2026-10-08T00:40:45Z",
    "status": "confirmed",
    "photos": [],
    "company_announcement_date": "2026-10-05"
@@ -11660,102 +11697,6 @@
     }
    ],
    "company_announcement_date": "2025-10-08"
-  },
-  {
-   "id": "trividia-health-inc-initiates-voluntary-recall-limited-number-true-metrixr-blood-glucose-meters",
-   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/trividia-health-inc-initiates-voluntary-recall-limited-number-true-metrixr-blood-glucose-meters",
-   "fda_publish_date": "2025-10-07",
-   "brands": "TRUE METRIX",
-   "product": "Blood Glucose Meters",
-   "types": [
-    "Medical Devices"
-   ],
-   "reason": "Potential for defective LCD displays that can affect product performance",
-   "company": "Trividia Health, Inc.",
-   "terminated": false,
-   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
-   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:41:54Z",
-   "status": "confirmed",
-   "photos": [],
-   "company_announcement_date": "2025-10-07"
-  },
-  {
-   "id": "durra-ground-cinnamon-100-g-because-possible-health-risk",
-   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/durra-ground-cinnamon-100-g-because-possible-health-risk",
-   "fda_publish_date": "2025-10-07",
-   "brands": "Durra",
-   "product": "Ground cinnamon",
-   "types": [
-    "Food & Beverages",
-    "Contaminants",
-    "Spices",
-    "Flavors & Salts"
-   ],
-   "reason": "Potential Metal Contaminant - Lead",
-   "company": "Eureka Inc.",
-   "terminated": false,
-   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
-   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:41:56Z",
-   "status": "confirmed",
-   "photos": [
-    {
-     "src": "https://www.fda.gov/files/image_1_132.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_132.png?itok=pwD31MLD",
-     "alt": "“Durra Ground Cinnamon 100 gram)"
-    }
-   ],
-   "company_announcement_date": "2025-10-07"
-  },
-  {
-   "id": "sno-pac-foods-recalls-del-mar-35-lb-bulk-frozen-spinach-and-10-oz-organic-frozen-cut-spinach",
-   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sno-pac-foods-recalls-del-mar-35-lb-bulk-frozen-spinach-and-10-oz-organic-frozen-cut-spinach",
-   "fda_publish_date": "2025-10-07",
-   "brands": "Sno Pac/Del Mar",
-   "product": "Frozen Spinach",
-   "types": [
-    "Food & Beverages",
-    "Foodborne Illness"
-   ],
-   "reason": "Potential to be contaminated with Listeria monocytogenes",
-   "company": "Sno Pac Foods, Inc.",
-   "terminated": true,
-   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
-   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:41:58Z",
-   "status": "confirmed",
-   "photos": [
-    {
-     "src": "https://www.fda.gov/files/image_1_201.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_201.jpg?itok=IDP5vJmW",
-     "alt": "Case labeling code information location for Del Mar Food Products Organic IQF Chopped Spinach, 35 lbs"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_2_158.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_158.jpg?itok=73-QwCpe",
-     "alt": "Case labeling for Del Mar Food Products Organic IQF Chopped Spinach, 35 lbs"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_3_85.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_85.jpg?itok=k2w4GoPI",
-     "alt": "Back panel of Sno Pac Organic Cut Spinach, 10 oz."
-    },
-    {
-     "src": "https://www.fda.gov/files/image_4_63.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_63.jpg?itok=b6F3xZTp",
-     "alt": "Front panel of Sno Pac Organic Cut Spinach, 10 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_5_39.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_39.jpg?itok=ysFUEMpi",
-     "alt": "Case labeling and code information location for Sno Pac Organic Cut Spanish, 10 oz"
-    }
-   ],
-   "company_announcement_date": "2025-10-06"
   }
  ],
  "major": [
@@ -11769,7 +11710,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:31Z",
+   "retrieved": "2026-10-08T00:40:49Z",
    "status": "confirmed"
   },
   {
@@ -11782,7 +11723,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:33Z",
+   "retrieved": "2026-10-08T00:40:51Z",
    "status": "confirmed"
   },
   {
@@ -11795,7 +11736,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:35Z",
+   "retrieved": "2026-10-08T00:40:54Z",
    "status": "confirmed"
   },
   {
@@ -11808,7 +11749,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:38Z",
+   "retrieved": "2026-10-08T00:40:56Z",
    "status": "confirmed"
   },
   {
@@ -11821,7 +11762,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:40Z",
+   "retrieved": "2026-10-08T00:40:58Z",
    "status": "confirmed"
   },
   {
@@ -11834,7 +11775,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:43Z",
+   "retrieved": "2026-10-08T00:41:00Z",
    "status": "confirmed"
   },
   {
@@ -11847,7 +11788,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:45Z",
+   "retrieved": "2026-10-08T00:41:03Z",
    "status": "confirmed"
   },
   {
@@ -11860,7 +11801,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:47Z",
+   "retrieved": "2026-10-08T00:41:05Z",
    "status": "confirmed"
   },
   {
@@ -11873,7 +11814,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:49Z",
+   "retrieved": "2026-10-08T00:41:08Z",
    "status": "confirmed"
   },
   {
@@ -11886,7 +11827,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:51Z",
+   "retrieved": "2026-10-08T00:41:11Z",
    "status": "confirmed"
   },
   {
@@ -11899,7 +11840,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:54Z",
+   "retrieved": "2026-10-08T00:41:13Z",
    "status": "confirmed"
   },
   {
@@ -11912,7 +11853,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:56Z",
+   "retrieved": "2026-10-08T00:41:15Z",
    "status": "confirmed"
   },
   {
@@ -11925,7 +11866,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-07T18:35:58Z",
+   "retrieved": "2026-10-08T00:41:18Z",
    "status": "confirmed"
   }
  ]
