@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T18:34:10Z",
+ "generated": "2026-10-10T00:42:17Z",
  "sources": [
   {
    "name": "FDA Recalls, Market Withdrawals, & Safety Alerts",
@@ -12,6 +12,75 @@
  ],
  "note": "Collected from FDA.gov every few hours. Not every recall is posted on FDA.gov (USDA FSIS handles most meat, poultry and egg recalls). Always confirm at FDA.gov.",
  "recalls": [
+  {
+   "id": "krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk",
+   "fda_publish_date": "2026-10-09",
+   "brands": "Starfish Seafood",
+   "product": "Cold Smoked Salmon, Halibut, and Trout",
+   "types": [
+    "Food & Beverages",
+    "Foodborne Illness"
+   ],
+   "reason": "Potential to be contaminated with Listeria monocytogenes",
+   "company": "Krasnyi Oktyabr Inc.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-10T00:41:33Z",
+   "retrieved": "2026-10-10T00:41:38Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/image_1_296.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_296.jpg?itok=KmVzi4QH",
+     "alt": "Photograph of front label panel of Starfish Seafood Cold Smoked Seafood Trio Salmon Halibut Trout Sliced Fillet, 8 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/rev_image_2_6.png",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/rev_image_2_6.png?itok=ovoYkPjc",
+     "alt": "Photograph of back label panel of Starfish Seafood Cold Smoked Seafood Trio Salmon Halibut Trout Sliced Fillet, 8 oz."
+    }
+   ],
+   "company_announcement_date": "2026-10-09"
+  },
+  {
+   "id": "oliva-llc-issues-allergy-alert-undeclared-sesame-baba-ghanouj-spicy-baba-ghanouj-and-hummus",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/oliva-llc-issues-allergy-alert-undeclared-sesame-baba-ghanouj-spicy-baba-ghanouj-and-hummus",
+   "fda_publish_date": "2026-10-09",
+   "brands": "Riad's Oliva to Go",
+   "product": "Baba Ghanouj, Spicy Baba Ghanouj, and Hummus",
+   "types": [
+    "Food & Beverages",
+    "Allergens"
+   ],
+   "reason": "Undeclared sesame allergen",
+   "company": "Oliva LLC.",
+   "terminated": false,
+   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
+   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "first_seen": "2026-10-10T00:41:33Z",
+   "retrieved": "2026-10-10T00:41:40Z",
+   "status": "confirmed",
+   "photos": [
+    {
+     "src": "https://www.fda.gov/files/img_6929.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/img_6929.jpg?itok=FUbRylmg",
+     "alt": "Label for Riad’s Oliva to go Hummus, 14 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/img_6930.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/img_6930.jpg?itok=fndkpCfP",
+     "alt": "Label for Riad’s Oliva to go Spicy Baba Ghanouj, 14 oz."
+    },
+    {
+     "src": "https://www.fda.gov/files/img_6928.jpg",
+     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/img_6928.jpg?itok=99RqePC5",
+     "alt": "Label for Riad’s Oliva to go Baba Ghanouj, 14 oz."
+    }
+   ],
+   "company_announcement_date": "2026-10-09"
+  },
   {
    "id": "par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
@@ -59,7 +128,7 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-09T00:43:30Z",
-   "retrieved": "2026-10-09T00:43:35Z",
+   "retrieved": "2026-10-10T00:41:42Z",
    "status": "confirmed",
    "photos": [
     {
@@ -68,7 +137,8 @@
      "alt": "Gardeners Basics Waltham 29 Broccoli Sprouting Seeds, 1 pound"
     }
    ],
-   "company_announcement_date": "2026-10-08"
+   "company_announcement_date": "2026-10-08",
+   "notice_changed": "2026-10-10T00:41:42Z"
   },
   {
    "id": "eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination",
@@ -86,7 +156,7 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-08T00:40:39Z",
-   "retrieved": "2026-10-09T00:43:37Z",
+   "retrieved": "2026-10-10T00:41:44Z",
    "status": "confirmed",
    "photos": [
     {
@@ -105,7 +175,8 @@
      "alt": "Image of Primary Label: Broccoli Seeds – Calabrese - Net Wt.  of 1 Pound"
     }
    ],
-   "company_announcement_date": "2026-10-07"
+   "company_announcement_date": "2026-10-07",
+   "notice_changed": "2026-10-10T00:41:44Z"
   },
   {
    "id": "leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
@@ -190,7 +261,7 @@
    "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
    "first_seen": "2026-10-07T00:41:23Z",
-   "retrieved": "2026-10-09T00:43:39Z",
+   "retrieved": "2026-10-10T00:41:46Z",
    "status": "confirmed",
    "photos": [],
    "company_announcement_date": "2026-10-05"
@@ -11609,127 +11680,6 @@
     }
    ],
    "company_announcement_date": "2025-10-10"
-  },
-  {
-   "id": "correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
-   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
-   "fda_publish_date": "2025-10-09",
-   "brands": "Foodynamics",
-   "product": "Freeze Dried Pet Treats",
-   "types": [
-    "Animal & Veterinary",
-    "Foodborne Illness",
-    "Food & Beverages",
-    "Foodborne Illness"
-   ],
-   "reason": "Potential Foodborne Illness – Salmonella",
-   "company": "Foodynamics",
-   "terminated": false,
-   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
-   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:41:47Z",
-   "status": "confirmed",
-   "photos": [
-    {
-     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_001.jpeg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_001.jpeg?itok=Li_T9V9C",
-     "alt": "Raw Dog Barkery, Treats for cats and dogs, Freeze-Dried Whole Chicken Hearts, 16 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/2_22.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/2_22.png?itok=DwjYa5Au",
-     "alt": "Freeze-Dried Whole Chicken Hearts, 16 oz, back label, Use by/Lot 030527"
-    },
-    {
-     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_003.jpeg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_003.jpeg?itok=UyBqBQDc",
-     "alt": "What’s In the Bowl Whole Chicken Hearts, 3 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/4_1.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/4_1.jpg?itok=9C7FNhGt",
-     "alt": "What’s In the Bowl Whole Chicken Hearts, 3 oz, back label, Use by/Lot 030527"
-    },
-    {
-     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_5.jpeg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_5.jpeg?itok=ljyfOMQd",
-     "alt": "What’s In the Bowl Whole Chicken Hearts, 16 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/6_7.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/6_7.png?itok=X9PY3qQj",
-     "alt": "What’s In the Bowl Whole Chicken Hearts, 16 oz, back label, Use by/Lot 030527"
-    },
-    {
-     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_007.jpeg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_007.jpeg?itok=uEt6olA2",
-     "alt": "Kanu Freeze Dried Chicken Heart Raw Treats, 3 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/red%20Chicken10.jpg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/red%20Chicken10.jpg?itok=HJwU0L5t",
-     "alt": "Kanu Freeze Dried Chicken Heart Raw Treats, back label, Use by/Lot 031627"
-    },
-    {
-     "src": "https://www.fda.gov/files/corrected_foodynamics_recall_pr_2025-10-17_009.jpeg",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/corrected_foodynamics_recall_pr_2025-10-17_009.jpeg?itok=Ze-eQQXq",
-     "alt": "BellePepper Cats, Freeze Dried Chicken Heart Raw Treats, 3 oz"
-    },
-    {
-     "src": "https://www.fda.gov/files/green_chicken_2_0.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/green_chicken_2_0.png?itok=P34njEI1",
-     "alt": "BellePepper Cats, Freeze Dried Chicken Heart Raw Treats, back label, Use by/Lot 031627"
-    }
-   ],
-   "company_announcement_date": "2025-10-09"
-  },
-  {
-   "id": "sprouts-farmers-market-recalling-smoked-mozzarella-pasta-salad-because-possible-health-risk",
-   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sprouts-farmers-market-recalling-smoked-mozzarella-pasta-salad-because-possible-health-risk",
-   "fda_publish_date": "2025-10-09",
-   "brands": "Sprouts",
-   "product": "Smoked Mozzarella Pasta Salad",
-   "types": [
-    "Food & Beverages",
-    "Foodborne Illness"
-   ],
-   "reason": "Potential Foodborne Illness – Listeria monocytogenes",
-   "company": "Sprouts Farmers Market",
-   "terminated": true,
-   "source": "FDA Recalls, Market Withdrawals, & Safety Alerts",
-   "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "first_seen": "2026-10-06T06:01:01Z",
-   "retrieved": "2026-10-06T06:41:50Z",
-   "status": "confirmed",
-   "photos": [
-    {
-     "src": "https://www.fda.gov/files/image_1_133.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_1_133.png?itok=87WmuuJa",
-     "alt": "“Product from service case”"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_2_99.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_2_99.png?itok=edzJyXU6",
-     "alt": "“Sprouts Smoked Mozzarella Pasta Salad”"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_3_62.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_3_62.png?itok=xmw0LBH4",
-     "alt": "“Nutrition Facts”"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_4_49.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_4_49.png?itok=lCrycgIO",
-     "alt": "“Sprouts Smoked Mozzarella Pasta Salad”"
-    },
-    {
-     "src": "https://www.fda.gov/files/image_5_33.png",
-     "thumb": "https://www.fda.gov/files/styles/recall_image_small/public/image_5_33.png?itok=H1413KiI",
-     "alt": "“Nutrition Facts”"
-    }
-   ],
-   "company_announcement_date": "2025-10-08"
   }
  ],
  "major": [
@@ -11743,7 +11693,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:43Z",
+   "retrieved": "2026-10-10T00:41:50Z",
    "status": "confirmed"
   },
   {
@@ -11756,7 +11706,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:45Z",
+   "retrieved": "2026-10-10T00:41:52Z",
    "status": "confirmed"
   },
   {
@@ -11769,7 +11719,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:47Z",
+   "retrieved": "2026-10-10T00:41:55Z",
    "status": "confirmed"
   },
   {
@@ -11782,7 +11732,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:50Z",
+   "retrieved": "2026-10-10T00:41:57Z",
    "status": "confirmed"
   },
   {
@@ -11795,7 +11745,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:52Z",
+   "retrieved": "2026-10-10T00:41:59Z",
    "status": "confirmed"
   },
   {
@@ -11808,7 +11758,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:54Z",
+   "retrieved": "2026-10-10T00:42:01Z",
    "status": "confirmed"
   },
   {
@@ -11821,7 +11771,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:57Z",
+   "retrieved": "2026-10-10T00:42:03Z",
    "status": "confirmed"
   },
   {
@@ -11834,7 +11784,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:33:59Z",
+   "retrieved": "2026-10-10T00:42:05Z",
    "status": "confirmed"
   },
   {
@@ -11847,7 +11797,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:34:01Z",
+   "retrieved": "2026-10-10T00:42:08Z",
    "status": "confirmed"
   },
   {
@@ -11860,7 +11810,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:34:03Z",
+   "retrieved": "2026-10-10T00:42:10Z",
    "status": "confirmed"
   },
   {
@@ -11873,7 +11823,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:34:06Z",
+   "retrieved": "2026-10-10T00:42:12Z",
    "status": "confirmed"
   },
   {
@@ -11886,7 +11836,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:34:08Z",
+   "retrieved": "2026-10-10T00:42:15Z",
    "status": "confirmed"
   },
   {
@@ -11899,7 +11849,7 @@
    "updated_seen": null,
    "source": "FDA Major Product Recalls",
    "source_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-   "retrieved": "2026-10-09T18:34:10Z",
+   "retrieved": "2026-10-10T00:42:17Z",
    "status": "confirmed"
   }
  ]
